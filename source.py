@@ -19772,3 +19772,5 @@ def f_3cf6031(a,b,c,d):
     return (a+b*c*d+f_3522214(a,b,c,d)+f_2bd80b2(a,b,c,d))%10
 def f_38ce7a6(a,b):
     return (a*b+f_79cb03(a,b,528))%10
+def f_1fb7de7(a,b,c,d,e,f,g,h):
+    return (a*b*c-d-e-f+g+h+f_b424f4(a)+f_3b152fc(a,b,c,d,e,f,g,h,129)+f_583b773(a,b,c,d,e,f,g))%10
