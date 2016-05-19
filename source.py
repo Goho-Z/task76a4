@@ -9278,3 +9278,5 @@ def f_14d8cfa(a,b,c,d,e,f,g):
     return (a*b+c*d-e+f-g+f_1dd98d7(a,b,c,d,e,f,g))%10
 def f_7cd447(a,b,c,d,e,f,g,h,i,j):
     return (a+b*c+d*e*f*g-h+i-j+f_2ea7d3c(a)+f_12dcbeb(a,b,c,d,e,f,g,h,i,j))%10
+def f_34cb2c4(a,b,c,d,e,f,g,h,i,j):
+    return (a*b+c+d*e*f+g+h+i*j+f_236d0a0(a))%10
