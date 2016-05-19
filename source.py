@@ -2804,3 +2804,5 @@ def f_e22d3b(a,b,c,d,e,f):
     return (a-b*c-d-e-f+f_45d825c(a,b)+f_5ab63cb(a,b)+f_830280(a,b,c,d,e,f,683,346,187))%10
 def f_16a83db(a,b,c,d,e,f,g):
     return (a+b-c*d-e+f+g+f_56b708b(a,b,c,d,e,f)+f_40dda3b(a,b,c,d,e,f,g,516))%10
+def f_301622a(a,b,c):
+    return (a+b*c+f_9eacd1(a)+f_416ec8a(a,b,c,126,660,678))%10
