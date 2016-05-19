@@ -932,3 +932,5 @@ def f_32cc0d(a,b,c,d,e,f,g):
     return (a+b+c+d+e+f-g+f_3ce64d4(a,b))%10
 def f_4d7e6ce(a,b):
     return (a+b+f_230c9af(a,b)+f_3086624(a,b,602,405,797))%10
+def f_10e37be(a,b,c,d):
+    return (a-b+c+d+f_20d3ec1(a,b,c,d,719,612,112,815))%10
