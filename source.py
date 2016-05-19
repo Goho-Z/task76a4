@@ -68,3 +68,5 @@ def f_25fb1da(a,b,c,d,e,f,g):
     return (a*b+c*d-e*f+g+f_3e77575(a,b,c,d,e,f,g,671,573,64)+f_1543215(a,b,c))%10
 def f_dfc6ca(a,b,c):
     return (a+b+c+f_982326(a,b))%10
+def f_f79bd0(a,b,c,d,e,f,g,h,i,j):
+    return (a+b-c*d*e+f*g*h-i+j+f_2b14842(a,b,c,d,e))%10
