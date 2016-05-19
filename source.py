@@ -1030,3 +1030,5 @@ def f_42f3ff(a,b,c,d,e,f):
     return (a+b*c*d+e-f+f_10e37be(a,b,c,d))%10
 def f_1497f8a(a):
     return (a+f_1ce677a(a,298,188)+f_b2deff(a,723))%10
+def f_1ad71e9(a,b,c,d):
+    return (a-b*c-d+f_38f59d6(a,b))%10
