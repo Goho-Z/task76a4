@@ -1142,3 +1142,5 @@ def f_2e2f9c7(a,b):
     return (a-b+f_44057e9(a,b)+f_32749c8(a)+f_2d61965(a,b))%10
 def f_4119c27(a,b):
     return (a*b+f_4daee6(a))%10
+def f_5d4f7f8(a,b):
+    return (a+b+f_4ec8ff0(a,b,487,3,281))%10
