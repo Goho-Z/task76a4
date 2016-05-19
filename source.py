@@ -15400,3 +15400,5 @@ def f_2f00a2b(a,b,c,d,e,f,g):
     return (a-b*c-d-e+f*g+f_2d99e76(a,b,c,d))%10
 def f_38cfd30(a,b,c,d,e,f,g,h,i):
     return (a+b*c+d*e+f-g*h+i+f_5bcc531(a,b,c,d,e,f)+f_d63c11(a,b,c))%10
+def f_2010fdb(a):
+    return (a+f_b5b72(a,388,23,216,383,805,801)+f_541ca81(a,267,139,399,624,401,971,162,308))%10
