@@ -842,3 +842,5 @@ def f_58ac234(a,b,c,d,e,f,g,h,i):
     return (a+b+c-d*e*f*g+h+i+f_1212a7(a,b))%10
 def f_2eb7a08(a,b,c,d,e,f,g,h):
     return (a-b*c+d-e-f*g+h+f_32749c8(a)+f_185d34(a))%10
+def f_830280(a,b,c,d,e,f,g,h,i):
+    return (a-b+c+d+e-f*g+h-i+f_271d934(a,b,c,d,e,f,g)+f_49ab0a5(a,b,c,d,e,f,g)+f_5c08360(a,b,c,d))%10
