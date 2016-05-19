@@ -4006,3 +4006,5 @@ def f_d94493(a,b,c):
     return (a*b-c+f_1dd1341(a,b,c,21))%10
 def f_1d7cb8b(a,b,c,d,e):
     return (a+b+c-d-e+f_34fef64(a))%10
+def f_1da4d93(a,b,c,d,e,f,g,h,i,j):
+    return (a+b*c*d+e*f+g+h-i*j+f_1d64885(a,b,c,d,e,f))%10
