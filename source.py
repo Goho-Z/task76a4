@@ -13118,3 +13118,5 @@ def f_352c954(a,b):
     return (a*b+f_71c504(a,b,746,478,195,990,270))%10
 def f_3b0d97d(a):
     return (a+f_d3b508(a,903))%10
+def f_a44717(a,b,c,d,e):
+    return (a-b+c+d+e+f_25c7d08(a)+f_1793ab2(a,b,c,d,e))%10
