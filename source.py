@@ -1472,3 +1472,5 @@ def f_d0bcaf(a,b,c,d):
     return (a-b*c+d+f_218d38(a,b,c,d,665))%10
 def f_12f11df(a,b):
     return (a-b+f_1412e1f(a,b,345,687,938))%10
+def f_53372f9(a):
+    return (a+f_1185c60(a,983,119,839,440,469,799,877)+f_fa5c28(a,29,236)+f_365ee7e(a,754,332))%10
