@@ -3040,3 +3040,5 @@ def f_12bed20(a,b,c):
     return (a*b*c+f_1c67d75(a,b,c,51,400,258,753,903,712,715)+f_12dcbeb(a,b,c,969,336,879,372,1,537,975))%10
 def f_221f001(a,b,c,d,e):
     return (a*b-c*d-e+f_830280(a,b,c,d,e,141,982,113,578)+f_317f52c(a,b))%10
+def f_39c3c67(a,b,c,d):
+    return (a*b*c+d+f_2ec18dd(a,b,c)+f_46d8e4d(a,b,c,d,744,111,163))%10
