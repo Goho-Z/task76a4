@@ -3250,3 +3250,5 @@ def f_b9b11(a,b,c,d):
     return (a+b-c-d+f_4c2a501(a)+f_2b923e0(a,b)+f_3babb6f(a,b,c,d,0,835,288,950))%10
 def f_374b0f2(a,b):
     return (a*b+f_2654b69(a,b,173,685,846,835,775)+f_1286cde(a,b,948,388))%10
+def f_1924b0d(a):
+    return (a+f_10e37be(a,202,904,443))%10
