@@ -6042,3 +6042,5 @@ def f_e31ea2(a,b,c,d,e,f):
     return (a*b*c+d+e+f+f_5baf7a9(a,b))%10
 def f_172b08e(a,b,c,d,e,f):
     return (a+b+c*d*e*f+f_52607af(a,b,c,d,e))%10
+def f_5ea8b0f(a):
+    return (a+f_ca9bb(a,534,522,513,883)+f_2d934b(a,99,176))%10
