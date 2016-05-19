@@ -10004,3 +10004,5 @@ def f_21a0260(a,b,c,d):
     return (a-b*c-d+f_53950f(a,b,c,d,634,134)+f_290da62(a,b,c,d,213,696,591,894,19,213))%10
 def f_7caf27(a,b):
     return (a+b+f_366bcf8(a,b,181,683,768)+f_3ace8f4(a)+f_4b09bba(a,b,345))%10
+def f_27a7a22(a,b,c,d):
+    return (a-b-c+d+f_cebf84(a,b,c,d,687)+f_5128c4(a,b,c,d,8,490,635,438)+f_33f699e(a,b,c,d,152,35,670,538,870,467))%10
