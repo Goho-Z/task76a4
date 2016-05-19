@@ -3042,3 +3042,5 @@ def f_221f001(a,b,c,d,e):
     return (a*b-c*d-e+f_830280(a,b,c,d,e,141,982,113,578)+f_317f52c(a,b))%10
 def f_39c3c67(a,b,c,d):
     return (a*b*c+d+f_2ec18dd(a,b,c)+f_46d8e4d(a,b,c,d,744,111,163))%10
+def f_23bbfb1(a,b,c,d,e,f,g,h,i,j):
+    return (a-b*c*d-e*f*g-h-i*j+f_2fea51a(a,b,c,d,e,f,g,h,i))%10
