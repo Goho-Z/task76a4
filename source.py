@@ -1424,3 +1424,5 @@ def f_cebf84(a,b,c,d,e):
     return (a+b+c-d*e+f_58addec(a,b,c,d))%10
 def f_3b90b97(a,b,c,d,e,f):
     return (a+b*c*d-e*f+f_2d0b4c9(a,b,c,d,e,f,746,840,653))%10
+def f_597434c(a,b,c):
+    return (a+b+c+f_446e0a4(a,b,c,795,388,874,821,324,762,981)+f_24d7d10(a,b,c,905,619)+f_557f5b6(a,b,c,232,947,107,501,37,164,589))%10
