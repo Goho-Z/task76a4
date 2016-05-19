@@ -4000,3 +4000,5 @@ def f_2e82578(a,b,c,d,e,f,g,h):
     return (a*b-c-d-e-f*g*h+f_54f5271(a,b,c,d,e,f,g,h,531,911)+f_cae608(a,b,c,d,e)+f_cf5c2f(a,b,c,d,e,f))%10
 def f_1fcc327(a,b,c,d,e,f):
     return (a-b-c-d+e+f+f_46982a6(a))%10
+def f_62e6d(a):
+    return (a+f_42c0191(a,130)+f_5ecef3e(a))%10
