@@ -7202,3 +7202,5 @@ def f_5bfe490(a,b,c,d,e,f,g):
     return (a+b+c-d+e*f*g+f_bd0828(a,b,c)+f_5640e98(a))%10
 def f_3648668(a):
     return (a+f_25d6969(a,499,731,36,723,104,919,296,893,909))%10
+def f_185d9da(a,b):
+    return (a*b+f_10e3e54(a,b,966)+f_6a0daa(a,b,372,952))%10
