@@ -1752,3 +1752,5 @@ def f_2d1c415(a,b,c,d,e,f,g,h,i,j):
     return (a-b-c*d+e-f*g*h-i-j+f_541bb20(a,b,c,d,e,f,g)+f_53969f0(a))%10
 def f_42cbdc3(a):
     return (a+f_53e38b7(a,715,790,232)+f_5b18084(a,524,946,633,534,206,480,884,415,689)+f_2f8e8a8(a,98,577,479))%10
+def f_59fe21(a,b,c):
+    return (a-b-c+f_10e37be(a,b,c,855))%10
