@@ -1938,3 +1938,5 @@ def f_21ea3bc(a,b):
     return (a*b+f_2d2e151(a))%10
 def f_54cad30(a,b,c):
     return (a-b+c+f_114025b(a,b,c,566))%10
+def f_192c20e(a,b,c):
+    return (a*b*c+f_3e6ebb7(a,b))%10
