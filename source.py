@@ -984,3 +984,5 @@ def f_38bedf3(a,b,c,d):
     return (a*b-c+d+f_286f9a1(a,b,c,d,764,933,924,973,466)+f_11e6a4f(a,b,c,d,111,697)+f_1559a18(a,b,c,d,250))%10
 def f_df20b2(a,b,c):
     return (a+b*c+f_99b8eb(a,b,c,970))%10
+def f_4c5f2ee(a):
+    return (a+f_5c62d79(a,466,383,316,86,292)+f_1b8228c(a,404,666))%10
