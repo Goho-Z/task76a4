@@ -8066,3 +8066,5 @@ def f_4c0a3c9(a,b,c,d,e):
     return (a+b+c-d*e+f_5186f11(a,b,c,d,e,212,136,894,483,891))%10
 def f_332784a(a):
     return (a+f_412e70d(a,930,875,553,378,376)+f_1f3844(a,772,588,187))%10
+def f_1c76aa1(a,b,c,d):
+    return (a-b-c+d+f_2e7fcc(a,b,c,d,983,791,42)+f_91e756(a))%10
