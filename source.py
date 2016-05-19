@@ -4938,3 +4938,5 @@ def f_f7abad(a,b,c,d):
     return (a*b*c-d+f_2219b58(a,b,c,d,275))%10
 def f_421afa6(a):
     return (a+f_4239634(a,994,53,196,521,89,960,839,647))%10
+def f_3eec903(a,b,c,d,e,f,g):
+    return (a-b*c*d*e*f-g+f_2a374fe(a,b,c,d,e,f,g,86)+f_38bea3(a,b,c,d,e,f,g,687,182,468))%10
