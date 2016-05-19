@@ -5008,3 +5008,5 @@ def f_199e6d8(a,b,c,d,e,f,g,h):
     return (a+b*c*d*e-f-g*h+f_1c26bb(a,b,c,d,e,f,g,h)+f_f3caa9(a,b,c,d,e,f,g,h))%10
 def f_2db125d(a):
     return (a+f_506fca3(a,476,306,887)+f_56ddd16(a,235,723,43)+f_1be1bd6(a,840,757,806,138,350,303))%10
+def f_1d10e6e(a,b,c,d,e,f):
+    return (a-b*c-d*e*f+f_3560d30(a,b,c,d,e,f,323))%10
