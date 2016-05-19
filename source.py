@@ -1950,3 +1950,5 @@ def f_4be4ebd(a,b,c,d,e,f,g,h):
     return (a-b-c+d-e-f+g*h+f_5ebbfb2(a,b,c,d,e,f,g,h))%10
 def f_155f653(a,b,c,d,e):
     return (a+b+c+d+e+f_45602e9(a,b,c))%10
+def f_53e99ac(a,b,c,d,e,f,g):
+    return (a+b+c-d-e-f+g+f_46f81(a,b,c,d,e)+f_44ad58a(a,b)+f_300f3e6(a,b,c,d,e))%10
