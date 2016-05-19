@@ -11928,3 +11928,5 @@ def f_3bccd31(a):
     return (a+f_5cf173b(a,384,757,937,416,617,152,812,81)+f_18e7ea5(a))%10
 def f_5b29124(a,b,c,d,e,f,g,h,i):
     return (a-b*c+d*e+f+g+h+i+f_e5da4f(a,b,c,d,e))%10
+def f_1d9c73b(a,b,c,d,e,f):
+    return (a*b*c-d+e+f+f_5430801(a))%10
