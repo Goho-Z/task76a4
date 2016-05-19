@@ -11980,3 +11980,5 @@ def f_2b6ff88(a,b,c):
     return (a*b*c+f_32d2e88(a,b,c,542,489,666,149,804)+f_4c36cb7(a,b,c,368,553,708,116,491))%10
 def f_2b45495(a,b,c,d):
     return (a-b*c-d+f_1a357e2(a,b))%10
+def f_286946e(a,b):
+    return (a*b+f_38ada0b(a,b,748,406))%10
