@@ -15352,3 +15352,5 @@ def f_373a30(a,b,c,d):
     return (a+b+c-d+f_bead31(a,b,c)+f_4f1a648(a,b,c)+f_4759f2b(a,b,c,d,316))%10
 def f_2ed367b(a,b):
     return (a+b+f_29c62d1(a,b,327,365,380,797,59,876)+f_415d8b8(a,b))%10
+def f_22aaee1(a,b,c):
+    return (a*b+c+f_d650ad(a,b)+f_3ab7048(a,b))%10
