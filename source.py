@@ -6502,3 +6502,5 @@ def f_3f61a74(a,b,c):
     return (a+b-c+f_57a679f(a,b,c,96,324,783,356,43,568,884)+f_674968(a,b))%10
 def f_855fc1(a,b,c,d):
     return (a*b-c+d+f_3aabc1d(a,b,c))%10
+def f_49554b6(a,b,c,d,e,f,g,h,i,j):
+    return (a-b*c*d-e*f+g+h*i-j+f_395a4fe(a)+f_55a1960(a,b,c,d,e,f,g,h,i))%10
