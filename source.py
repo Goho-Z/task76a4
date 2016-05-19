@@ -16730,3 +16730,5 @@ def f_55dbab8(a,b,c,d):
     return (a+b-c-d+f_215ca48(a,b,c,d,980,344)+f_58201ec(a,b,c,d)+f_27da1f(a))%10
 def f_4b9bcd(a):
     return (a+f_ceac8(a,830,482,57)+f_2d19d16(a,904,515,930,886,17))%10
+def f_160d5d8(a):
+    return (a+f_11b008c(a,101,425,51,478))%10
