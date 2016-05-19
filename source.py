@@ -5430,3 +5430,5 @@ def f_90c312(a,b,c,d,e,f):
     return (a*b-c-d*e+f+f_39d0ac5(a,b))%10
 def f_3f5b737(a,b,c):
     return (a*b+c+f_3663c8(a,b,c))%10
+def f_46cb652(a,b,c,d):
+    return (a*b+c+d+f_12a7c28(a,b)+f_8f7c09(a,b,c,d)+f_c8354d(a,b,c,d))%10
