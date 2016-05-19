@@ -18208,3 +18208,5 @@ def f_3921cce(a,b,c,d,e):
     return (a-b-c+d-e+f_5f4964e(a,b,c)+f_48b3846(a))%10
 def f_2ef74e2(a):
     return (a+f_2a8afd2(a,638,383))%10
+def f_2d63667(a,b):
+    return (a+b+f_44b47fe(a,b,795)+f_404fc0a(a,b,757,201,493)+f_52fa635(a,b,813,466,321,986,160,803))%10
