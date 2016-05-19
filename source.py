@@ -652,3 +652,5 @@ def f_39feb9a(a,b,c,d,e,f,g,h):
     return (a-b+c-d*e-f+g*h+f_3ce64d4(a,b)+f_496990b(a,b,c,d,e))%10
 def f_534da71(a,b,c):
     return (a-b-c+f_43ac9b9(a,b,c))%10
+def f_25002b2(a):
+    return (a+f_5dcb737(a,696,409,514)+f_b8a492(a,235,860,444,821,355,697,786,568))%10
