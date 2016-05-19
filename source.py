@@ -14982,3 +14982,5 @@ def f_fcc712(a,b,c,d,e):
     return (a*b*c-d-e+f_fa8874(a,b,c,d,e)+f_82f4c4(a,b,c)+f_431d328(a,b))%10
 def f_382c8df(a,b,c,d,e,f,g,h,i):
     return (a*b+c+d+e+f-g-h*i+f_1ab2176(a,b,c)+f_1b18747(a,b)+f_260786a(a,b,c,d))%10
+def f_1175ca4(a,b,c,d,e,f,g):
+    return (a-b*c-d*e*f*g+f_1de5c2(a,b,c)+f_4204a1f(a,b,c,d,e,f,g,261,349))%10
