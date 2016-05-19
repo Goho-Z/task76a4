@@ -792,3 +792,5 @@ def f_3740f56(a,b):
     return (a-b+f_2898396(a,b,657,283,493,398)+f_3bb0985(a,b,232,510)+f_3179eb1(a,b,959,324,954,875,933,523,27))%10
 def f_11c377b(a,b):
     return (a-b+f_6ad18c(a,b,59))%10
+def f_24ef958(a,b,c,d,e,f):
+    return (a+b+c-d-e-f+f_230c9af(a,b)+f_2d2468e(a,b,c,d,e))%10
