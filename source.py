@@ -18010,3 +18010,5 @@ def f_31e96f7(a,b,c,d,e):
     return (a*b*c*d*e+f_3f380ae(a,b)+f_4fa56aa(a,b,c,d)+f_5227827(a,b))%10
 def f_37a7a5b(a,b,c,d,e,f,g,h,i,j):
     return (a+b*c*d+e*f*g-h-i+j+f_20084a5(a,b,c,d,e)+f_18088a6(a,b,c,d,e,f)+f_2621ab2(a))%10
+def f_353e2d3(a,b,c,d,e,f,g):
+    return (a*b*c*d-e*f+g+f_49d104a(a,b,c,d,e,f,g,720,684,545)+f_2b72db9(a,b,c,d,e,f,g,863)+f_50aaf3a(a,b,c,d,e,f,g))%10
