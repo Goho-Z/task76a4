@@ -9052,3 +9052,5 @@ def f_3c3ca32(a,b):
     return (a+b+f_2804243(a,b,591,187,777,594,83))%10
 def f_394acd9(a,b,c,d,e,f):
     return (a-b*c*d+e-f+f_490ef8a(a,b))%10
+def f_27e1658(a,b,c,d,e):
+    return (a+b-c-d+e+f_24d69c9(a))%10
