@@ -4446,3 +4446,5 @@ def f_ad9580(a):
     return (a+f_1b9120c(a,380,106,681,905))%10
 def f_3cfe50a(a,b,c,d,e,f):
     return (a+b-c-d*e*f+f_488b528(a,b,c,d,e,f))%10
+def f_1715ba5(a,b,c,d,e,f):
+    return (a+b*c+d+e-f+f_4458e41(a,b,c,d,e,f,293,7)+f_167b62b(a,b,c)+f_1b96c68(a,b,c,d,e))%10
