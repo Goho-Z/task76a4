@@ -5090,3 +5090,5 @@ def f_45dfce1(a,b,c,d,e,f,g):
     return (a*b+c*d-e+f*g+f_380c9ea(a,b,c,d,e,f,g,507,950,758))%10
 def f_da33fe(a):
     return (a+f_3fc2849(a,37,523,607,45,201))%10
+def f_2022acb(a,b,c,d,e,f,g):
+    return (a+b-c-d*e+f-g+f_24f925c(a,b,c,d,e,f,g))%10
