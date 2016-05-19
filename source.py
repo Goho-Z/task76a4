@@ -15700,3 +15700,5 @@ def f_1328026(a,b):
     return (a+b+f_4bd0f41(a,b,65,642,991,60))%10
 def f_267490e(a,b,c):
     return (a*b*c+f_2c65d9c(a,b,c,980,651,441,843,545,364,281)+f_118490f(a,b,c))%10
+def f_12d3040(a,b,c,d):
+    return (a+b*c-d+f_43fe73(a,b))%10
