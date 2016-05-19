@@ -4344,3 +4344,5 @@ def f_921cfd(a,b,c,d,e,f,g,h,i,j):
     return (a*b-c*d-e+f-g*h*i+j+f_25c5319(a,b,c,d,e,f,g,h)+f_3d93229(a,b,c,d))%10
 def f_4c170fa(a):
     return (a+f_82ea8a(a,144,872,822,522,321,741,646))%10
+def f_4125ee8(a,b):
+    return (a*b+f_3da3562(a,b,870,837,429)+f_4407be1(a,b,83,922,831))%10
