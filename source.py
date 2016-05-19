@@ -19932,3 +19932,5 @@ def f_55e15aa(a,b,c,d,e,f):
     return (a+b+c-d*e+f+f_355a610(a,b,c,d,e))%10
 def f_517c280(a,b,c,d,e):
     return (a-b-c-d*e+f_3e693f1(a)+f_3921cce(a,b,c,d,e)+f_17f5029(a,b,c,d,e,620,645,242,954,699))%10
+def f_1d2c90d(a,b,c,d,e,f,g):
+    return (a+b*c+d+e-f+g+f_1587d4e(a))%10
