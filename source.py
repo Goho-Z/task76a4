@@ -7756,3 +7756,5 @@ def f_2b9c96b(a,b,c,d,e,f,g):
     return (a-b-c+d-e*f+g+f_502cace(a,b,c,d,e,f,g,966)+f_1305062(a,b,c,d,e,f))%10
 def f_364f7e(a):
     return (a+f_2219b58(a,421,802,380,770)+f_5ee2d73(a,6,653,147,782,398))%10
+def f_5a6755c(a,b,c,d,e,f,g):
+    return (a*b+c+d-e*f-g+f_208c2e7(a,b,c)+f_48f7ad6(a))%10
