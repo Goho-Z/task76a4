@@ -12010,3 +12010,5 @@ def f_273d2b(a,b,c,d,e):
     return (a*b+c-d-e+f_316981d(a,b,c)+f_5dcf89e(a,b,c,d,e,926,366,89,128,903))%10
 def f_cd1d6c(a,b,c,d):
     return (a*b-c-d+f_509c701(a,b,c)+f_3f5f222(a,b,c)+f_568ce05(a,b,c,d,1,770,851,97,94,238))%10
+def f_2e075be(a):
+    return (a+f_31d303e(a,479,996,725,809,875))%10
