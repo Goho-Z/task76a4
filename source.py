@@ -24,3 +24,5 @@ def f_1543215(a,b,c):
     return (a*b*c+f_10a1d56(a)+f_44bbc00(a,b,c,818,340,752,392,516,415,260)+f_11e6a4f(a,b,c,238,530,556))%10
 def f_70450f(a,b):
     return (a-b+f_4829a46(a,b))%10
+def f_21e3b2e(a,b,c,d,e,f,g,h):
+    return (a*b-c-d+e*f-g*h+f_276f04f(a,b,c,d)+f_11e6a4f(a,b,c,d,e,f)+f_5e65c19(a,b,c))%10
