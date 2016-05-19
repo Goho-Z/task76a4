@@ -19724,3 +19724,5 @@ def f_fbc13b(a,b):
     return (a*b+f_4d1edbe(a,b,93)+f_2d920df(a,b,557,302,852)+f_3126c7f(a,b,917,70,163))%10
 def f_f9d7(a,b,c,d,e):
     return (a+b*c+d*e+f_1eca01d(a,b,c,d,e,700,652,710))%10
+def f_4caa67b(a,b,c,d,e,f,g):
+    return (a-b+c-d-e*f-g+f_29beb15(a,b,c)+f_33d13e2(a,b,c,d,e,f,g,251,411)+f_b3579f(a,b,c,d,e,f,g,493,924,350))%10
