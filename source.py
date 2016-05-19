@@ -15774,3 +15774,5 @@ def f_22eebe6(a):
     return (a+f_10dab77(a,858,574,365))%10
 def f_5b3ff79(a):
     return (a+f_1d6c188(a,602,345,843,485,967)+f_13ed1cb(a))%10
+def f_32f664c(a,b,c,d,e):
+    return (a+b+c+d+e+f_2fc2b4(a)+f_4d2340e(a,b,c,d,e,19,536,146))%10
