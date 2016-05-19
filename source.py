@@ -3990,3 +3990,5 @@ def f_4db2718(a,b,c,d):
     return (a*b+c*d+f_5af4de1(a,b,c,d,836,422)+f_1091676(a)+f_23da67b(a,b,c,d,751,45,859))%10
 def f_485f427(a,b,c):
     return (a*b+c+f_43be82(a,b,c,783,310,959))%10
+def f_aac2ad(a,b):
+    return (a-b+f_5dc472(a))%10
