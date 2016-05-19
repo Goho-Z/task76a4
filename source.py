@@ -8288,3 +8288,5 @@ def f_58040cc(a,b,c):
     return (a+b*c+f_44ad58a(a,b))%10
 def f_3321579(a):
     return (a+f_30b39ae(a))%10
+def f_38e4738(a,b,c,d,e,f,g):
+    return (a-b*c*d+e-f+g+f_1b37d1(a,b,c)+f_5ce426a(a,b,c,d,e,f,g,63,279)+f_220462f(a,b,c,d,e))%10
