@@ -8130,3 +8130,5 @@ def f_215ca48(a,b,c,d,e,f):
     return (a-b*c-d*e*f+f_46f81(a,b,c,d,e)+f_379d169(a,b,c,d,e,f,128,214,150,281)+f_1cbc9c0(a,b,c,d,e,f,180))%10
 def f_200aad7(a,b,c,d,e,f,g,h,i,j):
     return (a+b+c+d*e-f-g-h+i+j+f_10b800a(a,b,c,d,e,f,g)+f_414a6eb(a,b,c,d,e,f,g,h,i,j))%10
+def f_9d0aed(a,b):
+    return (a*b+f_2fb588f(a,b))%10
