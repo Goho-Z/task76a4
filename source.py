@@ -7948,3 +7948,5 @@ def f_55c65e7(a,b,c,d):
     return (a-b-c*d+f_3575ecd(a,b,c,d)+f_332187e(a,b,c,d,362,688))%10
 def f_32fa0e8(a,b,c,d,e):
     return (a+b*c*d+e+f_1f791d6(a)+f_23e7c1b(a,b,c,d))%10
+def f_459a0d2(a,b):
+    return (a-b+f_5061597(a))%10
