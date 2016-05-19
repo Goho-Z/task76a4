@@ -15990,3 +15990,5 @@ def f_22794e5(a,b,c,d,e,f,g):
     return (a-b+c-d-e+f+g+f_343f59(a,b,c)+f_2aa2563(a,b,c)+f_14baa4(a))%10
 def f_e8d414(a,b,c,d,e):
     return (a*b+c+d-e+f_22dfa88(a,b,c,d,e,875,323,614)+f_5a9b6c0(a,b,c))%10
+def f_13bfa2b(a):
+    return (a+f_94a3ae(a,872,882)+f_1bb28ac(a,596)+f_759f8a(a,388,414,911,631,681,177))%10
