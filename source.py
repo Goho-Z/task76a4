@@ -19122,3 +19122,5 @@ def f_482e08(a,b):
     return (a*b+f_4ed4d02(a,b,400,401,28,604,688,821)+f_50fb1b3(a,b,767,825,64,19,400)+f_5545e2e(a,b,569,244))%10
 def f_42ccc2e(a,b,c,d,e):
     return (a*b*c+d+e+f_d781d7(a,b,c,d,e))%10
+def f_26ecc8f(a,b,c,d,e,f,g,h):
+    return (a-b-c-d-e*f-g-h+f_569947f(a,b,c)+f_22d14f7(a,b,c,d,e,f,g,h,692))%10
