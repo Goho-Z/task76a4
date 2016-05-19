@@ -4442,3 +4442,5 @@ def f_6cec69(a,b,c,d,e,f,g):
     return (a-b*c*d-e+f-g+f_2dbf049(a,b))%10
 def f_18d68c9(a,b,c,d,e,f,g,h):
     return (a+b*c+d+e-f+g+h+f_35781b0(a,b,c,d,e)+f_5d4f7f8(a,b)+f_e8846d(a,b))%10
+def f_ad9580(a):
+    return (a+f_1b9120c(a,380,106,681,905))%10
