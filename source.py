@@ -2400,3 +2400,5 @@ def f_41bbf44(a,b,c,d):
     return (a*b*c+d+f_c9da1b(a,b,c,d,590,377,192))%10
 def f_3ab7048(a,b):
     return (a+b+f_3ff8499(a,b,56,104,858,891,717,457,418)+f_17a71e9(a,b,158,981,26,471,998,554,894,324)+f_28f6ac9(a))%10
+def f_4bbd29b(a,b,c,d,e,f,g,h):
+    return (a*b+c*d-e+f-g-h+f_4ba2271(a,b)+f_fc55bb(a,b,c,d,e,f,g,h,711,643)+f_6dd0f7(a,b,c,d,e,f))%10
