@@ -2042,3 +2042,5 @@ def f_23ed44c(a,b,c,d,e,f,g,h,i,j):
     return (a+b-c*d-e+f+g-h*i+j+f_71ec6b(a,b,c,d,e,f,g,h,i,j))%10
 def f_246319f(a):
     return (a+f_59f0423(a,344)+f_3ac60d6(a,930)+f_5accc7d(a,30))%10
+def f_1f1aafe(a,b,c,d,e,f,g,h,i):
+    return (a+b+c*d*e+f*g*h*i+f_46f81(a,b,c,d,e)+f_34698cf(a,b,c,d,e,f)+f_fa0da5(a,b))%10
