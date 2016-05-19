@@ -3604,3 +3604,5 @@ def f_6f9219(a,b,c,d,e,f,g,h,i):
     return (a*b+c+d+e+f*g-h-i+f_451f9ef(a,b,c,d,e,f,g,h,i,286)+f_4333dea(a,b,c,d))%10
 def f_3427b59(a,b,c,d):
     return (a+b*c+d+f_2a2260b(a,b,c,d,963))%10
+def f_13c569b(a,b,c):
+    return (a+b*c+f_9d6ea2(a,b,c,96)+f_b9b11(a,b,c,170)+f_2e9d3eb(a,b))%10
