@@ -3008,3 +3008,5 @@ def f_3cdf7a2(a,b,c,d,e,f,g,h):
     return (a-b-c+d-e*f*g*h+f_4cfe4e8(a,b))%10
 def f_1cc5208(a,b,c):
     return (a*b*c+f_30ca052(a))%10
+def f_3ec628e(a,b,c):
+    return (a-b+c+f_44057e9(a,b)+f_1fd96c7(a,b,c,229,429))%10
