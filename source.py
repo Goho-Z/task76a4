@@ -2896,3 +2896,5 @@ def f_264cebb(a,b,c,d,e,f):
     return (a-b+c-d*e*f+f_445ab63(a,b,c,d,e)+f_a32f25(a,b,c))%10
 def f_3f21185(a,b,c,d,e,f,g,h,i,j):
     return (a-b*c+d-e+f*g-h*i+j+f_48ece50(a,b,c,d,e,f)+f_5583fca(a))%10
+def f_492bc25(a,b,c,d,e):
+    return (a+b+c*d+e+f_11fc486(a,b,c)+f_145764e(a,b,c,d,e,889,625,427,26)+f_a32f25(a,b,c))%10
