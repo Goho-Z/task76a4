@@ -7868,3 +7868,5 @@ def f_4bdca11(a,b,c,d):
     return (a-b+c-d+f_20db80f(a,b,c,d,385)+f_195d0dc(a,b)+f_9dfac(a,b,c))%10
 def f_4cdbdfa(a,b,c,d):
     return (a-b-c-d+f_3c823f9(a,b,c,d)+f_494dcf0(a,b,c))%10
+def f_1f3844(a,b,c,d):
+    return (a+b+c+d+f_37eb181(a,b,c,d,428,302,757,631,182,541)+f_246914c(a,b,c,d,101,578,810,162)+f_108d939(a,b,c,d,189,850))%10
