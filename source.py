@@ -10344,3 +10344,5 @@ def f_2c13e71(a):
     return (a+f_102fc91(a,926,982)+f_5a59cdc(a,543)+f_57b396(a,980,73,20,881))%10
 def f_55501ed(a,b,c,d):
     return (a*b-c-d+f_4e24844(a,b,c,d,753,838,526,15)+f_144156c(a,b,c))%10
+def f_18e7ea5(a):
+    return (a+f_36188c3(a))%10
