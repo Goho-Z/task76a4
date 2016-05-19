@@ -12018,3 +12018,5 @@ def f_a5964d(a,b,c,d,e):
     return (a+b+c+d*e+f_5a13c41(a,b,c,d,e,184,982))%10
 def f_52079f2(a,b,c,d):
     return (a*b*c+d+f_4225815(a)+f_7991e6(a,b,c,d,764,361,562,451,749))%10
+def f_572ef37(a,b,c,d,e,f,g,h,i):
+    return (a+b*c-d*e-f-g*h+i+f_5b8f22b(a,b,c,d,e,f,g,h,i,978)+f_2179b9e(a,b,c,d,e,f,g,h,i)+f_5ea2f0b(a,b,c,d,e))%10
