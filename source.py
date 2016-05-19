@@ -6004,3 +6004,5 @@ def f_11a2dac(a,b,c,d,e,f,g,h,i,j):
     return (a*b-c-d*e+f*g*h-i-j+f_35d7dd9(a))%10
 def f_25d63f1(a,b,c,d,e,f):
     return (a+b+c-d+e-f+f_3fc2849(a,b,c,d,e,f)+f_373ba2(a,b,c,d))%10
+def f_21a7a3a(a,b,c,d,e):
+    return (a-b+c-d-e+f_536f58d(a,b,c,d,e))%10
