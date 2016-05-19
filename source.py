@@ -10978,3 +10978,5 @@ def f_ddbc37(a,b,c,d,e,f):
     return (a+b*c+d*e*f+f_812520(a,b,c,d)+f_274b42a(a,b,c,d,e,f,284,333))%10
 def f_5c6ba4a(a,b,c,d,e,f,g):
     return (a*b*c-d+e+f+g+f_408842d(a,b,c,d)+f_44db02(a,b,c,d)+f_1ce677a(a,b,c))%10
+def f_105e0b4(a,b,c,d):
+    return (a-b-c-d+f_2384cbc(a,b,c,d,386,830))%10
