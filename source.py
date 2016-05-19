@@ -17220,3 +17220,5 @@ def f_21f3dfd(a,b,c):
     return (a-b+c+f_1d236a1(a,b)+f_421a676(a)+f_46dbac5(a,b,c,236,90,289))%10
 def f_107da50(a,b):
     return (a+b+f_3de6275(a))%10
+def f_511772d(a,b,c,d,e,f,g,h):
+    return (a*b+c+d*e+f-g+h+f_df20b2(a,b,c)+f_38d27e6(a,b,c,d,e)+f_2179b9e(a,b,c,d,e,f,g,h,124))%10
