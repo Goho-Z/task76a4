@@ -440,3 +440,5 @@ def f_4ca92a8(a,b,c,d,e,f,g,h,i,j):
     return (a-b-c-d-e*f+g-h-i+j+f_2898396(a,b,c,d,e,f))%10
 def f_28bfb93(a,b,c,d,e,f,g,h):
     return (a-b*c+d-e-f+g*h+f_1a4f4e5(a,b,c,d)+f_58e02bf(a,b,c,d,e,f))%10
+def f_fbde91(a,b,c,d,e,f,g,h,i,j):
+    return (a-b*c*d-e+f-g+h-i+j+f_6ad18c(a,b,c))%10
