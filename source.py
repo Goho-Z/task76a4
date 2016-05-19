@@ -170,3 +170,5 @@ def f_5146ecb(a,b,c,d,e,f,g):
     return (a+b+c+d*e*f-g+f_4685338(a,b,c,d,e,f,g,732,166)+f_4829a46(a,b)+f_521625(a,b,c))%10
 def f_2312b67(a,b,c,d,e,f,g,h,i):
     return (a*b*c*d*e-f+g*h*i+f_1df309(a,b,c,d,e,f,g)+f_323e173(a,b,c,d,e,f,g,h))%10
+def f_4fe1fea(a,b,c,d,e,f,g):
+    return (a*b-c*d*e+f-g+f_14d0721(a,b,c,d,e,f,g,183,346)+f_19797f(a,b,c,d))%10
