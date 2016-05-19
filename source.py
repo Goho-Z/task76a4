@@ -3862,3 +3862,5 @@ def f_cef5c8(a,b):
     return (a-b+f_11171e9(a,b,365,162,23,667,872,460,78)+f_1c85f2d(a,b,325))%10
 def f_3821b55(a,b,c,d,e):
     return (a+b+c+d-e+f_1c18260(a,b,c,d,e,288,288,587,455)+f_2b7dafd(a,b,c,d,e,130,417,49))%10
+def f_1597593(a,b,c,d,e,f,g,h):
+    return (a-b-c-d-e*f-g+h+f_4239634(a,b,c,d,e,f,g,h,14))%10
