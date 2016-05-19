@@ -38,3 +38,5 @@ def f_982326(a,b):
     return (a-b+f_1543215(a,b,550)+f_3e77575(a,b,48,38,333,831,333,905,226,411))%10
 def f_516909d(a,b,c,d):
     return (a*b*c*d+f_276f04f(a,b,c,d)+f_21e3b2e(a,b,c,d,456,891,598,573)+f_5e65c19(a,b,c))%10
+def f_434092a(a,b,c,d,e,f,g,h,i,j):
+    return (a-b*c+d-e+f+g*h*i+j+f_5e65c19(a,b,c)+f_516909d(a,b,c,d)+f_5d6c325(a,b,c))%10
