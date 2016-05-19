@@ -4832,3 +4832,5 @@ def f_4518b3b(a):
     return (a+f_3bc55f7(a,57,441,930))%10
 def f_1b01359(a):
     return (a+f_1a88523(a,668,162,680,394,293)+f_43610f2(a,74,79))%10
+def f_5b8f22b(a,b,c,d,e,f,g,h,i,j):
+    return (a+b+c*d+e-f*g*h+i*j+f_cef5c8(a,b))%10
