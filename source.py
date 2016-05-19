@@ -15100,3 +15100,5 @@ def f_4de449d(a,b,c,d):
     return (a-b+c-d+f_3bab4f(a,b,c,d,204,788,88,357,858,80)+f_1fd43e9(a,b,c,d,744,212))%10
 def f_1b1f2f3(a):
     return (a+f_4ca03c0(a,452,274,171,55,522))%10
+def f_4d24108(a,b,c,d,e,f,g,h,i,j):
+    return (a+b*c*d*e+f*g-h+i-j+f_5b4fed2(a))%10
