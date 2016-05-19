@@ -10662,3 +10662,5 @@ def f_3abcf86(a,b,c):
     return (a-b*c+f_4a92840(a,b,c,198,521,32,179))%10
 def f_13611f1(a,b,c):
     return (a-b-c+f_3fcce7c(a)+f_48d5276(a,b,c))%10
+def f_39ff028(a,b,c,d,e,f,g,h,i,j):
+    return (a-b-c-d*e-f-g*h-i*j+f_774c15(a,b,c,d,e,f,g,h,i)+f_435b9d(a))%10
