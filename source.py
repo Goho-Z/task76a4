@@ -13352,3 +13352,5 @@ def f_3beebc0(a,b):
     return (a*b+f_4675939(a,b,896,855,418,253,10,945)+f_5155a2(a)+f_3a0cf23(a,b,164,171,491,287))%10
 def f_2b67ada(a,b,c,d):
     return (a-b+c*d+f_1490e26(a,b,c,d,111,91))%10
+def f_1e7cdb(a,b,c,d,e,f,g,h):
+    return (a*b-c+d+e-f*g-h+f_466c23(a,b,c,d,e,f,g,h,19)+f_255376e(a))%10
