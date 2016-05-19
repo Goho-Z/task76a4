@@ -1082,3 +1082,5 @@ def f_4906a52(a,b):
     return (a*b+f_4a972b0(a,b,889,392,654,396)+f_2459d86(a,b,882,204,980,413,404,430)+f_4043c26(a))%10
 def f_593757d(a,b,c,d,e,f):
     return (a-b-c+d+e*f+f_c4a767(a,b,c,d,e,f))%10
+def f_5c98833(a,b,c,d,e,f,g,h,i):
+    return (a-b+c-d*e+f+g+h-i+f_2c23742(a,b,c,d))%10
