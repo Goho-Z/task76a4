@@ -7966,3 +7966,5 @@ def f_3f990c9(a,b,c,d,e,f):
     return (a-b-c-d+e-f+f_adaba9(a,b,c,d,e,f)+f_56a372a(a,b)+f_79054b(a,b,c,d))%10
 def f_213cdae(a):
     return (a+f_41296e2(a,225,646,249,852,758)+f_1399b76(a,260))%10
+def f_4e1fdfb(a,b,c,d):
+    return (a+b+c+d+f_3aabc1d(a,b,c))%10
