@@ -1954,3 +1954,5 @@ def f_53e99ac(a,b,c,d,e,f,g):
     return (a+b+c-d-e-f+g+f_46f81(a,b,c,d,e)+f_44ad58a(a,b)+f_300f3e6(a,b,c,d,e))%10
 def f_419055b(a,b):
     return (a-b+f_270792b(a,b,867,994,433,543,380,13,655,988))%10
+def f_1709422(a,b,c,d,e,f,g,h,i):
+    return (a+b*c+d-e*f-g*h+i+f_58addec(a,b,c,d))%10
