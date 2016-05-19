@@ -592,3 +592,5 @@ def f_27522db(a):
     return (a+f_59eeab6(a))%10
 def f_286f9a1(a,b,c,d,e,f,g,h,i):
     return (a*b*c+d*e-f*g*h*i+f_25adc76(a,b,c)+f_477b1bc(a,b,c,d,e,f,g,h,i))%10
+def f_5c15e44(a,b,c,d):
+    return (a*b-c-d+f_249c03c(a,b,c,d,695,301,950,8,300,296)+f_11b9dd4(a))%10
