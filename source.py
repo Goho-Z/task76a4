@@ -19894,3 +19894,5 @@ def f_3244bb3(a):
     return (a+f_4399f8a(a,634,268,494,27,260,182,279,261,122))%10
 def f_1685037(a,b,c,d,e,f,g,h,i):
     return (a-b*c-d-e+f*g+h*i+f_4ac2315(a,b,c,d))%10
+def f_13fbf7a(a,b,c,d,e,f,g,h,i,j):
+    return (a*b*c*d+e-f+g+h-i+j+f_f4461e(a,b,c))%10
