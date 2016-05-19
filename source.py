@@ -5636,3 +5636,5 @@ def f_43ac4af(a,b,c,d,e):
     return (a-b-c+d*e+f_40cea67(a,b,c))%10
 def f_4d3e2f4(a,b,c,d,e,f):
     return (a*b-c*d*e+f+f_4407be1(a,b,c,d,e))%10
+def f_a3cb11(a):
+    return (a+f_535d958(a,873,945,20,52,295,213,580,329))%10
