@@ -342,3 +342,5 @@ def f_fa5c28(a,b,c):
     return (a*b+c+f_58bc2(a,b,c,34)+f_1ced336(a,b,c,554,617)+f_3901b28(a,b,c,402,283,112,772,153))%10
 def f_1bb28ac(a,b):
     return (a+b+f_5c62d79(a,b,710,732,373,801)+f_5b6d309(a,b))%10
+def f_5410c1d(a,b,c):
+    return (a+b*c+f_1ba6eba(a,b,c,571,219,937,78)+f_5a33a53(a,b))%10
