@@ -1012,3 +1012,5 @@ def f_32d0f33(a):
     return (a+f_18776c5(a,320,908,530,765,248,728))%10
 def f_3e0a4e1(a,b,c,d,e,f,g,h,i,j):
     return (a+b-c+d+e+f*g-h-i-j+f_5ee2d73(a,b,c,d,e,f))%10
+def f_19a363f(a,b,c,d,e,f):
+    return (a*b*c-d+e*f+f_1ba6eba(a,b,c,d,e,f,962)+f_26a606a(a,b,c,d,e,f,671,576))%10
