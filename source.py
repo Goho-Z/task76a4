@@ -1132,3 +1132,5 @@ def f_41b5d0e(a,b,c,d,e,f,g):
     return (a+b+c-d-e-f*g+f_4d12f2a(a,b))%10
 def f_2bdde40(a,b,c):
     return (a+b*c+f_4ec8ff0(a,b,c,110,261))%10
+def f_171043(a,b,c):
+    return (a*b-c+f_5410c1d(a,b,c)+f_578fef5(a))%10
