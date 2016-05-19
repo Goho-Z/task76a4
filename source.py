@@ -702,3 +702,5 @@ def f_5079b16(a,b):
     return (a+b+f_10a1d56(a)+f_386649d(a,b,476,23,972,992,734))%10
 def f_5090792(a,b,c,d,e,f):
     return (a-b-c+d+e*f+f_1ede232(a,b,c,d,e,f,479))%10
+def f_3ea4c36(a,b,c,d,e,f):
+    return (a*b*c*d*e*f+f_5deee48(a,b,c,d,e,f,262,994,328)+f_55a1960(a,b,c,d,e,f,886,135,712))%10
