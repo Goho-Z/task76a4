@@ -1996,3 +1996,5 @@ def f_3c77937(a,b,c):
     return (a*b-c+f_4be4ebd(a,b,c,80,296,558,104,174))%10
 def f_3957f27(a,b,c):
     return (a*b*c+f_fb3a1c(a,b,c,735,884,890,380,129))%10
+def f_b87018(a,b,c,d,e):
+    return (a-b*c+d*e+f_5be446d(a,b,c,d,e,729,3,405)+f_1a234a5(a,b,c,d,e,796,841,456))%10
