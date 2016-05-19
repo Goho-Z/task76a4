@@ -624,3 +624,5 @@ def f_39110b3(a,b,c,d,e,f):
     return (a-b-c-d*e*f+f_574b9d(a,b,c,d,e))%10
 def f_3915a58(a,b,c,d,e,f,g,h,i):
     return (a-b+c-d+e-f*g+h*i+f_43ac9b9(a,b,c))%10
+def f_1212a7(a,b):
+    return (a-b+f_58bc2(a,b,797,55))%10
