@@ -5998,3 +5998,5 @@ def f_24b5836(a,b):
     return (a+b+f_578944b(a,b,411))%10
 def f_9df887(a):
     return (a+f_3e4f2e8(a,337,278,523,677,216))%10
+def f_134851b(a,b,c,d):
+    return (a-b-c+d+f_28049d5(a,b,c)+f_576246f(a,b,c,d,274,230,538,570)+f_3dd9953(a,b,c))%10
