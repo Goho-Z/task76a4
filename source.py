@@ -2002,3 +2002,5 @@ def f_28b5ddf(a,b,c,d,e,f,g):
     return (a+b+c*d+e*f-g+f_2838358(a,b,c,d,e,f))%10
 def f_4897e56(a,b,c,d,e):
     return (a*b+c-d-e+f_4cfe4e8(a,b)+f_58addec(a,b,c,d))%10
+def f_5c4c4c9(a,b):
+    return (a+b+f_41370d7(a,b,845)+f_4b44dda(a,b,90,962,786,861,725))%10
