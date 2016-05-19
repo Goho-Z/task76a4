@@ -6882,3 +6882,5 @@ def f_3513ffc(a,b,c,d):
     return (a-b+c*d+f_2af2998(a)+f_4a53d3e(a,b,c,d,38,926,954,571))%10
 def f_56cebd6(a,b):
     return (a-b+f_3ea7ffb(a,b,110,282))%10
+def f_944595(a):
+    return (a+f_1a3c967(a,452,776,280,939,596)+f_11a0b36(a,730,536))%10
