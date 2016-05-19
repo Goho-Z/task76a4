@@ -812,3 +812,5 @@ def f_502cace(a,b,c,d,e,f,g,h):
     return (a*b-c*d-e-f*g-h+f_53cefd9(a,b)+f_3e4f2e8(a,b,c,d,e,f))%10
 def f_1c18260(a,b,c,d,e,f,g,h,i):
     return (a-b+c-d+e*f*g*h+i+f_1bb28ac(a,b))%10
+def f_359cd36(a,b,c,d,e,f,g,h,i,j):
+    return (a-b*c-d+e*f*g-h*i-j+f_154f682(a,b,c,d,e,f,g))%10
