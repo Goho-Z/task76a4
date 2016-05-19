@@ -2492,3 +2492,5 @@ def f_cbbc5b(a,b,c,d,e,f):
     return (a*b-c-d*e*f+f_4dbd242(a,b,c,d,e))%10
 def f_1bf4dc(a,b,c,d,e,f):
     return (a*b+c*d*e*f+f_2f69523(a))%10
+def f_1d1fd08(a):
+    return (a+f_516909d(a,75,203,241))%10
