@@ -1546,3 +1546,5 @@ def f_1be16c1(a,b):
     return (a+b+f_59e109f(a,b,540,785,717)+f_466c23(a,b,88,452,160,480,778,140,932))%10
 def f_2f69523(a):
     return (a+f_27522db(a))%10
+def f_16c1907(a,b,c,d,e,f,g):
+    return (a-b*c+d*e*f+g+f_4a02c54(a,b,c,d,e))%10
