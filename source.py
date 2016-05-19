@@ -6898,3 +6898,5 @@ def f_5869fd3(a,b,c):
     return (a-b-c+f_3b2bc09(a,b,c,999,53,220,439,818,408,356)+f_30526af(a,b,c,329,160)+f_219e68e(a,b,c,210,796,304))%10
 def f_3e71339(a,b,c,d,e):
     return (a+b+c+d*e+f_363ab03(a,b)+f_16c1907(a,b,c,d,e,875,99)+f_1df1391(a,b,c,d,e,864,452))%10
+def f_379d169(a,b,c,d,e,f,g,h,i,j):
+    return (a-b*c*d+e*f-g+h+i+j+f_23114d(a,b,c,d,e,f,g,h)+f_2add93c(a,b,c,d,e))%10
