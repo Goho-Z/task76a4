@@ -12174,3 +12174,5 @@ def f_2d5a403(a,b):
     return (a+b+f_4daee6(a))%10
 def f_2f60c24(a):
     return (a+f_138aa03(a,93,153))%10
+def f_27d174d(a,b,c,d,e,f,g,h):
+    return (a-b*c+d-e-f+g-h+f_4bdca11(a,b,c,d)+f_4096532(a,b,c,d,e,f,g,h))%10
