@@ -6658,3 +6658,5 @@ def f_3c86e20(a,b,c,d):
     return (a+b-c-d+f_59eeab6(a)+f_1656256(a,b,c,d)+f_3af00bb(a,b,c,d,718,655))%10
 def f_203f252(a,b,c,d,e,f,g,h,i):
     return (a-b-c+d-e-f-g+h+i+f_24a4e08(a,b,c,d,e,f,g,h,i)+f_442358b(a,b,c,d))%10
+def f_143028d(a):
+    return (a+f_20aec75(a,145))%10
