@@ -14100,3 +14100,5 @@ def f_45257ca(a,b,c,d,e,f,g,h,i):
     return (a+b+c*d+e*f-g+h-i+f_10dc345(a,b,c))%10
 def f_5c50607(a,b,c):
     return (a+b*c+f_f87234(a,b,c,484,373,553,404,527)+f_862ed2(a,b,c,850,499,725))%10
+def f_a1cb44(a,b,c):
+    return (a+b-c+f_eebd81(a,b,c,548,889,938,705,291,585)+f_5c6546a(a,b))%10
