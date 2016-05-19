@@ -19786,3 +19786,5 @@ def f_165dc89(a,b,c,d):
     return (a-b-c+d+f_1d236a1(a,b))%10
 def f_3219119(a,b):
     return (a-b+f_19ca189(a,b))%10
+def f_5c6aef1(a,b,c,d,e,f,g):
+    return (a*b*c+d-e+f+g+f_4b413ad(a,b,c,d,e,f,g,458,999,928))%10
