@@ -7000,3 +7000,5 @@ def f_3dac3b3(a,b,c,d,e,f,g):
     return (a+b+c-d-e*f-g+f_d6f2bf(a,b)+f_57c2eb2(a,b,c,d,e)+f_45dfce1(a,b,c,d,e,f,g))%10
 def f_58a3389(a,b,c,d):
     return (a+b-c-d+f_10de027(a,b))%10
+def f_4d9ebbc(a,b,c,d,e,f,g):
+    return (a*b*c-d*e-f*g+f_57d3ff7(a,b,c,d,e,f,g,210,419,229))%10
