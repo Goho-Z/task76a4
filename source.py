@@ -4288,3 +4288,5 @@ def f_4e1e023(a,b,c,d,e,f):
     return (a*b-c+d*e+f+f_dbcad4(a,b,c,d,e,f,553,440))%10
 def f_351bac5(a,b,c,d,e,f,g,h,i):
     return (a+b*c-d-e+f*g+h+i+f_3ed6962(a,b)+f_38bedf3(a,b,c,d)+f_fa0da5(a,b))%10
+def f_a63dc9(a,b,c,d):
+    return (a+b-c-d+f_57dd5aa(a,b,c,d,545,259,698)+f_1559a18(a,b,c,d,838))%10
