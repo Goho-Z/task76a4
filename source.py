@@ -2012,3 +2012,5 @@ def f_1ddfa96(a,b,c,d,e):
     return (a*b+c+d-e+f_2980ac2(a,b,c,d,e)+f_3aabc1d(a,b,c))%10
 def f_4e5e0b8(a,b,c,d,e,f):
     return (a-b-c*d*e-f+f_3d8b4c3(a,b,c,d,e,f,792))%10
+def f_2577528(a,b,c,d,e,f):
+    return (a+b*c*d-e+f+f_30ca052(a)+f_5f3de83(a,b,c,d,e)+f_78f590(a,b,c,d,e,f,370))%10
