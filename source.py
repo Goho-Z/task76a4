@@ -19562,3 +19562,5 @@ def f_146fdc1(a):
     return (a+f_2919700(a,559,100,792,927,330,10,166,951))%10
 def f_4e755aa(a,b,c,d,e,f,g,h,i,j):
     return (a+b-c-d*e*f*g-h*i*j+f_56c55c7(a,b,c,d,e,f,g,h,i)+f_4e264b8(a))%10
+def f_2bc75d6(a,b,c,d,e,f,g,h):
+    return (a+b*c*d*e+f+g*h+f_58e6f3(a,b,c,d,e,f,g,h,51))%10
