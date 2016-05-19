@@ -3012,3 +3012,5 @@ def f_3ec628e(a,b,c):
     return (a-b+c+f_44057e9(a,b)+f_1fd96c7(a,b,c,229,429))%10
 def f_2aa3f91(a,b,c,d,e):
     return (a+b+c+d+e+f_3957f27(a,b,c))%10
+def f_36a6916(a,b,c,d,e):
+    return (a*b+c*d-e+f_47407ee(a,b,c,d,e,968,511,140,560)+f_5076f99(a,b,c,d,e,331,65,469)+f_441ceeb(a,b,c,d,e))%10
