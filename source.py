@@ -9780,3 +9780,5 @@ def f_38cb68c(a,b,c,d,e,f,g,h,i,j):
     return (a*b+c-d-e*f*g-h*i-j+f_185825b(a,b,c,d))%10
 def f_5a6ef50(a,b):
     return (a+b+f_5535b75(a,b,109))%10
+def f_55a5cf1(a,b,c):
+    return (a-b*c+f_416f6fc(a,b,c,562,72,3,65,858)+f_3eec903(a,b,c,489,10,251,757))%10
