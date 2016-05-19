@@ -16160,3 +16160,5 @@ def f_cdb9ae(a):
     return (a+f_3d49f52(a,33,823,35,601)+f_1a364a8(a,713))%10
 def f_3c2650a(a,b,c):
     return (a*b*c+f_5f291e9(a,b)+f_374f95(a,b,c)+f_58cfab6(a,b,c,802))%10
+def f_3f2116c(a,b,c,d,e):
+    return (a-b+c*d*e+f_22e360b(a)+f_32b43f0(a,b,c,d,e,473,93))%10
