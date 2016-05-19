@@ -488,3 +488,5 @@ def f_15cfda7(a):
     return (a+f_3ee3b81(a,452,928,398,986,958))%10
 def f_2e9d3eb(a,b):
     return (a-b+f_496990b(a,b,749,864,258)+f_5a92ec4(a))%10
+def f_5cc471a(a,b,c,d,e,f,g):
+    return (a*b*c-d*e*f*g+f_599d433(a,b,c,d,e)+f_416ec8a(a,b,c,d,e,f)+f_2e9d3eb(a,b))%10
