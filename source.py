@@ -9952,3 +9952,5 @@ def f_5b409d7(a,b,c,d,e,f,g,h):
     return (a-b*c-d+e*f+g*h+f_403ff07(a,b,c,d,e,f,g,h,97,486)+f_2c34e32(a,b,c,d,e,f,g,h,377,627)+f_4f290d3(a))%10
 def f_48dbf30(a,b,c,d):
     return (a+b*c+d+f_3fb5d7e(a,b)+f_3e52a3f(a,b,c))%10
+def f_384d02d(a,b,c,d,e,f,g):
+    return (a-b+c+d+e+f-g+f_4d29001(a,b,c,d))%10
