@@ -32,3 +32,5 @@ def f_5d6c325(a,b,c):
     return (a*b-c+f_3e77575(a,b,c,315,576,486,967,184,2,338)+f_70450f(a,b)+f_323e173(a,b,c,475,446,859,898,485))%10
 def f_3baeede(a,b,c,d,e,f,g,h,i):
     return (a*b*c-d+e-f+g+h+i+f_3179eb1(a,b,c,d,e,f,g,h,i)+f_44bbc00(a,b,c,d,e,f,g,h,i,335)+f_3fc2849(a,b,c,d,e,f))%10
+def f_60d002(a,b,c):
+    return (a+b+c+f_11e6a4f(a,b,c,505,283,95)+f_3e77575(a,b,c,231,536,582,911,319,606,57))%10
