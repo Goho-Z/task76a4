@@ -12922,3 +12922,5 @@ def f_e975d1(a):
     return (a+f_5466973(a,919))%10
 def f_483e4b4(a,b,c,d,e,f,g,h,i):
     return (a+b+c+d-e-f*g-h*i+f_2d43afa(a,b,c,d)+f_2df60d1(a)+f_7bd946(a,b,c,d,e,f,g,h))%10
+def f_4704e92(a,b,c,d,e):
+    return (a+b+c-d+e+f_378b14c(a,b,c,d,e,159,368,985,553)+f_bead31(a,b,c))%10
