@@ -9598,3 +9598,5 @@ def f_424daca(a,b,c,d,e,f,g,h,i):
     return (a-b+c*d-e*f-g*h*i+f_2f960d8(a,b,c,d,e,f,g,h)+f_59d499a(a,b,c,d,e,f,g))%10
 def f_3e6d1e7(a,b,c,d,e,f,g,h):
     return (a+b-c+d+e+f-g-h+f_1ca54a4(a,b,c,d,e,f,g,h,389))%10
+def f_13f6d12(a):
+    return (a+f_12a2188(a,695,156,153,950))%10
