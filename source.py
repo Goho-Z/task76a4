@@ -492,3 +492,5 @@ def f_5cc471a(a,b,c,d,e,f,g):
     return (a*b*c-d*e*f*g+f_599d433(a,b,c,d,e)+f_416ec8a(a,b,c,d,e,f)+f_2e9d3eb(a,b))%10
 def f_5deee48(a,b,c,d,e,f,g,h,i):
     return (a*b+c-d*e-f*g+h-i+f_48e7b28(a,b,c))%10
+def f_244e536(a,b,c,d):
+    return (a*b-c-d+f_b8a492(a,b,c,d,770,362,336,174,347))%10
