@@ -8372,3 +8372,5 @@ def f_1f87b0b(a):
     return (a+f_2de493d(a,271,127)+f_19e5f30(a,9,551)+f_1f4056d(a,936,602,654,912,998,945,300,382,20))%10
 def f_49b122(a,b):
     return (a+b+f_4b0e40(a,b,437,754))%10
+def f_1d02e9a(a,b,c,d,e,f,g,h,i):
+    return (a+b+c*d+e-f+g*h+i+f_d2b638(a,b,c,d,e,f,g,h,i,13))%10
