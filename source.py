@@ -19784,3 +19784,5 @@ def f_2112131(a,b,c,d):
     return (a+b+c*d+f_54506bd(a,b,c,d,997,788)+f_3df53dd(a,b,c,d,160,55,190,717)+f_46e0d82(a,b,c,d))%10
 def f_165dc89(a,b,c,d):
     return (a-b-c+d+f_1d236a1(a,b))%10
+def f_3219119(a,b):
+    return (a-b+f_19ca189(a,b))%10
