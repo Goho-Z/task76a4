@@ -19918,3 +19918,5 @@ def f_731370(a,b):
     return (a*b+f_2ab7122(a,b,982,778,594)+f_2215996(a,b,234,683,647,192,471,250))%10
 def f_46b9887(a,b):
     return (a*b+f_5ed40bc(a,b,945,649,631))%10
+def f_5793aba(a,b,c,d,e,f,g,h,i):
+    return (a+b-c*d+e+f-g+h+i+f_3caa4ae(a)+f_b66524(a,b,c)+f_c45266(a,b,c,d,e,f))%10
