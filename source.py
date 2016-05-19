@@ -7572,3 +7572,5 @@ def f_11fb3ad(a,b,c):
     return (a*b+c+f_2f3284e(a,b,c,699,772,519,828,85))%10
 def f_c41a69(a,b,c,d,e,f,g):
     return (a-b*c*d*e+f+g+f_55cae40(a,b,c,d,e,f,g,191))%10
+def f_1831bb8(a,b,c,d,e,f,g,h,i,j):
+    return (a*b*c*d+e+f+g-h+i*j+f_3f33f63(a,b,c,d,e,f,g,h,i))%10
