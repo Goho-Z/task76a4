@@ -19972,3 +19972,5 @@ def f_1371d38(a,b,c,d,e,f,g,h,i):
     return (a*b-c-d-e*f*g*h-i+f_5bc19a3(a,b,c,d,e,f,g,h,i,161))%10
 def f_3511831(a,b,c,d,e,f,g):
     return (a+b-c-d-e-f-g+f_5a3d7a8(a,b,c,d,e,f)+f_956c1c(a,b)+f_218d38(a,b,c,d,e))%10
+def f_215375f(a,b,c,d,e,f,g,h,i,j):
+    return (a-b*c-d+e*f*g*h-i-j+f_baa793(a,b))%10
