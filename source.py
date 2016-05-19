@@ -48,3 +48,5 @@ def f_1ce677a(a,b,c):
     return (a+b+c+f_323e173(a,b,c,512,416,313,964,3)+f_516909d(a,b,c,633)+f_5e65c19(a,b,c))%10
 def f_521625(a,b,c):
     return (a-b-c+f_982326(a,b)+f_516909d(a,b,c,83)+f_3e77575(a,b,c,632,28,367,275,684,109,746))%10
+def f_154f682(a,b,c,d,e,f,g):
+    return (a-b*c-d+e-f-g+f_404f934(a,b,c)+f_3fc2849(a,b,c,d,e,f)+f_3179eb1(a,b,c,d,e,f,g,163,617))%10
