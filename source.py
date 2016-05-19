@@ -19980,3 +19980,5 @@ def f_c6df18(a,b,c,d,e,f):
     return (a+b-c-d*e-f+f_337dce1(a,b,c,d)+f_22e360b(a)+f_2773d05(a))%10
 def f_51de02a(a,b,c,d,e,f):
     return (a+b-c+d*e-f+f_564427a(a,b,c,d,e)+f_494782f(a,b))%10
+def f_2dec26d(a,b,c,d,e,f,g,h):
+    return (a-b*c-d-e-f-g+h+f_a32f25(a,b,c))%10
