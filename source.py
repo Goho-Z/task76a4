@@ -18220,3 +18220,5 @@ def f_57fc937(a,b):
     return (a-b+f_2f54401(a,b,593))%10
 def f_54515f6(a,b):
     return (a*b+f_51ef9f8(a,b,880,791,96,640))%10
+def f_1579fc(a,b):
+    return (a+b+f_4a8f32(a,b,43,851,639,417,423,849,690)+f_56bca4b(a))%10
