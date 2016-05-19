@@ -9688,3 +9688,5 @@ def f_2b4a9d4(a,b,c,d,e,f,g,h):
     return (a*b+c+d*e*f*g*h+f_2bf406c(a,b,c))%10
 def f_3ee69a(a):
     return (a+f_90c20e(a,717,972,119,729,512,367,679,706,606)+f_41f2d8d(a,97,922,291,490,627)+f_2fa37cf(a))%10
+def f_bead31(a,b,c):
+    return (a+b-c+f_4d33aec(a))%10
