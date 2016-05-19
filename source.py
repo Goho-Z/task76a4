@@ -16340,3 +16340,5 @@ def f_490d400(a,b):
     return (a*b+f_29dc80e(a,b,73,879,658,965,40))%10
 def f_4d6c1b5(a,b):
     return (a-b+f_4454888(a,b))%10
+def f_1dd3(a,b,c,d,e,f):
+    return (a-b+c*d-e*f+f_3e4c442(a))%10
