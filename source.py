@@ -12172,3 +12172,5 @@ def f_4fba8c4(a,b,c,d,e,f):
     return (a*b-c+d*e*f+f_34629bd(a,b,c,d,e)+f_22d4b7c(a))%10
 def f_2d5a403(a,b):
     return (a+b+f_4daee6(a))%10
+def f_2f60c24(a):
+    return (a+f_138aa03(a,93,153))%10
