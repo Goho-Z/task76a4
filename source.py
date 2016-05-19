@@ -1032,3 +1032,5 @@ def f_1497f8a(a):
     return (a+f_1ce677a(a,298,188)+f_b2deff(a,723))%10
 def f_1ad71e9(a,b,c,d):
     return (a-b*c-d+f_38f59d6(a,b))%10
+def f_457fd8f(a,b,c,d,e):
+    return (a+b+c+d-e+f_560928c(a)+f_108d939(a,b,c,d,e,825)+f_54ece66(a,b,c,d,e))%10
