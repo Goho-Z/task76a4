@@ -3602,3 +3602,5 @@ def f_1be1bd6(a,b,c,d,e,f,g):
     return (a-b*c-d-e+f+g+f_19797f(a,b,c,d)+f_41808df(a,b,c)+f_339eb7a(a,b,c))%10
 def f_6f9219(a,b,c,d,e,f,g,h,i):
     return (a*b+c+d+e+f*g-h-i+f_451f9ef(a,b,c,d,e,f,g,h,i,286)+f_4333dea(a,b,c,d))%10
+def f_3427b59(a,b,c,d):
+    return (a+b*c+d+f_2a2260b(a,b,c,d,963))%10
