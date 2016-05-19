@@ -152,3 +152,5 @@ def f_30c3354(a,b,c,d,e,f):
     return (a-b*c*d*e*f+f_33d1eb4(a,b,c,d,e,f,917))%10
 def f_4b32a8a(a,b,c,d,e,f):
     return (a*b*c*d+e+f+f_385ec(a,b,c,d,e,f,953,474))%10
+def f_19797f(a,b,c,d):
+    return (a*b+c-d+f_91596(a)+f_21e3b2e(a,b,c,d,591,344,208,290)+f_323e173(a,b,c,d,195,155,55,46))%10
