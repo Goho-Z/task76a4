@@ -6396,3 +6396,5 @@ def f_573be13(a,b,c,d,e,f,g,h):
     return (a+b*c*d+e+f*g*h+f_2e472e0(a,b,c,d)+f_9d16ab(a,b))%10
 def f_5222034(a):
     return (a+f_42fe8b1(a,804,698,946,60,869,293,440,714))%10
+def f_602af(a,b):
+    return (a*b+f_294b5ea(a,b,963,648)+f_4553dee(a,b,324,144,624,910))%10
