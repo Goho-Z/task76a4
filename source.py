@@ -4914,3 +4914,5 @@ def f_34a10cd(a):
     return (a+f_34c93d3(a,850))%10
 def f_33504c(a,b,c,d,e,f,g,h,i,j):
     return (a+b+c-d-e+f-g-h*i-j+f_6496f0(a,b,c,d,e,f,g,h)+f_25eaa95(a))%10
+def f_2975c12(a,b,c,d,e):
+    return (a+b-c-d+e+f_5112724(a,b,c,d,e,121))%10
