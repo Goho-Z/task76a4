@@ -15772,3 +15772,5 @@ def f_29beac1(a):
     return (a+f_3c88ece(a,410,117,437,206))%10
 def f_22eebe6(a):
     return (a+f_10dab77(a,858,574,365))%10
+def f_5b3ff79(a):
+    return (a+f_1d6c188(a,602,345,843,485,967)+f_13ed1cb(a))%10
