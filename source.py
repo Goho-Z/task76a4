@@ -8912,3 +8912,5 @@ def f_1490d27(a,b,c,d,e,f,g):
     return (a*b-c*d*e*f*g+f_3d099c1(a,b,c,d))%10
 def f_4c3484b(a,b,c,d,e):
     return (a-b-c-d*e+f_1eea9eb(a,b,c,d,e,329))%10
+def f_292c5ac(a,b,c,d,e,f,g,h):
+    return (a+b-c-d+e+f-g+h+f_16119ca(a,b)+f_21f6542(a,b,c,d,e,f,g,h,503,322)+f_2f6efa7(a,b,c,d,e))%10
