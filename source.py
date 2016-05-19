@@ -400,3 +400,5 @@ def f_4bae5af(a,b,c,d):
     return (a+b-c-d+f_3c823f9(a,b,c,d))%10
 def f_3a38bc3(a,b,c,d,e,f,g,h,i):
     return (a*b*c*d*e+f*g-h*i+f_c19fa4(a,b))%10
+def f_50bf704(a,b,c,d,e,f,g,h,i):
+    return (a+b*c+d*e*f+g*h-i+f_2980ac2(a,b,c,d,e)+f_1399b76(a,b))%10
