@@ -4020,3 +4020,5 @@ def f_4dfa235(a,b,c,d,e,f,g,h,i):
     return (a*b*c*d+e*f-g*h+i+f_1b9120c(a,b,c,d,e)+f_3e693f1(a)+f_5b05a10(a,b))%10
 def f_50e206(a,b,c,d,e,f):
     return (a-b*c+d-e+f+f_242b099(a,b,c,d,e,f,154,292))%10
+def f_3f8a171(a):
+    return (a+f_60a3ae(a,14))%10
