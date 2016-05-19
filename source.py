@@ -11788,3 +11788,5 @@ def f_ceac8(a,b,c,d):
     return (a-b*c+d+f_534f9a7(a,b,c,d,193,601)+f_3dac3b3(a,b,c,d,401,298,742))%10
 def f_14fb56(a,b,c,d,e,f,g,h,i,j):
     return (a+b+c-d+e-f-g+h-i+j+f_44ce10(a,b,c,d,e,f,g,h,i)+f_5dbb5ca(a,b,c,d)+f_400e67f(a,b,c,d,e,f,g))%10
+def f_59f6792(a,b):
+    return (a-b+f_4f4ea89(a,b,26,825))%10
