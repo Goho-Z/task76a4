@@ -1972,3 +1972,5 @@ def f_2fea51a(a,b,c,d,e,f,g,h,i):
     return (a-b+c*d*e*f+g+h*i+f_2cc558b(a,b,c,d,e,f)+f_10a4c71(a,b,c,d)+f_1e72a09(a,b,c))%10
 def f_553f93c(a,b):
     return (a*b+f_15a801b(a,b,131))%10
+def f_5e16a8(a,b,c,d,e):
+    return (a-b-c*d*e+f_44057e9(a,b)+f_1883b09(a,b,c,d,e))%10
