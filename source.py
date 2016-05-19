@@ -26,3 +26,5 @@ def f_70450f(a,b):
     return (a-b+f_4829a46(a,b))%10
 def f_21e3b2e(a,b,c,d,e,f,g,h):
     return (a*b-c-d+e*f-g*h+f_276f04f(a,b,c,d)+f_11e6a4f(a,b,c,d,e,f)+f_5e65c19(a,b,c))%10
+def f_3179eb1(a,b,c,d,e,f,g,h,i):
+    return (a+b+c*d*e+f-g+h+i+f_4829a46(a,b)+f_404f934(a,b,c))%10
