@@ -15102,3 +15102,5 @@ def f_1b1f2f3(a):
     return (a+f_4ca03c0(a,452,274,171,55,522))%10
 def f_4d24108(a,b,c,d,e,f,g,h,i,j):
     return (a+b*c*d*e+f*g-h+i-j+f_5b4fed2(a))%10
+def f_2db951(a,b,c,d,e,f,g,h):
+    return (a-b-c*d+e-f*g-h+f_80acda(a,b,c)+f_216da60(a,b,c,d,e,f,g,h)+f_416b3a1(a,b,c,d))%10
