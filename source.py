@@ -5092,3 +5092,5 @@ def f_da33fe(a):
     return (a+f_3fc2849(a,37,523,607,45,201))%10
 def f_2022acb(a,b,c,d,e,f,g):
     return (a+b-c-d*e+f-g+f_24f925c(a,b,c,d,e,f,g))%10
+def f_12e7a93(a,b):
+    return (a*b+f_1ce677a(a,b,213)+f_3fbb87d(a,b,209,531,628,558,654))%10
