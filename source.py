@@ -9162,3 +9162,5 @@ def f_1e93e4d(a):
     return (a+f_3c3429e(a,793,468)+f_25adc76(a,940,741)+f_1ca397c(a,415,173,938,769,659))%10
 def f_4a0da23(a):
     return (a+f_441ceeb(a,966,658,788,560))%10
+def f_599f73a(a,b,c,d,e,f,g,h):
+    return (a+b*c*d*e-f+g*h+f_5b4e10(a,b)+f_3b1468(a,b,c,d,e)+f_5be9955(a,b,c,d,e,f,g))%10
