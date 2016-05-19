@@ -10646,3 +10646,5 @@ def f_157f0b0(a,b):
     return (a+b+f_5bae825(a,b))%10
 def f_31919db(a):
     return (a+f_2ea7d3c(a))%10
+def f_3cf135d(a,b,c,d):
+    return (a-b+c*d+f_f3caa9(a,b,c,d,717,360,431,32))%10
