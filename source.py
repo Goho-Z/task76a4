@@ -12492,3 +12492,5 @@ def f_533c1b(a,b,c,d,e,f,g):
     return (a+b-c+d*e*f-g+f_1496bea(a,b,c,d,e,f,g,671,710,585)+f_37ea591(a,b,c,d))%10
 def f_545fc8c(a,b):
     return (a-b+f_342f08b(a,b,326,2,440,80,661,881))%10
+def f_4bd2d5f(a,b):
+    return (a+b+f_31ea15c(a,b,423,513,984,924,682,67)+f_188d34(a))%10
