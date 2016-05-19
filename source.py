@@ -9700,3 +9700,5 @@ def f_20915ad(a,b,c,d,e):
     return (a+b+c-d+e+f_24b9699(a))%10
 def f_38b137b(a):
     return (a+f_3385123(a,810,569,715,189,620,736))%10
+def f_6c19f0(a,b,c,d):
+    return (a+b*c-d+f_18ee81e(a,b,c,d,747,605,195,650,32))%10
