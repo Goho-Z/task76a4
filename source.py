@@ -718,3 +718,5 @@ def f_20aec75(a,b):
     return (a-b+f_315996e(a,b,283)+f_2ef601b(a,b,792,778,438,637,7,73))%10
 def f_16d9d16(a,b,c):
     return (a+b-c+f_1399b76(a,b)+f_1026acb(a,b))%10
+def f_411436f(a,b,c,d,e,f,g,h,i):
+    return (a+b*c+d*e+f-g-h-i+f_3c823f9(a,b,c,d))%10
