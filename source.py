@@ -16782,3 +16782,5 @@ def f_8f29c5(a):
     return (a+f_3a3bf6b(a,387,518))%10
 def f_1c0ade(a,b,c,d,e,f,g,h):
     return (a-b*c-d-e+f-g-h+f_8b4dde(a))%10
+def f_d67767(a):
+    return (a+f_1fe23f7(a,537)+f_492bc25(a,479,546,374,84))%10
