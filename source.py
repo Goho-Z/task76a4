@@ -3936,3 +3936,5 @@ def f_28be546(a,b,c):
     return (a*b*c+f_2dd390b(a,b,c,860,200,372,164))%10
 def f_5a7532d(a,b,c,d,e):
     return (a+b-c-d-e+f_57bec92(a,b,c,d,e,143,680)+f_3e82263(a,b,c,d,e))%10
+def f_4fa56aa(a,b,c,d):
+    return (a*b+c*d+f_2c9fffc(a,b,c,d,800,292,91)+f_39feb9a(a,b,c,d,168,388,177,342))%10
