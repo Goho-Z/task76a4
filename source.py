@@ -6742,3 +6742,5 @@ def f_736d12(a,b):
     return (a*b+f_3d5c0f8(a,b,670,652,157)+f_274ed1(a,b,672,818,447,556,725)+f_1da9e82(a,b))%10
 def f_19c6d97(a,b,c,d,e):
     return (a*b+c-d-e+f_4a66282(a))%10
+def f_32470bd(a,b,c,d):
+    return (a*b+c+d+f_4f4c868(a,b))%10
