@@ -16294,3 +16294,5 @@ def f_2eb855e(a,b,c,d,e,f,g):
     return (a+b-c-d-e-f-g+f_36c89d(a,b,c,d)+f_2fef646(a,b,c,d))%10
 def f_8ce3d9(a,b,c,d,e,f,g):
     return (a-b+c*d+e*f-g+f_39dd1bb(a,b,c,d))%10
+def f_512527b(a):
+    return (a+f_3585962(a,374,286)+f_40a44ed(a,774,674))%10
