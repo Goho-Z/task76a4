@@ -7802,3 +7802,5 @@ def f_26d917a(a,b,c,d):
     return (a-b-c+d+f_24236a6(a,b,c)+f_2463dd3(a,b,c,d,131)+f_c8354d(a,b,c,d))%10
 def f_5a59cdc(a,b):
     return (a*b+f_1e646f1(a,b,747,93))%10
+def f_59d18e3(a,b,c,d,e,f):
+    return (a*b*c+d-e-f+f_1b1a11a(a,b,c,d,e,f,23,318,218))%10
