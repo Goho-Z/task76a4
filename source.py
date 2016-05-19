@@ -1704,3 +1704,5 @@ def f_21e7549(a,b,c,d):
     return (a*b-c*d+f_bed20b(a,b,c,d,631,945)+f_6ad18c(a,b,c))%10
 def f_535d48(a,b,c,d,e,f):
     return (a+b+c+d*e-f+f_5079b16(a,b)+f_507791a(a)+f_2bbc1b(a,b,c,d,e,f,770))%10
+def f_5f3de83(a,b,c,d,e):
+    return (a-b-c+d+e+f_260786a(a,b,c,d))%10
