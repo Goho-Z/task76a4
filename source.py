@@ -3002,3 +3002,5 @@ def f_33ebfa(a,b,c,d,e,f,g):
     return (a+b+c+d-e+f-g+f_23524be(a,b,c,d,e))%10
 def f_347c04a(a,b,c):
     return (a+b*c+f_59fab6a(a,b,c)+f_2d631f1(a,b,c,787,707,481,224,38,693,364)+f_5ac1c52(a,b))%10
+def f_348faa4(a,b,c,d,e,f,g,h):
+    return (a*b+c+d+e+f*g-h+f_2c2712e(a)+f_41808df(a,b,c))%10
