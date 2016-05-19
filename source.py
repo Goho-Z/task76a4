@@ -18702,3 +18702,5 @@ def f_55d1fc7(a,b,c,d,e,f,g):
     return (a-b+c*d-e-f+g+f_7218e7(a))%10
 def f_486718c(a,b,c,d,e):
     return (a-b*c*d*e+f_4dd7f31(a,b,c,d,e,996))%10
+def f_9730d3(a,b,c,d,e,f,g):
+    return (a*b+c-d+e-f*g+f_20adfab(a,b,c,d,e,f,g,757))%10
