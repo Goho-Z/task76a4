@@ -12942,3 +12942,5 @@ def f_2ddcf1(a,b,c,d,e):
     return (a+b*c+d-e+f_8dc07b(a,b)+f_1fef819(a,b,c,d,e,368,999,778,867))%10
 def f_5b3ca8(a,b,c,d,e,f):
     return (a+b-c+d-e*f+f_3ea7ffb(a,b,c,d))%10
+def f_16a6bd7(a,b,c,d,e):
+    return (a+b+c-d-e+f_2d3af59(a)+f_42dc0a7(a,b)+f_21e2d64(a,b,c,d,e))%10
