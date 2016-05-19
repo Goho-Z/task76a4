@@ -3932,3 +3932,5 @@ def f_a05df(a,b,c,d,e,f,g,h,i,j):
     return (a*b+c*d+e+f+g*h-i+j+f_5aff618(a,b)+f_5a92ec4(a))%10
 def f_5313df1(a,b,c,d,e):
     return (a-b-c*d*e+f_2106135(a,b,c,d,e,856,138)+f_1a4f4e5(a,b,c,d)+f_1341125(a))%10
+def f_28be546(a,b,c):
+    return (a*b*c+f_2dd390b(a,b,c,860,200,372,164))%10
