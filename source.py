@@ -1804,3 +1804,5 @@ def f_bd0828(a,b,c):
     return (a*b-c+f_4d1edbe(a,b,c)+f_af8d03(a,b,c,358,880,920)+f_14f6c14(a,b,c,488))%10
 def f_3d0be15(a,b,c,d,e,f):
     return (a+b*c+d+e+f+f_33aaf47(a)+f_4aecd47(a,b,c,d,e,f,433,825)+f_593757d(a,b,c,d,e,f))%10
+def f_51e8ff1(a,b,c,d,e,f,g):
+    return (a*b*c*d*e-f-g+f_2ba56(a)+f_48edbe8(a,b,c,d))%10
