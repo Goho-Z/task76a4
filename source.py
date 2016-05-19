@@ -922,3 +922,5 @@ def f_31ee089(a,b,c,d):
     return (a+b+c+d+f_4fa4f35(a,b,c,d,516,636,497,498)+f_25bb3cf(a,b,c,d,98,292))%10
 def f_1441969(a,b):
     return (a*b+f_4fe1fea(a,b,466,238,735,429,15))%10
+def f_5a46631(a):
+    return (a+f_1026acb(a,331)+f_913efb(a,4,812,747,551,598,886,187))%10
