@@ -5198,3 +5198,5 @@ def f_278fc85(a,b,c,d,e):
     return (a+b+c-d*e+f_aaf529(a,b,c)+f_52d5548(a,b,c,d,e,824,118,157))%10
 def f_3211195(a):
     return (a+f_2178808(a))%10
+def f_5dadba9(a):
+    return (a+f_60d002(a,164,880)+f_522ac12(a,881,983,447,0))%10
