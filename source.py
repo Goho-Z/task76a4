@@ -4662,3 +4662,5 @@ def f_138aacf(a,b,c):
     return (a*b*c+f_1879420(a,b,c,439,108))%10
 def f_2829d04(a,b,c,d,e,f):
     return (a-b-c+d*e+f+f_fa0da5(a,b))%10
+def f_1bc362a(a,b,c,d):
+    return (a+b*c-d+f_1e77fa5(a,b,c,d,804,117,635,406)+f_1597d82(a,b,c,d,884,793,640,456)+f_5e5fa7e(a,b,c,d))%10
