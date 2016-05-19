@@ -14756,3 +14756,5 @@ def f_419fad6(a):
     return (a+f_42f68d1(a,508,485))%10
 def f_4c586(a,b,c):
     return (a+b*c+f_24e6a4f(a,b,c,476,3,786,430))%10
+def f_189e1af(a,b,c,d,e,f):
+    return (a+b+c-d+e-f+f_a478af(a))%10
