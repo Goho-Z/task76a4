@@ -1918,3 +1918,5 @@ def f_28a90f6(a,b,c,d,e):
     return (a*b*c+d+e+f_1cd2d2e(a,b,c,d,e,435,113))%10
 def f_4cf4f9f(a):
     return (a+f_3d93229(a,549,854,656))%10
+def f_10174fc(a,b,c,d,e,f,g):
+    return (a+b-c-d*e-f-g+f_359cd36(a,b,c,d,e,f,g,271,954,445)+f_3602881(a,b,c,d,e,f)+f_2106135(a,b,c,d,e,f,g))%10
