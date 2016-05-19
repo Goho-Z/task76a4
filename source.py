@@ -18058,3 +18058,5 @@ def f_daf85f(a,b,c,d,e,f,g,h,i,j):
     return (a+b+c*d+e*f+g-h*i-j+f_5bc3a9(a,b,c,d))%10
 def f_a20501(a,b):
     return (a+b+f_2a8afd2(a,b,345))%10
+def f_2c6b161(a,b,c,d,e,f):
+    return (a+b-c*d*e*f+f_2945031(a,b,c,d,e,f,948,895)+f_365ee7e(a,b,c))%10
