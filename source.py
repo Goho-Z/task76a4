@@ -10888,3 +10888,5 @@ def f_2383358(a,b,c,d):
     return (a-b+c+d+f_502cace(a,b,c,d,559,572,594,604))%10
 def f_4ca2963(a,b,c,d,e,f,g,h):
     return (a-b-c*d-e-f*g-h+f_3f34853(a,b,c,d,e,f))%10
+def f_54731e(a,b,c,d,e):
+    return (a+b-c+d-e+f_4c62881(a,b))%10
