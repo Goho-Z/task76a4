@@ -1980,3 +1980,5 @@ def f_54eb7d5(a,b,c,d,e,f,g,h,i):
     return (a*b*c*d*e+f+g+h+i+f_41f5b75(a,b,c,d,e))%10
 def f_8ca6fa(a,b,c,d,e,f):
     return (a-b+c+d-e-f+f_5b1da69(a,b,c,d,e)+f_59fe21(a,b,c)+f_2d34b7f(a,b,c,d,e,f,185,248,395,222))%10
+def f_2728413(a,b,c,d,e,f,g):
+    return (a+b+c-d+e+f*g+f_477b1bc(a,b,c,d,e,f,g,693,23)+f_50bf704(a,b,c,d,e,f,g,663,695)+f_3fc2849(a,b,c,d,e,f))%10
