@@ -388,3 +388,5 @@ def f_24f9f12(a):
     return (a+f_3ee3b81(a,298,267,307,518,547))%10
 def f_574c67b(a):
     return (a+f_e17983(a,876))%10
+def f_4982e4e(a,b,c,d,e,f,g,h):
+    return (a*b*c+d+e-f+g*h+f_20148(a,b,c,d,e,f,g,h,635,218)+f_3e8aba5(a,b,c,d)+f_11b9dd4(a))%10
