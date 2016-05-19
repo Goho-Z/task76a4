@@ -4590,3 +4590,5 @@ def f_21a73ce(a,b):
     return (a*b+f_31ace71(a,b,388,953,633))%10
 def f_2eb3e87(a,b,c):
     return (a+b-c+f_2567a87(a,b,c,747,415))%10
+def f_1b57709(a,b,c,d,e,f):
+    return (a-b-c-d+e*f+f_73e136(a,b,c)+f_2189f8f(a,b,c,d))%10
