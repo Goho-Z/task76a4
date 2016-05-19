@@ -14010,3 +14010,5 @@ def f_10b1b3b(a,b,c,d,e,f,g,h):
     return (a-b+c*d-e*f*g+h+f_b5b72(a,b,c,d,e,f,g)+f_1a963f1(a))%10
 def f_4f93a69(a,b):
     return (a*b+f_59d0ec7(a)+f_5640e98(a)+f_3c2edc4(a,b,207,126,592,44))%10
+def f_3ce02cc(a,b,c,d,e,f):
+    return (a+b+c+d+e*f+f_2c0a0e0(a,b,c,d,e,f)+f_1aeb45b(a)+f_4324f7e(a))%10
