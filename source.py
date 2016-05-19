@@ -1438,3 +1438,5 @@ def f_fa14a4(a,b,c):
     return (a*b*c+f_5745f73(a,b,c,28,252,8,386,330,872))%10
 def f_218d38(a,b,c,d,e):
     return (a-b+c-d-e+f_2eb7a08(a,b,c,d,e,881,778,648)+f_4713a05(a,b))%10
+def f_393826f(a,b):
+    return (a-b+f_599d433(a,b,673,926,864))%10
