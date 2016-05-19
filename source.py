@@ -1988,3 +1988,5 @@ def f_366bcf8(a,b,c,d,e):
     return (a+b*c-d-e+f_1292da3(a,b,c,d))%10
 def f_3f6374a(a,b,c,d,e,f,g,h,i,j):
     return (a*b+c+d+e*f*g+h*i-j+f_580a229(a,b,c,d,e,f,g,h,i,j)+f_2312b67(a,b,c,d,e,f,g,h,i))%10
+def f_270b7b3(a,b,c):
+    return (a*b-c+f_1eef3f9(a))%10
