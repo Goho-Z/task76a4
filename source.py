@@ -8200,3 +8200,5 @@ def f_2608632(a,b,c,d,e,f,g,h,i):
     return (a-b-c*d-e*f*g*h*i+f_dcb5b3(a,b,c,d,e,f,g))%10
 def f_41e580c(a):
     return (a+f_538435e(a,499,893,481)+f_29ef821(a))%10
+def f_3f5fb2e(a,b,c,d,e,f,g,h):
+    return (a-b-c*d-e+f-g+h+f_1b11873(a,b,c,d,e,f,g,h,75,721))%10
