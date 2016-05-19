@@ -8008,3 +8008,5 @@ def f_131d13b(a,b,c):
     return (a*b+c+f_c4a767(a,b,c,220,586,564))%10
 def f_6a3518(a,b,c,d,e,f,g,h):
     return (a*b+c-d*e-f-g*h+f_420f437(a,b))%10
+def f_42f3650(a,b,c,d,e,f,g,h,i,j):
+    return (a*b+c-d+e*f*g*h+i-j+f_4dfc96a(a))%10
