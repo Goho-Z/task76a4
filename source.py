@@ -1978,3 +1978,5 @@ def f_38bea3(a,b,c,d,e,f,g,h,i,j):
     return (a-b-c-d*e*f+g-h*i*j+f_3d40505(a)+f_4aecd47(a,b,c,d,e,f,g,h))%10
 def f_54eb7d5(a,b,c,d,e,f,g,h,i):
     return (a*b*c*d*e+f+g+h+i+f_41f5b75(a,b,c,d,e))%10
+def f_8ca6fa(a,b,c,d,e,f):
+    return (a-b+c+d-e-f+f_5b1da69(a,b,c,d,e)+f_59fe21(a,b,c)+f_2d34b7f(a,b,c,d,e,f,185,248,395,222))%10
