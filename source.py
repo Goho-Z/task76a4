@@ -7224,3 +7224,5 @@ def f_dfcdae(a,b,c,d,e,f,g,h,i,j):
     return (a*b-c+d*e+f*g*h-i-j+f_16119ca(a,b)+f_416965e(a)+f_1a569d0(a,b,c,d,e))%10
 def f_4e001d2(a,b,c,d,e,f,g,h):
     return (a+b*c-d+e*f*g+h+f_3a65141(a,b,c,d,e,f)+f_1f1b052(a,b,c)+f_534f9a7(a,b,c,d,e,f))%10
+def f_3cc594b(a,b,c,d,e,f):
+    return (a+b*c-d-e+f+f_2353a69(a,b,c,d,e,f,479,88,497)+f_19c4ec(a,b,c,d,e,f,449,187,321)+f_2db125d(a))%10
