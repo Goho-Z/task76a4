@@ -7004,3 +7004,5 @@ def f_4d9ebbc(a,b,c,d,e,f,g):
     return (a*b*c-d*e-f*g+f_57d3ff7(a,b,c,d,e,f,g,210,419,229))%10
 def f_38721e1(a,b,c,d,e,f):
     return (a+b*c-d-e-f+f_4a972b0(a,b,c,d,e,f)+f_1a3c967(a,b,c,d,e,f)+f_35cd620(a,b,c,d,e,f,612,784,462,811))%10
+def f_3355b35(a,b,c,d,e,f,g,h,i):
+    return (a-b*c*d+e*f*g+h*i+f_341f65b(a,b)+f_51a7b67(a,b,c,d,e,f))%10
