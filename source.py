@@ -1632,3 +1632,5 @@ def f_3d23968(a,b,c,d):
     return (a-b*c*d+f_17f9f37(a,b,c,d,230,239,852,636,263)+f_1a4a712(a,b))%10
 def f_454ab50(a,b,c,d,e):
     return (a+b-c+d-e+f_1a61f2e(a,b,c,d)+f_1b34bcf(a,b,c,d)+f_1cedf97(a))%10
+def f_3656ab8(a,b,c,d):
+    return (a-b-c+d+f_47c4d0c(a))%10
