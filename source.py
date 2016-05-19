@@ -808,3 +808,5 @@ def f_3ba2b0f(a,b,c):
     return (a*b-c+f_913efb(a,b,c,393,698,945,816,18))%10
 def f_35cf31d(a,b,c,d,e):
     return (a-b*c*d+e+f_1f3c995(a,b,c,d,e,912,150,814))%10
+def f_502cace(a,b,c,d,e,f,g,h):
+    return (a*b-c*d-e-f*g-h+f_53cefd9(a,b)+f_3e4f2e8(a,b,c,d,e,f))%10
