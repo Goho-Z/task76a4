@@ -162,3 +162,5 @@ def f_1ced336(a,b,c,d,e):
     return (a+b-c-d-e+f_516909d(a,b,c,d))%10
 def f_4eb2186(a,b):
     return (a+b+f_29beb15(a,b,872))%10
+def f_315996e(a,b,c):
+    return (a-b-c+f_3fc2849(a,b,c,836,318,119)+f_44bbc00(a,b,c,600,35,775,264,532,381,379))%10
