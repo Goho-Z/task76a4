@@ -19942,3 +19942,5 @@ def f_ec0da3(a,b,c,d,e,f,g):
     return (a-b-c-d+e*f-g+f_4645cc1(a)+f_45a1b65(a,b,c,d,e,f,g)+f_296d667(a))%10
 def f_3917b04(a,b):
     return (a-b+f_4063e69(a,b,87,426,639,277))%10
+def f_48dd793(a,b,c,d,e,f,g,h,i):
+    return (a-b*c*d*e-f+g-h-i+f_367366c(a,b,c)+f_36d79bb(a,b,c)+f_48dbf30(a,b,c,d))%10
