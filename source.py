@@ -5196,3 +5196,5 @@ def f_18053cb(a,b,c,d,e,f,g):
     return (a*b*c*d*e*f+g+f_202ed50(a,b,c,d,e)+f_300f3e6(a,b,c,d,e))%10
 def f_278fc85(a,b,c,d,e):
     return (a+b+c-d*e+f_aaf529(a,b,c)+f_52d5548(a,b,c,d,e,824,118,157))%10
+def f_3211195(a):
+    return (a+f_2178808(a))%10
