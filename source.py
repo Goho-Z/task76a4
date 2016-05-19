@@ -18290,3 +18290,5 @@ def f_2472caa(a):
     return (a+f_29d36a3(a,464,191,407)+f_1dbffea(a)+f_33e46fd(a,548))%10
 def f_15a2682(a,b,c):
     return (a*b*c+f_58040cc(a,b,c)+f_40e1ef1(a,b,c,653,982,117,833))%10
+def f_4aef7(a,b):
+    return (a*b+f_304e9c9(a,b))%10
