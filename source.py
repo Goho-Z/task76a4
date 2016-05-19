@@ -8004,3 +8004,5 @@ def f_4ae24a3(a,b,c,d):
     return (a*b+c*d+f_2c59712(a,b,c)+f_25c5671(a,b,c,d,286,318))%10
 def f_436b084(a,b,c,d,e):
     return (a+b+c*d+e+f_114603(a,b)+f_46510be(a,b,c,d,e,224)+f_3b9b98d(a,b,c,d,e,716))%10
+def f_131d13b(a,b,c):
+    return (a*b+c+f_c4a767(a,b,c,220,586,564))%10
