@@ -1552,3 +1552,5 @@ def f_4dfc96a(a):
     return (a+f_385ec(a,894,411,383,145,31,311,809)+f_4b80977(a,854,896,340,51,223))%10
 def f_747cac(a,b,c,d,e,f,g,h):
     return (a+b*c-d+e-f-g+h+f_4daee6(a))%10
+def f_1d2c10e(a,b,c,d,e,f,g,h,i,j):
+    return (a-b*c+d-e+f*g-h-i-j+f_3d3d7aa(a,b,c,d,e,f,g,h,i,j)+f_5c15e44(a,b,c,d))%10
