@@ -15040,3 +15040,5 @@ def f_3119ea(a):
     return (a+f_3b8ebef(a)+f_5d7856f(a)+f_2101437(a,3,439,461))%10
 def f_53759b9(a,b,c,d,e,f,g,h,i):
     return (a-b+c-d-e*f+g-h+i+f_3809018(a,b,c,d,e,f,g))%10
+def f_45cc494(a):
+    return (a+f_30c2402(a,769,818,731,529)+f_3fa5455(a,468)+f_12f765c(a,126))%10
