@@ -10402,3 +10402,5 @@ def f_e5d54a(a):
     return (a+f_5093bb4(a,251)+f_362369d(a,776,865,743,902,944)+f_292b31b(a,393,89,715,473,12,838,532))%10
 def f_426643d(a,b,c,d,e,f,g,h,i):
     return (a+b+c-d*e-f+g-h+i+f_376c7b(a,b,c,d,e,f,g)+f_14091f6(a,b,c))%10
+def f_428141d(a,b):
+    return (a-b+f_1cafae3(a,b,58,653)+f_1825cfd(a,b,907)+f_3257612(a,b,95))%10
