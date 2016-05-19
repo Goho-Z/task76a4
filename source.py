@@ -2732,3 +2732,5 @@ def f_2d631f1(a,b,c,d,e,f,g,h,i,j):
     return (a*b-c+d+e+f-g+h+i*j+f_2ae3f91(a,b,c,d,e,f,g,h,i,j))%10
 def f_1eccf0c(a,b,c,d,e,f,g,h,i):
     return (a-b+c+d-e-f-g-h+i+f_574c67b(a)+f_5e65c19(a,b,c))%10
+def f_34fef64(a):
+    return (a+f_3da3562(a,400,299,18,214))%10
