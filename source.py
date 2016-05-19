@@ -360,3 +360,5 @@ def f_c19fa4(a,b):
     return (a+b+f_2e3073c(a,b,146,522,526,209,681,708,57,850)+f_50fb1b3(a,b,327,371,452,552,67))%10
 def f_5efb880(a,b,c,d,e,f,g):
     return (a-b+c*d*e+f-g+f_38c990e(a,b,c)+f_1ede232(a,b,c,d,e,f,g)+f_14d0721(a,b,c,d,e,f,g,284,300))%10
+def f_3f11111(a,b,c,d,e):
+    return (a-b+c-d*e+f_2e3793d(a,b,c,d,e,930,976,700,372,983)+f_2f9c842(a,b,c,d,e)+f_1ca99e6(a,b,c,d,e,137,442,349,309,348))%10
