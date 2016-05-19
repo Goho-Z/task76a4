@@ -9602,3 +9602,5 @@ def f_13f6d12(a):
     return (a+f_12a2188(a,695,156,153,950))%10
 def f_7ce0f2(a,b,c,d,e,f,g,h,i,j):
     return (a-b-c*d+e-f-g*h*i+j+f_42c83bc(a,b)+f_39866d8(a,b,c,d,e,f,g))%10
+def f_10dc345(a,b,c):
+    return (a+b-c+f_2658452(a,b,c)+f_1bc362a(a,b,c,102)+f_2266da7(a,b,c))%10
