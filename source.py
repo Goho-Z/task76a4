@@ -19708,3 +19708,5 @@ def f_3d01758(a,b,c,d,e,f,g,h):
     return (a*b-c-d-e+f-g-h+f_5632752(a)+f_20ca02a(a,b,c,d,e))%10
 def f_3cfa196(a,b):
     return (a-b+f_46c4e8e(a,b,0,314)+f_526167a(a,b,600)+f_1ada221(a,b,800,835,924,176,769))%10
+def f_b1e196(a,b,c,d,e):
+    return (a+b*c*d+e+f_43ac9b9(a,b,c)+f_214c1cd(a,b,c,d,e,271,462,604)+f_4af09d2(a))%10
