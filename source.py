@@ -2000,3 +2000,5 @@ def f_b87018(a,b,c,d,e):
     return (a-b*c+d*e+f_5be446d(a,b,c,d,e,729,3,405)+f_1a234a5(a,b,c,d,e,796,841,456))%10
 def f_28b5ddf(a,b,c,d,e,f,g):
     return (a+b+c*d+e*f-g+f_2838358(a,b,c,d,e,f))%10
+def f_4897e56(a,b,c,d,e):
+    return (a*b+c-d-e+f_4cfe4e8(a,b)+f_58addec(a,b,c,d))%10
