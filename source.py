@@ -688,3 +688,5 @@ def f_b2deff(a,b):
     return (a*b+f_4ec8ff0(a,b,448,489,379))%10
 def f_5968ab(a,b,c,d,e,f,g,h,i):
     return (a+b*c*d-e+f*g+h*i+f_44057e9(a,b))%10
+def f_2459d86(a,b,c,d,e,f,g,h):
+    return (a+b+c+d-e+f+g+h+f_583b5a5(a,b,c,d,e)+f_38c990e(a,b,c))%10
