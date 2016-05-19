@@ -1312,3 +1312,5 @@ def f_1c3bd14(a,b):
     return (a*b+f_22f837c(a,b)+f_38f59d6(a,b))%10
 def f_3ea9548(a,b,c,d,e,f,g,h,i,j):
     return (a*b+c+d+e-f-g*h+i*j+f_1a9e185(a,b,c,d,e,f,g,h,i)+f_2bc694e(a,b,c,d,e,f,g,h)+f_4829a46(a,b))%10
+def f_2a1365e(a,b,c,d,e,f,g,h):
+    return (a+b*c+d-e-f+g-h+f_52f60a2(a))%10
