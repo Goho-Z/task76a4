@@ -9610,3 +9610,5 @@ def f_181bf38(a,b,c):
     return (a+b+c+f_438e5f6(a,b))%10
 def f_39ad5d6(a,b):
     return (a-b+f_10dc345(a,b,566)+f_c122bd(a,b,717,328,244))%10
+def f_4fdd41b(a,b,c):
+    return (a-b-c+f_504ca5e(a,b,c,671,528)+f_3551b1e(a,b,c,50,37)+f_12075f(a))%10
