@@ -3806,3 +3806,5 @@ def f_1a19bc8(a):
     return (a+f_1793ab9(a,486,728,66,295,640)+f_11fcba4(a,379,746,592,139,296)+f_396a381(a,322,942,138,652,283))%10
 def f_1ba0fac(a,b,c,d,e,f,g,h,i,j):
     return (a-b*c+d+e*f*g+h-i-j+f_3901b28(a,b,c,d,e,f,g,h))%10
+def f_16537a6(a,b):
+    return (a+b+f_4445cc2(a,b,428)+f_5f3de83(a,b,682,965,609))%10
