@@ -19592,3 +19592,5 @@ def f_25bb82b(a,b):
     return (a-b+f_1b7e1f(a,b)+f_4f7fcdf(a,b,731,721,849,87,405,6))%10
 def f_55a39bb(a):
     return (a+f_54aa18d(a,439,517,754,230))%10
+def f_2bb2a73(a,b,c):
+    return (a*b+c+f_22b0319(a,b,c)+f_4242cb6(a,b,c,148,127,216,757)+f_485be21(a,b,c,133,813))%10
