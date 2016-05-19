@@ -5040,3 +5040,5 @@ def f_101f8af(a,b,c,d,e,f,g):
     return (a+b-c-d*e*f-g+f_5adccf7(a)+f_33fdc38(a))%10
 def f_2c25f2c(a):
     return (a+f_4c676f1(a,391,851,184,45,51,580))%10
+def f_3ad61af(a,b,c,d,e,f):
+    return (a*b-c-d*e+f+f_4bb4f81(a,b,c,d,e,f)+f_485f427(a,b,c)+f_5992ab2(a,b))%10
