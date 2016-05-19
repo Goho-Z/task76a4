@@ -5672,3 +5672,5 @@ def f_60e71d(a,b,c,d,e,f,g,h,i):
     return (a-b*c*d-e+f-g*h+i+f_1a88523(a,b,c,d,e,f)+f_4149f65(a,b,c)+f_102a439(a,b))%10
 def f_f5377d(a):
     return (a+f_4399f8a(a,942,192,815,565,416,689,950,855,67))%10
+def f_5afb330(a,b):
+    return (a-b+f_32d2e88(a,b,510,809,781,628,85,74))%10
