@@ -2024,3 +2024,5 @@ def f_4ac8ddf(a,b,c,d,e,f,g,h,i,j):
     return (a+b*c+d*e+f*g-h+i*j+f_5968ab(a,b,c,d,e,f,g,h,i)+f_599d433(a,b,c,d,e)+f_12ae318(a,b,c,d))%10
 def f_73e136(a,b,c):
     return (a*b-c+f_11b9dd4(a)+f_1de5c2(a,b,c)+f_581eb2d(a,b,c,294,277))%10
+def f_2a665ba(a,b,c,d,e):
+    return (a-b-c*d-e+f_58addec(a,b,c,d))%10
