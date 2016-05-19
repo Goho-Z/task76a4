@@ -18760,3 +18760,5 @@ def f_59fe9f2(a):
     return (a+f_312a479(a))%10
 def f_178df99(a,b,c,d,e):
     return (a+b+c-d-e+f_1972f7c(a,b,c))%10
+def f_22ccf(a,b,c,d,e,f,g):
+    return (a-b*c+d*e-f*g+f_3bb7042(a,b,c,d,e,f,g))%10
