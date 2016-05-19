@@ -19922,3 +19922,5 @@ def f_5793aba(a,b,c,d,e,f,g,h,i):
     return (a+b-c*d+e+f-g+h+i+f_3caa4ae(a)+f_b66524(a,b,c)+f_c45266(a,b,c,d,e,f))%10
 def f_511df21(a,b,c):
     return (a+b+c+f_39151e6(a,b,c,433,993,93,400,250)+f_5553455(a,b,c))%10
+def f_2c7778c(a,b,c,d,e):
+    return (a-b-c-d+e+f_ac3d00(a,b,c,d,e)+f_f0d350(a,b,c,d,e,761,30,121,416))%10
