@@ -10110,3 +10110,5 @@ def f_2112b93(a,b,c,d,e,f):
     return (a-b*c*d-e-f+f_345e051(a,b,c)+f_2b0d6e0(a,b,c)+f_1855f82(a))%10
 def f_3b7575e(a):
     return (a+f_234ac7a(a,191,467,684,857,546))%10
+def f_204928a(a,b,c,d,e):
+    return (a*b+c*d+e+f_e1c2f2(a,b)+f_2913a99(a,b)+f_577579(a))%10
