@@ -2500,3 +2500,5 @@ def f_31b2b92(a,b,c,d,e,f,g,h,i,j):
     return (a+b*c-d+e-f+g-h*i+j+f_411436f(a,b,c,d,e,f,g,h,i)+f_3e77d8e(a,b,c,d,e,f,g)+f_fa5c28(a,b,c))%10
 def f_477b4e3(a,b,c,d,e,f,g,h,i):
     return (a-b+c*d-e*f-g-h*i+f_435f899(a,b,c,d,e,f,g,h))%10
+def f_5112724(a,b,c,d,e,f):
+    return (a*b*c*d-e+f+f_31a4877(a,b,c)+f_247cb52(a))%10
