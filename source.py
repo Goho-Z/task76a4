@@ -15510,3 +15510,5 @@ def f_4e264b8(a):
     return (a+f_31b8e6b(a,46,796,342,60,14,532)+f_4c5e7c(a,719,17,746,2))%10
 def f_1a8a5ca(a):
     return (a+f_3262cff(a,115,29,81,414)+f_5a46631(a)+f_44dd83b(a))%10
+def f_2b96457(a,b,c):
+    return (a+b*c+f_529e4a1(a,b,c)+f_124dc2c(a,b,c)+f_4bff8ea(a,b,c,120,286,122))%10
