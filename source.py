@@ -14664,3 +14664,5 @@ def f_596dfca(a):
     return (a+f_3fb7f21(a,991,650,423,398,19)+f_4cfe4e8(a,437)+f_5d05d85(a,381,321))%10
 def f_e2d0d(a,b,c):
     return (a*b*c+f_58ceeb(a,b,c,166))%10
+def f_b1cd12(a):
+    return (a+f_266bc00(a,759,227,674,634,464,940,922,966))%10
