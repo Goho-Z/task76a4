@@ -12592,3 +12592,5 @@ def f_343f59(a,b,c):
     return (a+b*c+f_56e38ba(a,b,c,344))%10
 def f_5211c1(a,b,c,d,e,f,g,h,i,j):
     return (a-b*c*d*e-f+g-h-i-j+f_3545d90(a,b,c,d,e,f,g,h)+f_3db47ef(a,b,c,d))%10
+def f_25eba23(a,b,c):
+    return (a-b*c+f_3e6ebb7(a,b))%10
