@@ -9912,3 +9912,5 @@ def f_55a41a5(a,b):
     return (a*b+f_2df68ba(a,b,69,613,728,783,310,143,324,618)+f_3fa1059(a,b,131,251,680))%10
 def f_35add(a,b,c,d,e,f,g,h,i):
     return (a-b+c*d+e*f-g-h+i+f_431e2ba(a)+f_131d13b(a,b,c)+f_1029c54(a,b))%10
+def f_31bbb14(a,b,c,d,e,f):
+    return (a+b-c+d+e+f+f_5b8e3e(a,b,c,d,e,f,338,216,3)+f_3d78f6a(a,b,c,d,e,f))%10
