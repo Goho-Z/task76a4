@@ -6000,3 +6000,5 @@ def f_9df887(a):
     return (a+f_3e4f2e8(a,337,278,523,677,216))%10
 def f_134851b(a,b,c,d):
     return (a-b-c+d+f_28049d5(a,b,c)+f_576246f(a,b,c,d,274,230,538,570)+f_3dd9953(a,b,c))%10
+def f_11a2dac(a,b,c,d,e,f,g,h,i,j):
+    return (a*b-c-d*e+f*g*h-i-j+f_35d7dd9(a))%10
