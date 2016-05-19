@@ -1914,3 +1914,5 @@ def f_3ac60d6(a,b):
     return (a+b+f_4755e4c(a,b)+f_2a29cf2(a,b,705,690,134,833,944,344,627)+f_27e5639(a,b,43,579,770,366,488))%10
 def f_1859c08(a,b,c,d,e,f,g):
     return (a+b+c+d*e-f+g+f_274e1ec(a,b,c,d,e,f,g,333,746)+f_363ab03(a,b)+f_3d93229(a,b,c,d))%10
+def f_28a90f6(a,b,c,d,e):
+    return (a*b*c+d+e+f_1cd2d2e(a,b,c,d,e,435,113))%10
