@@ -5914,3 +5914,5 @@ def f_3befeff(a,b,c,d,e,f,g):
     return (a*b+c-d*e-f*g+f_d94493(a,b,c))%10
 def f_5f02659(a,b):
     return (a-b+f_f7abad(a,b,114,448))%10
+def f_1e137b5(a,b,c):
+    return (a-b*c+f_10af6a(a,b,c,148,966)+f_46dad29(a,b,c,889,364,650))%10
