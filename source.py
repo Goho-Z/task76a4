@@ -12464,3 +12464,5 @@ def f_420bb54(a,b,c,d,e,f,g,h,i,j):
     return (a+b*c-d-e+f*g*h-i+j+f_44b8001(a,b))%10
 def f_4913d76(a,b,c,d,e,f,g,h):
     return (a-b+c+d+e+f+g*h+f_524b61e(a,b,c)+f_5496756(a)+f_d178e5(a,b,c,d))%10
+def f_2beed6e(a,b,c):
+    return (a+b*c+f_12a2188(a,b,c,552,224))%10
