@@ -3712,3 +3712,5 @@ def f_341f65b(a,b):
     return (a-b+f_4dd8163(a,b,36,658,734)+f_18eb02e(a,b,798,46,805,719)+f_164c580(a,b,345,395,362,409,833))%10
 def f_5983901(a,b):
     return (a-b+f_46cf2f4(a,b))%10
+def f_536f58d(a,b,c,d,e):
+    return (a-b*c+d*e+f_43f4576(a,b,c,d,e,684))%10
