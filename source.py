@@ -332,3 +332,5 @@ def f_9eacd1(a):
     return (a+f_271d934(a,165,362,558,349,330,554)+f_50fb1b3(a,21,92,207,282,805,846))%10
 def f_28cda19(a,b,c,d,e,f,g):
     return (a+b*c+d-e-f-g+f_60d002(a,b,c))%10
+def f_3d099c1(a,b,c,d):
+    return (a-b+c-d+f_42b43a6(a,b,c,d,737,627,501,679))%10
