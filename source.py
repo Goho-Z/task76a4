@@ -1698,3 +1698,5 @@ def f_2fbcb17(a,b,c):
     return (a+b+c+f_4018f18(a,b,c))%10
 def f_14d855c(a):
     return (a+f_60a3ae(a,884))%10
+def f_1cb396e(a,b,c,d,e,f,g):
+    return (a*b*c*d+e*f*g+f_5315bfa(a,b,c,d,e)+f_5ba2cbc(a))%10
