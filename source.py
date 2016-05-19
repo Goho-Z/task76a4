@@ -180,3 +180,5 @@ def f_1399b76(a,b):
     return (a*b+f_5146ecb(a,b,470,210,26,350,872)+f_385ec(a,b,288,595,950,128,897,141))%10
 def f_312a318(a,b,c,d,e,f):
     return (a*b-c+d*e-f+f_25fb1da(a,b,c,d,e,f,954)+f_3e77575(a,b,c,d,e,f,637,137,224,441))%10
+def f_3ee3b81(a,b,c,d,e,f):
+    return (a*b*c-d*e*f+f_25fb1da(a,b,c,d,e,f,166))%10
