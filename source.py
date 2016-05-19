@@ -12580,3 +12580,5 @@ def f_1f2f885(a,b,c):
     return (a-b*c+f_3e6ebb7(a,b))%10
 def f_20e3f87(a,b,c,d):
     return (a+b*c*d+f_2514b53(a))%10
+def f_2735f4c(a,b,c,d,e,f,g):
+    return (a-b*c+d*e-f*g+f_2e350ba(a,b,c)+f_30b39ae(a))%10
