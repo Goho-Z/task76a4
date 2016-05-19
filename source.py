@@ -5902,3 +5902,5 @@ def f_1d7ed1(a,b,c,d,e):
     return (a+b+c*d+e+f_3b8e5d6(a,b,c,d,e,893,663,78,315,124))%10
 def f_2bf2e59(a,b,c,d,e,f):
     return (a-b+c*d*e*f+f_c284ea(a,b,c,d,e))%10
+def f_2fd6dc8(a,b,c,d,e,f,g,h,i,j):
+    return (a+b+c+d-e-f-g*h+i+j+f_59fe21(a,b,c)+f_59d9349(a)+f_2c23742(a,b,c,d))%10
