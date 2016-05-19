@@ -13148,3 +13148,5 @@ def f_1caa148(a,b,c,d,e,f,g,h):
     return (a-b*c+d+e+f*g-h+f_3974389(a,b,c,d)+f_f5cdec(a,b,c,d,e)+f_304e9c9(a,b))%10
 def f_33ff57d(a,b,c,d):
     return (a-b*c+d+f_90c312(a,b,c,d,68,541)+f_40c7cf4(a,b,c)+f_3f53be4(a,b,c,d,975))%10
+def f_1caef14(a,b,c,d,e,f,g,h):
+    return (a+b+c*d+e*f*g-h+f_37ff134(a,b,c,d,e,f,g,h)+f_572c140(a,b,c,d,e,f))%10
