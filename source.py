@@ -8500,3 +8500,5 @@ def f_435336b(a,b,c,d,e):
     return (a*b*c+d-e+f_420f437(a,b))%10
 def f_18e8f32(a,b,c,d,e,f,g,h,i):
     return (a-b-c+d-e*f-g*h*i+f_50068bb(a,b,c,d,e)+f_82ea8a(a,b,c,d,e,f,g,h)+f_c19fa4(a,b))%10
+def f_4870bf3(a,b,c,d,e):
+    return (a*b-c-d*e+f_36d8c6(a,b,c,d)+f_30527ec(a)+f_320c504(a,b,c,d))%10
