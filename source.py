@@ -2426,3 +2426,5 @@ def f_dbcad4(a,b,c,d,e,f,g,h):
     return (a+b*c-d*e*f*g+h+f_3e77575(a,b,c,d,e,f,g,h,540,814))%10
 def f_4f4527e(a,b,c,d,e,f):
     return (a+b-c-d+e+f+f_2888644(a,b,c,d,e,f,253,117,97,695)+f_943895(a,b,c,d,e,f,264,505,896,846))%10
+def f_334ea5f(a,b,c,d,e,f):
+    return (a+b*c-d*e+f+f_41735c7(a,b,c,d))%10
