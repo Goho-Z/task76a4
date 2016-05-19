@@ -19818,3 +19818,5 @@ def f_d31faa(a,b,c,d,e,f):
     return (a*b*c*d-e-f+f_3358505(a,b,c,d,e,f,596,107)+f_50b5a06(a,b))%10
 def f_486f77c(a,b,c):
     return (a+b+c+f_247d90b(a,b,c))%10
+def f_2e53924(a,b,c,d,e,f,g):
+    return (a-b-c-d*e+f-g+f_1db46a5(a,b,c,d,e,f,g,527)+f_1471f88(a,b,c,d))%10
