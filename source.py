@@ -888,3 +888,5 @@ def f_daf14e(a,b,c):
     return (a-b-c+f_111569f(a,b,c,255,280,829,178,116,291,886))%10
 def f_36b5fd1(a,b,c,d,e,f,g,h,i):
     return (a+b-c-d+e*f*g+h-i+f_431d328(a,b)+f_5b1da69(a,b,c,d,e)+f_8e5b86(a,b,c,d,e,f,g))%10
+def f_3c47d07(a,b,c,d,e,f,g,h,i,j):
+    return (a-b-c*d*e*f-g*h-i-j+f_1026acb(a,b)+f_1df309(a,b,c,d,e,f,g))%10
