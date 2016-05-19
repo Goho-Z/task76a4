@@ -8264,3 +8264,5 @@ def f_24fd94(a,b,c,d):
     return (a+b*c+d+f_49b0278(a,b,c,d,125,771,35,347,485,198))%10
 def f_1782308(a,b,c,d):
     return (a+b*c+d+f_28c7f94(a,b,c,d,248,822))%10
+def f_1cd9613(a,b,c,d,e,f,g,h,i):
+    return (a-b*c-d-e*f+g+h+i+f_1825cfd(a,b,c)+f_5616e24(a,b,c,d))%10
