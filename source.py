@@ -18618,3 +18618,5 @@ def f_54cbcf7(a,b):
     return (a*b+f_21bf193(a)+f_1d7ef35(a,b,131,874,101)+f_4be92ce(a,b,771,445,745,131,144,955,247))%10
 def f_16e217c(a,b,c,d,e,f,g):
     return (a-b-c*d+e+f+g+f_43f9e62(a,b,c,d,e,f)+f_241c7a1(a,b))%10
+def f_20cbcc6(a,b,c,d,e):
+    return (a+b*c*d*e+f_24bb7f6(a,b,c,d,e)+f_12d632(a,b,c,d,e))%10
