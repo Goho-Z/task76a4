@@ -4614,3 +4614,5 @@ def f_bea1ca(a,b,c):
     return (a*b*c+f_4149f65(a,b,c))%10
 def f_52337d7(a,b,c,d,e,f):
     return (a+b+c-d*e+f+f_2d2764e(a)+f_4e9f3fa(a,b,c,d)+f_1b9463e(a,b,c,d,e,f,593,221,891))%10
+def f_1af22(a,b,c,d,e,f):
+    return (a+b+c+d+e-f+f_10677a2(a,b,c,d,e,f,23,270))%10
