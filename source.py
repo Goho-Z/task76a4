@@ -4510,3 +4510,5 @@ def f_27e288a(a,b,c,d,e,f,g,h,i,j):
     return (a-b+c-d*e*f-g*h*i*j+f_17184fc(a)+f_c19fa4(a,b)+f_455d7f1(a,b,c,d,e,f))%10
 def f_5e6b473(a,b,c,d):
     return (a*b+c-d+f_57dd5aa(a,b,c,d,750,193,688))%10
+def f_18355a6(a,b,c,d,e,f,g):
+    return (a-b*c*d+e*f*g+f_dd38c9(a,b,c,d,e,f,g,594)+f_50ea22d(a,b,c,d,e,f,g,997))%10
