@@ -8442,3 +8442,5 @@ def f_4265d66(a,b):
     return (a*b+f_5f28af0(a,b,181,217)+f_2e2f9c7(a,b))%10
 def f_2fcc22a(a,b):
     return (a*b+f_1a221de(a,b,406,46,435,671))%10
+def f_3551b1e(a,b,c,d,e):
+    return (a-b-c*d+e+f_4dcb8bb(a,b,c,d,e,627,823,749,475,651))%10
