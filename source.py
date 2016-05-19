@@ -10008,3 +10008,5 @@ def f_27a7a22(a,b,c,d):
     return (a-b-c+d+f_cebf84(a,b,c,d,687)+f_5128c4(a,b,c,d,8,490,635,438)+f_33f699e(a,b,c,d,152,35,670,538,870,467))%10
 def f_48b3846(a):
     return (a+f_e762cd(a,281,486,571,972)+f_53372f9(a))%10
+def f_ae4cde(a,b,c,d,e,f,g,h):
+    return (a+b+c*d*e*f-g*h+f_3d1a7b(a,b,c,d,e,f,g,h,693,562))%10
