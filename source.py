@@ -8910,3 +8910,5 @@ def f_26f28e4(a,b,c,d,e,f,g,h,i):
     return (a+b+c-d*e-f-g+h+i+f_2be9fd2(a,b,c)+f_bdd55f(a,b,c,d,e))%10
 def f_1490d27(a,b,c,d,e,f,g):
     return (a*b-c*d*e*f*g+f_3d099c1(a,b,c,d))%10
+def f_4c3484b(a,b,c,d,e):
+    return (a-b-c-d*e+f_1eea9eb(a,b,c,d,e,329))%10
