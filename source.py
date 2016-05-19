@@ -19762,3 +19762,5 @@ def f_359a5e5(a,b,c,d,e,f):
     return (a*b+c+d+e-f+f_30f978d(a,b)+f_28c09ba(a,b,c)+f_41bbf44(a,b,c,d))%10
 def f_4658301(a,b,c,d,e,f):
     return (a+b+c+d-e-f+f_3c2650a(a,b,c))%10
+def f_47a3c2a(a,b,c,d,e,f,g,h):
+    return (a*b*c+d*e*f+g*h+f_2112ded(a,b,c,d,e))%10
