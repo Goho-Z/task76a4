@@ -3714,3 +3714,5 @@ def f_5983901(a,b):
     return (a-b+f_46cf2f4(a,b))%10
 def f_536f58d(a,b,c,d,e):
     return (a-b*c+d*e+f_43f4576(a,b,c,d,e,684))%10
+def f_39d0ac5(a,b):
+    return (a+b+f_3a56061(a,b)+f_5c54b35(a)+f_4d70e67(a,b,58,277))%10
