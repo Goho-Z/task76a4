@@ -18110,3 +18110,5 @@ def f_357c757(a,b,c):
     return (a*b+c+f_1ec11e0(a))%10
 def f_1a24483(a,b,c,d):
     return (a*b*c-d+f_446c96d(a,b))%10
+def f_179c92e(a,b,c,d,e,f,g,h,i):
+    return (a*b*c*d*e-f*g-h+i+f_3b2d8d6(a,b,c,d))%10
