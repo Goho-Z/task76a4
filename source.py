@@ -19362,3 +19362,5 @@ def f_4dc07ee(a,b,c,d,e,f,g,h):
     return (a+b-c+d+e-f*g+h+f_57ef01e(a,b))%10
 def f_5832d88(a,b,c):
     return (a+b*c+f_52f1e58(a,b,c,879,666,176,275,714,885)+f_35add(a,b,c,871,3,499,186,735,988))%10
+def f_399526e(a):
+    return (a+f_1dc9c36(a,930,677,300,437,331))%10
