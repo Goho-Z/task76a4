@@ -5018,3 +5018,5 @@ def f_1054e23(a,b,c):
     return (a+b*c+f_51888ff(a,b,c,533))%10
 def f_4406b24(a,b,c,d,e):
     return (a*b-c*d-e+f_2eae12f(a,b,c,d)+f_b83db0(a,b,c,d,e)+f_5579311(a,b,c,d,e))%10
+def f_4b497a7(a,b,c,d,e):
+    return (a*b+c-d*e+f_f44491(a,b,c)+f_1db5efa(a,b,c,d,e,310,290,833))%10
