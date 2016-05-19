@@ -2010,3 +2010,5 @@ def f_a5ef64(a,b,c,d,e):
     return (a*b+c+d+e+f_4043c26(a)+f_52cf15e(a,b,c,d,e,485,30,948,85,192))%10
 def f_1ddfa96(a,b,c,d,e):
     return (a*b+c+d-e+f_2980ac2(a,b,c,d,e)+f_3aabc1d(a,b,c))%10
+def f_4e5e0b8(a,b,c,d,e,f):
+    return (a-b-c*d*e-f+f_3d8b4c3(a,b,c,d,e,f,792))%10
