@@ -19664,3 +19664,5 @@ def f_d1fece(a,b,c,d,e,f,g,h,i,j):
     return (a*b+c*d-e+f+g+h+i-j+f_779a3(a,b,c,d,e,f,g,h))%10
 def f_3c24f90(a,b,c,d,e,f,g,h,i):
     return (a*b-c+d-e-f-g*h+i+f_20e72a3(a,b,c,d,e,f))%10
+def f_29d10fb(a,b,c,d,e):
+    return (a*b-c+d+e+f_41d27b3(a,b,c,d,e,553,729,835,194)+f_1b23b3f(a,b,c,d)+f_b9ca99(a,b,c,d,e,478,407,531,351,130))%10
