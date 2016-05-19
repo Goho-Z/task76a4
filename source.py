@@ -1130,3 +1130,5 @@ def f_e8d919(a):
     return (a+f_4798b94(a,234,584,810,879,871,796,243))%10
 def f_41b5d0e(a,b,c,d,e,f,g):
     return (a+b+c-d-e-f*g+f_4d12f2a(a,b))%10
+def f_2bdde40(a,b,c):
+    return (a+b*c+f_4ec8ff0(a,b,c,110,261))%10
