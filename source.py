@@ -19752,3 +19752,5 @@ def f_6f9140(a,b,c,d,e,f,g,h,i,j):
     return (a+b+c*d-e-f*g-h*i*j+f_2ecf7d4(a,b)+f_39c3c67(a,b,c,d))%10
 def f_3b67aa9(a,b,c,d,e,f,g,h):
     return (a+b-c-d+e-f+g*h+f_1c49624(a,b)+f_5a59cdc(a,b)+f_337acae(a,b,c,d,e,f,g,h,469,157))%10
+def f_36f5079(a,b,c,d,e,f,g,h,i):
+    return (a*b+c-d*e*f-g+h-i+f_13502ed(a))%10
