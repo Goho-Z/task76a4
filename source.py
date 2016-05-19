@@ -182,3 +182,5 @@ def f_312a318(a,b,c,d,e,f):
     return (a*b-c+d*e-f+f_25fb1da(a,b,c,d,e,f,954)+f_3e77575(a,b,c,d,e,f,637,137,224,441))%10
 def f_3ee3b81(a,b,c,d,e,f):
     return (a*b*c-d*e*f+f_25fb1da(a,b,c,d,e,f,166))%10
+def f_90c07b(a,b,c,d,e):
+    return (a*b-c-d+e+f_95c5a4(a,b)+f_dfc6ca(a,b,c)+f_33d1eb4(a,b,c,d,e,236,767))%10
