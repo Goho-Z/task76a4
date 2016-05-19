@@ -5912,3 +5912,5 @@ def f_3874ca0(a,b,c,d,e,f,g,h,i,j):
     return (a-b+c*d*e+f*g-h*i+j+f_11f43c7(a,b,c,d,e,f,g,h,i,j))%10
 def f_3befeff(a,b,c,d,e,f,g):
     return (a*b+c-d*e-f*g+f_d94493(a,b,c))%10
+def f_5f02659(a,b):
+    return (a-b+f_f7abad(a,b,114,448))%10
