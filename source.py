@@ -13880,3 +13880,5 @@ def f_335c5c2(a,b,c,d,e,f,g,h,i,j):
     return (a-b-c-d*e+f-g*h+i-j+f_31ff3b9(a,b,c,d,e,f)+f_11d2a68(a,b)+f_cac87e(a,b,c,d,e,f,g,h,i,j))%10
 def f_2da8357(a,b):
     return (a+b+f_5cfae85(a,b,31,716,914,216,198,237,455,169))%10
+def f_5e56e60(a,b,c,d,e,f,g,h,i):
+    return (a*b+c-d-e+f+g-h-i+f_3201d8f(a,b,c,d,e,f,g,h,i,699)+f_52f0d00(a,b,c,d,e,f,g,h,i,739))%10
