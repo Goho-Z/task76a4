@@ -4742,3 +4742,5 @@ def f_36d0421(a,b,c,d,e,f,g,h):
     return (a+b-c-d+e*f-g-h+f_23b8ece(a,b,c)+f_9d1d7e(a,b,c,d,e,f))%10
 def f_f3caa9(a,b,c,d,e,f,g,h):
     return (a-b-c+d+e+f*g*h+f_40375e9(a,b,c,d,e))%10
+def f_39df581(a,b,c,d,e,f,g):
+    return (a+b+c*d+e+f+g+f_5d2945d(a,b,c,d,e))%10
