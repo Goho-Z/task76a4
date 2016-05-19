@@ -5952,3 +5952,5 @@ def f_220cc06(a,b):
     return (a-b+f_5ec7472(a))%10
 def f_541caf9(a,b,c,d,e,f,g,h,i,j):
     return (a-b*c+d-e*f+g+h-i*j+f_116376a(a)+f_5f359a(a,b,c,d,e,f,g))%10
+def f_247118a(a):
+    return (a+f_1ca9b01(a,73,223,436,960,265,604,723,281))%10
