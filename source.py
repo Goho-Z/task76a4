@@ -3454,3 +3454,5 @@ def f_3fb7f21(a,b,c,d,e,f):
     return (a*b-c-d*e-f+f_182b4cf(a,b,c,d,e,f,552,904))%10
 def f_2e9b1bb(a,b,c,d,e,f,g,h,i):
     return (a+b-c*d*e-f-g-h+i+f_514f863(a,b,c,d,e,f,g,h,i))%10
+def f_20b855b(a,b,c):
+    return (a*b+c+f_3d23a1b(a,b,c,178,516))%10
