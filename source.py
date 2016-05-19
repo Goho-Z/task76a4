@@ -14936,3 +14936,5 @@ def f_d1dfad(a,b):
     return (a-b+f_232745b(a,b,728,48,406,627,118,892)+f_201cc2a(a,b,315,641,127,471,894,984,784,314))%10
 def f_4a7a1da(a,b,c,d):
     return (a-b*c+d+f_416f6fc(a,b,c,d,251,780,60,992)+f_2fbb75a(a,b,c,d,421,927,181,724)+f_4d90cfd(a,b,c,d,361,739,480,451))%10
+def f_5990722(a,b,c,d,e,f):
+    return (a-b+c*d+e-f+f_d1926e(a,b,c,d,e)+f_497b3b6(a,b)+f_31fd7d4(a,b,c,d,e,f,861,322))%10
