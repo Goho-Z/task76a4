@@ -19662,3 +19662,5 @@ def f_1f4048a(a,b,c,d):
     return (a+b*c*d+f_2ea7a07(a)+f_40200a2(a,b,c,d,118,433,119,488)+f_572753(a,b))%10
 def f_d1fece(a,b,c,d,e,f,g,h,i,j):
     return (a*b+c*d-e+f+g+h+i-j+f_779a3(a,b,c,d,e,f,g,h))%10
+def f_3c24f90(a,b,c,d,e,f,g,h,i):
+    return (a*b-c+d-e-f-g*h+i+f_20e72a3(a,b,c,d,e,f))%10
