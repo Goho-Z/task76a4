@@ -1304,3 +1304,5 @@ def f_23b8ece(a,b,c):
     return (a*b+c+f_2b14842(a,b,c,527,691))%10
 def f_30ca052(a):
     return (a+f_315996e(a,59,606)+f_47a37f5(a,801)+f_230c9af(a,867))%10
+def f_5115e03(a):
+    return (a+f_2e2f9c7(a,43)+f_19a363f(a,753,974,766,710,598))%10
