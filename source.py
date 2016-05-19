@@ -9608,3 +9608,5 @@ def f_175df70(a,b):
     return (a+b+f_3575ecd(a,b,634,917)+f_36b5fd1(a,b,500,32,340,410,178,656,850)+f_2d2764e(a))%10
 def f_181bf38(a,b,c):
     return (a+b+c+f_438e5f6(a,b))%10
+def f_39ad5d6(a,b):
+    return (a-b+f_10dc345(a,b,566)+f_c122bd(a,b,717,328,244))%10
