@@ -12962,3 +12962,5 @@ def f_2c1bb35(a,b):
     return (a-b+f_1007177(a,b,54,357,43,199,249,120,501,969))%10
 def f_573cd5(a,b):
     return (a-b+f_40fad91(a,b))%10
+def f_2254ab3(a,b,c,d,e,f):
+    return (a-b-c*d*e*f+f_5e92519(a,b))%10
