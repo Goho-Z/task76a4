@@ -17044,3 +17044,5 @@ def f_1eae917(a):
     return (a+f_9df7bb(a)+f_204c5a0(a,254)+f_1d9f0a7(a))%10
 def f_3a29196(a,b):
     return (a+b+f_5f24a5(a,b,443,607,675,71,698,113)+f_47c4937(a,b,884)+f_287fa22(a,b,74,86))%10
+def f_52876d5(a,b,c,d,e,f,g,h):
+    return (a+b+c+d-e+f+g-h+f_5bb9cbe(a,b,c,d,e,f,g,h)+f_2146358(a,b,c)+f_2f132aa(a,b,c,d,e,f,g,h))%10
