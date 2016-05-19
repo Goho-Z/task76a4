@@ -19994,3 +19994,5 @@ def f_5d66d5e(a,b,c,d,e,f):
     return (a+b*c+d*e-f+f_293597f(a,b,c))%10
 def f_5d5077b(a,b,c,d,e,f,g):
     return (a*b-c+d-e+f*g+f_3496a88(a))%10
+def f_bca27f(a,b):
+    return (a*b+f_124fe73(a,b,636)+f_4265d66(a,b))%10
