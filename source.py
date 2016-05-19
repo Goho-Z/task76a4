@@ -19718,3 +19718,5 @@ def f_17ced94(a,b,c):
     return (a-b*c+f_55979ae(a,b,c,445,29,638,439,732)+f_50e206(a,b,c,313,779,19)+f_3974389(a,b,c,165))%10
 def f_1f8139b(a,b,c):
     return (a-b+c+f_3409a57(a))%10
+def f_b64599(a,b,c,d):
+    return (a+b*c-d+f_12e87d6(a,b,c,d,876,358,956,631,394)+f_2dd61b9(a,b,c,d,929))%10
