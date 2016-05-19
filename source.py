@@ -9828,3 +9828,5 @@ def f_1d32bbc(a,b,c,d,e,f):
     return (a*b*c-d+e+f+f_1f10642(a,b,c,d,e,f)+f_5818557(a,b,c,d,e,f,339)+f_272f88a(a,b,c,d,e,f,857,521,223))%10
 def f_22e507b(a,b,c,d,e,f,g):
     return (a*b+c-d-e-f-g+f_52434e4(a,b)+f_268411a(a,b,c,d,e)+f_20aec75(a,b))%10
+def f_2a8f90f(a):
+    return (a+f_fbacea(a,211,490,115,699,715)+f_12d5c01(a,687,333,528,496,190,257,618))%10
