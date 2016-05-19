@@ -19632,3 +19632,5 @@ def f_4a1f78a(a):
     return (a+f_2f0a670(a))%10
 def f_2159431(a,b,c,d,e,f,g,h,i,j):
     return (a-b*c-d*e-f*g*h*i+j+f_1d0ee76(a,b,c,d,e,f,g,h,i,j))%10
+def f_57c9f45(a,b):
+    return (a-b+f_8792a2(a)+f_44a3739(a,b,921,474)+f_3bbef40(a,b,759,42,905,625,412,919))%10
