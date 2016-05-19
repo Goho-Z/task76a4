@@ -5710,3 +5710,5 @@ def f_56acabb(a,b,c,d):
     return (a+b*c*d+f_26fd29(a,b,c,d,868,964,375,361,460))%10
 def f_43c034f(a,b,c,d,e,f,g,h,i):
     return (a*b-c-d-e-f-g-h+i+f_35395e7(a,b,c,d,e,f))%10
+def f_569b98d(a,b,c,d,e,f,g,h,i):
+    return (a-b*c+d-e*f+g-h*i+f_14bb80c(a,b,c)+f_91883d(a,b))%10
