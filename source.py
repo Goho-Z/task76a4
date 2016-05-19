@@ -7392,3 +7392,5 @@ def f_4fab087(a,b,c,d,e,f,g,h):
     return (a-b-c-d*e+f-g-h+f_4a40855(a,b,c,d,e,f,g,h,416))%10
 def f_49cbfe5(a):
     return (a+f_2168fc6(a,793))%10
+def f_26baade(a,b):
+    return (a*b+f_4a66282(a)+f_364e6b2(a,b,625))%10
