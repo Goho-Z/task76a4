@@ -5600,3 +5600,5 @@ def f_3b15a32(a,b):
     return (a-b+f_16b9868(a,b,479,631,318,442,461,824,408)+f_e575bf(a))%10
 def f_116ae4a(a,b,c,d,e,f,g):
     return (a*b*c+d*e+f-g+f_2b83590(a))%10
+def f_3b49f20(a,b,c,d,e):
+    return (a-b-c*d-e+f_227cfdf(a,b,c,d)+f_170c599(a))%10
