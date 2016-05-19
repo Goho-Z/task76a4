@@ -8020,3 +8020,5 @@ def f_144156c(a,b,c):
     return (a+b-c+f_4da73dc(a,b,c,130,196,496,706))%10
 def f_5160a08(a,b,c,d,e,f):
     return (a*b+c*d+e*f+f_5a6755c(a,b,c,d,e,f,829))%10
+def f_412c645(a):
+    return (a+f_446e8c3(a,473,970,585)+f_4fca43c(a,921,988,52,944,316))%10
