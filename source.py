@@ -5352,3 +5352,5 @@ def f_10de027(a,b):
     return (a*b+f_5f2bf00(a,b,718,552,863,974,374))%10
 def f_2224044(a,b,c,d):
     return (a-b*c*d+f_2ec18dd(a,b,c))%10
+def f_59ec313(a,b):
+    return (a-b+f_441ceeb(a,b,928,753,527))%10
