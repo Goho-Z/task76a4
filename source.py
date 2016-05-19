@@ -2852,3 +2852,5 @@ def f_299b7d1(a,b,c,d,e,f,g,h,i):
     return (a-b-c+d-e+f-g*h*i+f_4eb2186(a,b)+f_1c44cb0(a,b,c,d,e,f,g,h,i)+f_2d61965(a,b))%10
 def f_26d6ed1(a,b,c,d,e,f,g,h):
     return (a-b*c-d-e-f*g*h+f_5a92ec4(a)+f_50ecc09(a,b,c,d,e,f)+f_4dfa0c1(a,b,c))%10
+def f_2d4b269(a,b,c):
+    return (a-b+c+f_25c5319(a,b,c,990,170,606,981,674))%10
