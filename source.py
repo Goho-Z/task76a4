@@ -6442,3 +6442,5 @@ def f_43a66c6(a):
     return (a+f_ce5b14(a,433,184))%10
 def f_d10931(a,b):
     return (a-b+f_28cda19(a,b,349,855,690,262,13)+f_220cc06(a,b))%10
+def f_256becc(a,b,c,d,e,f,g,h,i,j):
+    return (a*b-c*d+e*f+g+h-i+j+f_557064c(a,b)+f_41e10b9(a)+f_eefc1d(a,b,c,d,e))%10
