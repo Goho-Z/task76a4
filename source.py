@@ -7018,3 +7018,5 @@ def f_338a4d3(a):
     return (a+f_b8a492(a,556,212,386,43,93,166,890,910)+f_267a198(a)+f_490ef8a(a,795))%10
 def f_c5f47b(a):
     return (a+f_10a1d56(a))%10
+def f_564e625(a,b,c,d):
+    return (a-b-c*d+f_3ca7a32(a,b,c)+f_2343ff(a,b,c,d,578,530))%10
