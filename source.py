@@ -6610,3 +6610,5 @@ def f_80acda(a,b,c):
     return (a-b-c+f_33f699e(a,b,c,882,946,19,423,422,420,71)+f_a06096(a)+f_1270d9a(a))%10
 def f_19a95be(a,b,c,d,e,f,g,h,i,j):
     return (a+b*c*d-e-f+g+h+i+j+f_3f380ae(a,b)+f_52f1e58(a,b,c,d,e,f,g,h,i)+f_50382d2(a,b,c,d))%10
+def f_2ec1a3e(a,b,c,d,e,f,g,h):
+    return (a+b-c*d+e-f+g*h+f_5e52504(a,b,c,d,e,f)+f_138ec95(a,b,c,d,e,f)+f_1441969(a,b))%10
