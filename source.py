@@ -1048,3 +1048,5 @@ def f_538c8b4(a,b,c):
     return (a*b+c+f_2a29cf2(a,b,c,859,547,203,515,177,221))%10
 def f_41808df(a,b,c):
     return (a*b+c+f_25002b2(a)+f_3fa1059(a,b,c,606,20))%10
+def f_58addec(a,b,c,d):
+    return (a+b-c-d+f_3915a58(a,b,c,d,447,797,969,83,270))%10
