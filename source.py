@@ -6168,3 +6168,5 @@ def f_bb794(a,b):
     return (a-b+f_247cb52(a)+f_492bc25(a,b,17,462,563)+f_4b35414(a,b,781))%10
 def f_102fc91(a,b,c):
     return (a*b+c+f_2fb0fc0(a,b,c,67)+f_84b913(a,b,c,807,251,488)+f_ad64c2(a,b,c,615,25,329,556))%10
+def f_2f1c18e(a,b,c,d,e,f,g,h):
+    return (a+b-c-d+e-f-g*h+f_5801656(a,b))%10
