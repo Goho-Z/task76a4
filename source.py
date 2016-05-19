@@ -19806,3 +19806,5 @@ def f_3ff5016(a,b,c,d,e,f,g,h,i):
     return (a+b+c+d-e-f-g*h*i+f_4685083(a,b,c,d,e,f)+f_54733ad(a,b,c,d,e,f,g)+f_22a1bb5(a,b,c,d))%10
 def f_5ea407(a,b,c,d,e,f,g):
     return (a*b-c*d-e-f+g+f_224d105(a,b,c,d,e))%10
+def f_3d8c3c7(a,b,c):
+    return (a*b+c+f_100ddc6(a,b,c,568,261)+f_441f9fb(a,b,c,821,994)+f_5e65b33(a,b,c,315,394,736))%10
