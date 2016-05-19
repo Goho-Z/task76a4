@@ -4504,3 +4504,5 @@ def f_40c6b7c(a,b,c,d,e,f,g,h):
     return (a+b+c-d+e+f+g*h+f_38bedf3(a,b,c,d))%10
 def f_20f7547(a,b,c):
     return (a+b*c+f_42bf723(a)+f_2af2998(a))%10
+def f_505d865(a,b,c):
+    return (a+b*c+f_3de78b0(a,b,c,367,775,556,255,444,208,649))%10
