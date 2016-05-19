@@ -550,3 +550,5 @@ def f_1559a18(a,b,c,d,e):
     return (a*b+c-d*e+f_5b1da69(a,b,c,d,e)+f_1a5d76b(a)+f_58bc2(a,b,c,d))%10
 def f_59d499a(a,b,c,d,e,f,g):
     return (a+b-c-d*e+f+g+f_cef9d5(a,b,c,d,e,f)+f_3af46d9(a,b,c,d,e,f,g,679)+f_48876b1(a,b,c,d,e))%10
+def f_1d447b0(a,b):
+    return (a+b+f_28cda19(a,b,412,193,44,387,739))%10
