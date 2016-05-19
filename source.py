@@ -1994,3 +1994,5 @@ def f_47d10bb(a,b,c,d,e,f,g,h):
     return (a-b-c*d*e-f*g-h+f_2d0cb01(a,b,c,d)+f_21eb0c7(a,b,c)+f_24b75b(a,b,c,d,e))%10
 def f_3c77937(a,b,c):
     return (a*b-c+f_4be4ebd(a,b,c,80,296,558,104,174))%10
+def f_3957f27(a,b,c):
+    return (a*b*c+f_fb3a1c(a,b,c,735,884,890,380,129))%10
