@@ -712,3 +712,5 @@ def f_13cbccf(a,b,c,d):
     return (a*b*c*d+f_1537206(a,b,c,d,640,79))%10
 def f_262b449(a,b):
     return (a*b+f_3a38bc3(a,b,701,560,90,821,939,624,387)+f_dd95e8(a,b,826,520)+f_e17983(a,b))%10
+def f_40fbd9b(a,b,c,d,e,f,g):
+    return (a-b-c*d-e-f*g+f_46db2d0(a,b,c,d,e)+f_3f26d4f(a,b,c,d,e,f,g)+f_11e6a4f(a,b,c,d,e,f))%10
