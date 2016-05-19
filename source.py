@@ -17134,3 +17134,5 @@ def f_431dede(a,b,c,d):
     return (a-b*c+d+f_46eb4e6(a,b,c,d,445,982,200)+f_23745e8(a,b))%10
 def f_2f0706b(a):
     return (a+f_177beea(a,841,394,194,51)+f_1f2e602(a,711,311,287)+f_3a0cf23(a,839,49,70,333,801))%10
+def f_33e4d90(a,b,c,d,e,f,g):
+    return (a+b-c+d-e*f+g+f_563ee42(a,b,c))%10
