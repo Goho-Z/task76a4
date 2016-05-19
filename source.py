@@ -7444,3 +7444,5 @@ def f_3bab4f(a,b,c,d,e,f,g,h,i,j):
     return (a-b+c-d+e*f*g-h-i+j+f_1daf4f5(a,b,c,d))%10
 def f_91c329(a,b,c,d,e,f):
     return (a+b+c+d-e*f+f_2844de3(a,b,c,d,e,f,510))%10
+def f_602942(a,b,c,d,e,f):
+    return (a+b-c-d+e*f+f_345e051(a,b,c)+f_2d0cb01(a,b,c,d)+f_22cbf18(a,b))%10
