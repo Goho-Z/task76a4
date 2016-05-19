@@ -1402,3 +1402,5 @@ def f_247cb52(a):
     return (a+f_2118f76(a,480,535,446,255,633,862,49,106)+f_108ee0a(a,392,793,214,189,554,495,820)+f_260786a(a,812,777,937))%10
 def f_5318064(a,b,c,d,e,f,g,h,i):
     return (a*b*c*d+e*f+g+h+i+f_6b1b2d(a,b,c,d,e,f))%10
+def f_272f88a(a,b,c,d,e,f,g,h,i):
+    return (a+b*c-d-e-f-g-h-i+f_41808df(a,b,c))%10
