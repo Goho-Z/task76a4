@@ -450,3 +450,5 @@ def f_35548dd(a,b,c):
     return (a+b-c+f_28bfb93(a,b,c,180,215,449,946,962)+f_1df309(a,b,c,143,160,139,435)+f_3f11111(a,b,c,599,108))%10
 def f_16b9868(a,b,c,d,e,f,g,h,i):
     return (a+b-c*d*e*f*g-h+i+f_4a02c54(a,b,c,d,e)+f_4aecd47(a,b,c,d,e,f,g,h))%10
+def f_386649d(a,b,c,d,e,f,g):
+    return (a*b*c*d+e*f+g+f_516909d(a,b,c,d)+f_1132978(a))%10
