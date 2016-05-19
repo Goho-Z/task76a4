@@ -6016,3 +6016,5 @@ def f_600add(a,b,c,d,e):
     return (a*b+c+d*e+f_1c26bb(a,b,c,d,e,539,333,553)+f_10ff41e(a,b,c)+f_58cff5e(a,b,c,d,e))%10
 def f_1b99ce(a):
     return (a+f_a424ab(a,389,56,21,996)+f_1d0a127(a,465))%10
+def f_b66248(a,b,c,d,e,f,g,h):
+    return (a*b-c*d*e-f*g*h+f_1b9244e(a,b,c,d,e,f,g,h,217))%10
