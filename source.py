@@ -9084,3 +9084,5 @@ def f_3c80123(a,b,c,d,e,f):
     return (a-b-c+d-e-f+f_117663a(a,b,c,d,e,f,873,990)+f_35559fa(a,b))%10
 def f_420899c(a,b,c,d):
     return (a-b-c-d+f_50970a6(a,b,c)+f_6b1b2d(a,b,c,d,124,569)+f_a49c68(a))%10
+def f_1456857(a,b,c,d,e,f,g,h):
+    return (a*b*c*d+e+f-g*h+f_52c5a96(a,b,c,d,e,f,g,h))%10
