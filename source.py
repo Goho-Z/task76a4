@@ -10020,3 +10020,5 @@ def f_1dbffea(a):
     return (a+f_1d010c3(a,749,507,376,736,93,308)+f_4d3702b(a,115,672,341,780,347))%10
 def f_46ef7bc(a,b):
     return (a+b+f_2c333a4(a,b,697)+f_a32f25(a,b,289))%10
+def f_1cafae3(a,b,c,d):
+    return (a+b*c*d+f_2215996(a,b,c,d,894,278,745,603)+f_480c03(a,b))%10
