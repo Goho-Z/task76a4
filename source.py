@@ -3020,3 +3020,5 @@ def f_33fdc38(a):
     return (a+f_1f0f0d1(a,642,538,303,529,456,29,843))%10
 def f_46982a6(a):
     return (a+f_25adc76(a,724,654))%10
+def f_16dc44f(a,b,c,d,e,f,g,h,i):
+    return (a+b+c-d*e-f+g*h-i+f_513f75a(a,b,c,d,e,f))%10
