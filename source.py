@@ -12856,3 +12856,5 @@ def f_1acadd6(a,b,c,d,e,f,g,h):
     return (a*b-c+d*e*f-g-h+f_1f91fa8(a,b,c,d,e,f,g,h,271,482))%10
 def f_235283(a,b):
     return (a-b+f_4399e97(a,b,281,643,507,468))%10
+def f_1d88e63(a,b,c,d,e):
+    return (a*b*c+d*e+f_1f30af9(a,b,c)+f_563ee42(a,b,c)+f_20084a5(a,b,c,d,e))%10
