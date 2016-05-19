@@ -1792,3 +1792,5 @@ def f_2c02298(a,b,c,d,e,f,g):
     return (a+b-c+d+e-f*g+f_25fb1da(a,b,c,d,e,f,g)+f_380cad4(a,b,c,d,e,f))%10
 def f_11171e9(a,b,c,d,e,f,g,h,i):
     return (a-b-c+d+e-f+g*h*i+f_8a3065(a))%10
+def f_567df50(a,b,c):
+    return (a-b*c+f_c45266(a,b,c,136,687,140)+f_3d40505(a))%10
