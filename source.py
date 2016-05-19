@@ -60,3 +60,5 @@ def f_4561101(a,b,c,d,e,f,g,h,i):
     return (a-b+c+d-e-f+g*h*i+f_44bbc00(a,b,c,d,e,f,g,h,i,47)+f_44bbc00(a,b,c,d,e,f,g,h,i,147))%10
 def f_2d2e151(a):
     return (a+f_1c44cb0(a,211,154,183,863,523,171,643,100))%10
+def f_5db3fab(a,b,c,d,e):
+    return (a+b+c-d*e+f_1543215(a,b,c)+f_521625(a,b,c))%10
