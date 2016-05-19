@@ -482,3 +482,5 @@ def f_293206a(a,b,c,d,e):
     return (a-b+c*d+e+f_1adec04(a,b,c)+f_3baeede(a,b,c,d,e,725,50,307,65))%10
 def f_365ee7e(a,b,c):
     return (a+b-c+f_99b8eb(a,b,c,889)+f_1399b76(a,b))%10
+def f_5accc7d(a,b):
+    return (a+b+f_28bfb93(a,b,929,772,980,881,588,254)+f_11948c1(a,b,280,825,153,726,427,148,189,945)+f_30c3354(a,b,83,861,970,833))%10
