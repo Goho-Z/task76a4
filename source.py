@@ -1774,3 +1774,5 @@ def f_b424f4(a):
     return (a+f_1b9654d(a,166,664))%10
 def f_3c68469(a,b):
     return (a+b+f_2d2468e(a,b,381,104,245)+f_393826f(a,b))%10
+def f_317f52c(a,b):
+    return (a+b+f_25002b2(a))%10
