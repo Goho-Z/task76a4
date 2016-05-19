@@ -5364,3 +5364,5 @@ def f_30527ec(a):
     return (a+f_2980ac2(a,555,476,770,553))%10
 def f_393142a(a,b,c,d,e,f,g,h,i,j):
     return (a-b+c*d+e*f*g-h-i-j+f_2efd9d9(a,b,c,d,e,f,g))%10
+def f_5815786(a):
+    return (a+f_320c504(a,374,196,145)+f_3b90b97(a,647,54,607,509,400))%10
