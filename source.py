@@ -3858,3 +3858,5 @@ def f_9dfac(a,b,c):
     return (a+b+c+f_28a147f(a,b,c,681)+f_2c9a059(a,b))%10
 def f_1b403d4(a,b,c,d,e,f):
     return (a+b+c*d+e+f+f_5d6c325(a,b,c))%10
+def f_cef5c8(a,b):
+    return (a-b+f_11171e9(a,b,365,162,23,667,872,460,78)+f_1c85f2d(a,b,325))%10
