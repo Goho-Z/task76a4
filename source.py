@@ -19410,3 +19410,5 @@ def f_34c898c(a,b,c,d,e,f):
     return (a*b-c+d+e-f+f_59f6b1(a,b,c,d,e)+f_20bdd02(a,b,c))%10
 def f_5ce8a88(a,b):
     return (a+b+f_1f1ba65(a))%10
+def f_1dd45aa(a):
+    return (a+f_45b1b1e(a,644,268,197,812,432,256,103,888)+f_2e1cd80(a,330,810,294,203,993)+f_990a2a(a,164,351,168,52))%10
