@@ -13158,3 +13158,5 @@ def f_418762e(a,b):
     return (a-b+f_4cfe4e8(a,b)+f_433fc2(a,b,118,590)+f_25c25e(a,b,301,670,853))%10
 def f_1ba110d(a,b,c):
     return (a*b*c+f_10fc5e3(a,b,c,171,671,718,606,577,598)+f_58ba6a6(a,b,c,297,872,474,783,465,249,616))%10
+def f_1bdb91(a,b,c,d,e):
+    return (a-b*c+d+e+f_4a92840(a,b,c,d,e,851,199)+f_3bc55f7(a,b,c,d))%10
