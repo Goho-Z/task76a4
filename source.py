@@ -4562,3 +4562,5 @@ def f_31d930c(a,b,c,d,e,f,g,h):
     return (a-b+c*d*e+f*g+h+f_170d1f8(a,b,c,d,e,f,g,h,469)+f_267a198(a))%10
 def f_4bb0f13(a,b,c,d,e,f,g,h):
     return (a-b-c-d*e-f+g*h+f_12b269e(a,b,c,d,e,f,g,h,825,946)+f_e1e6e4(a,b,c,d,e,f,g,h))%10
+def f_355bec6(a,b,c,d,e,f,g,h,i,j):
+    return (a-b*c*d*e-f-g*h-i-j+f_4aef340(a,b,c)+f_523b79a(a,b,c,d,e,f,g,h,i))%10
