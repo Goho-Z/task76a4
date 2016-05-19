@@ -1802,3 +1802,5 @@ def f_1eef3f9(a):
     return (a+f_1c44cb0(a,902,440,659,885,830,136,892,529)+f_4b32a8a(a,949,731,616,917,837)+f_8e5b86(a,993,435,844,942,456,521))%10
 def f_bd0828(a,b,c):
     return (a*b-c+f_4d1edbe(a,b,c)+f_af8d03(a,b,c,358,880,920)+f_14f6c14(a,b,c,488))%10
+def f_3d0be15(a,b,c,d,e,f):
+    return (a+b*c+d+e+f+f_33aaf47(a)+f_4aecd47(a,b,c,d,e,f,433,825)+f_593757d(a,b,c,d,e,f))%10
