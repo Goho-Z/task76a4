@@ -2562,3 +2562,5 @@ def f_34dfab(a):
     return (a+f_5ab63cb(a,537))%10
 def f_1fdce67(a,b,c,d,e,f,g,h,i):
     return (a-b-c*d-e-f-g+h-i+f_154f682(a,b,c,d,e,f,g)+f_593757d(a,b,c,d,e,f)+f_419055b(a,b))%10
+def f_4a0e0a2(a,b,c,d,e,f,g):
+    return (a+b+c-d*e*f+g+f_1be0906(a,b,c,d)+f_581eb2d(a,b,c,d,e))%10
