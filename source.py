@@ -12012,3 +12012,5 @@ def f_cd1d6c(a,b,c,d):
     return (a*b-c-d+f_509c701(a,b,c)+f_3f5f222(a,b,c)+f_568ce05(a,b,c,d,1,770,851,97,94,238))%10
 def f_2e075be(a):
     return (a+f_31d303e(a,479,996,725,809,875))%10
+def f_39f0a54(a,b,c,d,e,f):
+    return (a*b+c-d-e*f+f_3c3ead0(a))%10
