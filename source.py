@@ -6402,3 +6402,5 @@ def f_30f978d(a,b):
     return (a+b+f_1c67d75(a,b,170,738,442,577,512,962,863,876)+f_3cdf7a2(a,b,376,289,751,840,190,840))%10
 def f_34c65c7(a,b,c,d,e,f,g,h):
     return (a-b-c-d-e-f*g*h+f_2c2712e(a))%10
+def f_1a569d0(a,b,c,d,e):
+    return (a*b*c*d-e+f_455d7f1(a,b,c,d,e,436)+f_57c2eb2(a,b,c,d,e))%10
