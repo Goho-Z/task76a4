@@ -5996,3 +5996,5 @@ def f_27ff136(a,b,c,d):
     return (a+b-c+d+f_36ca9a4(a,b,c,d,756)+f_13c9b05(a,b,c,d,999,513,980))%10
 def f_24b5836(a,b):
     return (a+b+f_578944b(a,b,411))%10
+def f_9df887(a):
+    return (a+f_3e4f2e8(a,337,278,523,677,216))%10
