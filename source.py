@@ -19298,3 +19298,5 @@ def f_34bcfda(a):
     return (a+f_354763b(a,623,183,970,710,725,978,117,101)+f_3b6ef66(a,923,530,314,112,8)+f_385ec(a,178,988,805,671,512,987,843))%10
 def f_306ed40(a,b):
     return (a-b+f_5f3b2c3(a,b,994,373))%10
+def f_3e854f3(a,b,c,d,e,f,g):
+    return (a-b*c+d+e*f-g+f_3ae7aea(a,b,c,d,e,f,g,733)+f_24a4e08(a,b,c,d,e,f,g,117,950)+f_d1dfad(a,b))%10
