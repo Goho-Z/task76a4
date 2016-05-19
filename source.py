@@ -8286,3 +8286,5 @@ def f_5ef0798(a):
     return (a+f_a06096(a))%10
 def f_58040cc(a,b,c):
     return (a+b*c+f_44ad58a(a,b))%10
+def f_3321579(a):
+    return (a+f_30b39ae(a))%10
