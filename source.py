@@ -692,3 +692,5 @@ def f_2459d86(a,b,c,d,e,f,g,h):
     return (a+b+c+d-e+f+g+h+f_583b5a5(a,b,c,d,e)+f_38c990e(a,b,c))%10
 def f_363ab03(a,b):
     return (a-b+f_3901b28(a,b,543,383,935,842,843,841)+f_46db2d0(a,b,810,917,921)+f_fbde91(a,b,232,851,138,554,441,567,605,262))%10
+def f_1a0edad(a,b,c,d,e,f,g,h,i):
+    return (a+b-c*d+e*f*g+h-i+f_31f6789(a,b,c,d,e,f,g,h,i,431))%10
