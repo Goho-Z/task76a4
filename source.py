@@ -19030,3 +19030,5 @@ def f_2888077(a,b,c,d):
     return (a*b+c+d+f_260b96d(a))%10
 def f_4133919(a,b,c,d):
     return (a*b*c-d+f_ed5d46(a,b,c,d,885))%10
+def f_55827b(a,b):
+    return (a-b+f_3e189a3(a,b,4)+f_4e9c79(a,b,982,454)+f_c28a2(a,b))%10
