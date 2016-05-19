@@ -10120,3 +10120,5 @@ def f_42eb6f9(a,b,c,d,e,f,g):
     return (a+b-c-d-e-f+g+f_1714f1e(a,b,c,d,e,f)+f_3f448de(a,b,c))%10
 def f_43aaa1b(a):
     return (a+f_42b27e9(a,960,226,207,531,100,106))%10
+def f_3e189a3(a,b,c):
+    return (a-b-c+f_149511(a,b,c)+f_14f82e8(a,b,c,795,408,263,61,175,0)+f_4043c26(a))%10
