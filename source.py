@@ -19874,3 +19874,5 @@ def f_4de5f5e(a,b,c,d):
     return (a+b*c+d+f_308e481(a,b,c,d,556,146,518,378)+f_50c6f44(a,b,c,d)+f_2146358(a,b,c))%10
 def f_1c6de1b(a,b,c,d):
     return (a*b*c*d+f_18ada11(a))%10
+def f_1fffb65(a,b,c,d,e,f,g,h,i,j):
+    return (a*b+c+d+e*f-g+h*i+j+f_1f4a9c3(a,b,c,d,e,f,g,h)+f_2728e2e(a,b))%10
