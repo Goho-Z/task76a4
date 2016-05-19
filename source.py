@@ -240,3 +240,5 @@ def f_5809bdc(a,b,c):
     return (a*b*c+f_6ad18c(a,b,c)+f_4ef43d8(a))%10
 def f_3a65141(a,b,c,d,e,f):
     return (a*b-c+d+e-f+f_4685338(a,b,c,d,e,f,934,408,609)+f_3d93229(a,b,c,d))%10
+def f_1a4a712(a,b):
+    return (a*b+f_4685338(a,b,499,866,984,782,209,158,818)+f_91596(a)+f_404f934(a,b,423))%10
