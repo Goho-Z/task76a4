@@ -10006,3 +10006,5 @@ def f_7caf27(a,b):
     return (a+b+f_366bcf8(a,b,181,683,768)+f_3ace8f4(a)+f_4b09bba(a,b,345))%10
 def f_27a7a22(a,b,c,d):
     return (a-b-c+d+f_cebf84(a,b,c,d,687)+f_5128c4(a,b,c,d,8,490,635,438)+f_33f699e(a,b,c,d,152,35,670,538,870,467))%10
+def f_48b3846(a):
+    return (a+f_e762cd(a,281,486,571,972)+f_53372f9(a))%10
