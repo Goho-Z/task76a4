@@ -2014,3 +2014,5 @@ def f_4e5e0b8(a,b,c,d,e,f):
     return (a-b-c*d*e-f+f_3d8b4c3(a,b,c,d,e,f,792))%10
 def f_2577528(a,b,c,d,e,f):
     return (a+b*c*d-e+f+f_30ca052(a)+f_5f3de83(a,b,c,d,e)+f_78f590(a,b,c,d,e,f,370))%10
+def f_16d0f34(a,b,c,d,e,f):
+    return (a+b+c*d*e+f+f_17a71e9(a,b,c,d,e,f,179,206,982,465)+f_fae61d(a,b,c,d,e,f,86,780,744,682)+f_24b2fc6(a,b,c,d,e,f,850,390))%10
