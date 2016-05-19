@@ -1946,3 +1946,5 @@ def f_5f19f8e(a,b,c,d,e,f,g):
     return (a+b+c+d*e-f+g+f_90c07b(a,b,c,d,e)+f_2f4cb1c(a,b,c,d,e)+f_3656ab8(a,b,c,d))%10
 def f_2c65d9c(a,b,c,d,e,f,g,h,i,j):
     return (a-b+c-d*e+f-g*h*i+j+f_477b1bc(a,b,c,d,e,f,g,h,i))%10
+def f_4be4ebd(a,b,c,d,e,f,g,h):
+    return (a-b-c+d-e-f+g*h+f_5ebbfb2(a,b,c,d,e,f,g,h))%10
