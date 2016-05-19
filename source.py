@@ -330,3 +330,5 @@ def f_49ccbb5(a):
     return (a+f_4aecd47(a,995,573,460,873,164,572,24))%10
 def f_9eacd1(a):
     return (a+f_271d934(a,165,362,558,349,330,554)+f_50fb1b3(a,21,92,207,282,805,846))%10
+def f_28cda19(a,b,c,d,e,f,g):
+    return (a+b*c+d-e-f-g+f_60d002(a,b,c))%10
