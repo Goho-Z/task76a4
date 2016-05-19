@@ -2382,3 +2382,5 @@ def f_11cdbd(a,b,c,d,e,f,g,h,i,j):
     return (a-b-c*d-e*f*g-h-i+j+f_23ed44c(a,b,c,d,e,f,g,h,i,j))%10
 def f_14de180(a,b,c,d,e,f,g,h,i):
     return (a-b-c+d+e-f+g*h-i+f_51a7b67(a,b,c,d,e,f))%10
+def f_101c81c(a,b,c,d,e,f,g,h):
+    return (a+b-c+d+e-f+g-h+f_10fc5e3(a,b,c,d,e,f,g,h,793))%10
