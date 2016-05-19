@@ -15034,3 +15034,5 @@ def f_cdbe2b(a,b):
     return (a-b+f_3cf135d(a,b,454,511)+f_3adfcca(a,b,912,417,673,502))%10
 def f_199d1e7(a,b,c,d,e,f,g,h,i,j):
     return (a-b*c*d+e*f-g+h*i-j+f_921cfd(a,b,c,d,e,f,g,h,i,j)+f_385ec(a,b,c,d,e,f,g,h))%10
+def f_9e3d3d(a,b,c,d,e,f,g,h):
+    return (a-b+c+d+e*f+g*h+f_150a597(a,b,c,d))%10
