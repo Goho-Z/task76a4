@@ -4920,3 +4920,5 @@ def f_1e5f4dd(a,b,c,d):
     return (a+b+c*d+f_3f96f1(a)+f_21182ce(a,b,c,d,453,240))%10
 def f_7dc202(a,b,c,d,e,f,g,h):
     return (a-b*c+d-e+f*g*h+f_3e6a6f1(a,b,c))%10
+def f_1d0a127(a,b):
+    return (a+b+f_47c4937(a,b,771)+f_dbcad4(a,b,126,740,900,322,632,670)+f_dbcad4(a,b,823,275,932,396,296,202))%10
