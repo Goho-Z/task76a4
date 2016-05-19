@@ -8896,3 +8896,5 @@ def f_5895faf(a,b,c,d,e,f,g,h,i):
     return (a+b*c*d*e+f-g+h*i+f_1459144(a,b,c,d,e,f,g))%10
 def f_1f45b63(a,b):
     return (a+b+f_8c50dc(a,b,817,619))%10
+def f_4c00c3c(a,b,c,d,e,f,g):
+    return (a+b*c-d*e+f+g+f_3b90b97(a,b,c,d,e,f)+f_1984931(a,b,c,d,e,f,g,300,595,58)+f_2292455(a,b))%10
