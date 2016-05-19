@@ -8046,3 +8046,5 @@ def f_320e76e(a):
     return (a+f_116b350(a,691,330,625,292,95,456,420))%10
 def f_1faf238(a,b):
     return (a-b+f_28dcd60(a,b)+f_41735c7(a,b,125,601)+f_1e9b614(a,b,429,884,369,605,931))%10
+def f_b0adf3(a,b,c,d,e,f,g):
+    return (a-b+c+d*e+f+g+f_10e9592(a,b,c,d,e,f,g,954,403))%10
