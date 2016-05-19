@@ -1602,3 +1602,5 @@ def f_fa0da5(a,b):
     return (a-b+f_1537206(a,b,214,558,269,92)+f_502cace(a,b,860,163,736,890,28,42)+f_23ea00c(a,b,310,130,272))%10
 def f_4ad426b(a,b,c,d,e,f,g,h,i):
     return (a+b+c*d*e-f-g-h-i+f_5dcb737(a,b,c,d)+f_35cf31d(a,b,c,d,e))%10
+def f_290348b(a,b,c,d):
+    return (a-b+c-d+f_20d3ec1(a,b,c,d,564,811,120,673)+f_2807d02(a,b,c,d,559,923,544,587,105,895)+f_31ee089(a,b,c,d))%10
