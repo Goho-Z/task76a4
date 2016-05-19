@@ -1986,3 +1986,5 @@ def f_4d33aec(a):
     return (a+f_10a4c71(a,808,823,295)+f_48edbe8(a,356,718,455)+f_345a6bc(a,133,255,530))%10
 def f_366bcf8(a,b,c,d,e):
     return (a+b*c-d-e+f_1292da3(a,b,c,d))%10
+def f_3f6374a(a,b,c,d,e,f,g,h,i,j):
+    return (a*b+c+d+e*f*g+h*i-j+f_580a229(a,b,c,d,e,f,g,h,i,j)+f_2312b67(a,b,c,d,e,f,g,h,i))%10
