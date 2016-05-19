@@ -14322,3 +14322,5 @@ def f_db9a4a(a,b,c,d,e,f,g,h):
     return (a-b-c+d+e+f+g-h+f_353c1e1(a,b,c,d,e,f)+f_40eb77d(a,b))%10
 def f_add6da(a,b,c,d,e):
     return (a*b*c*d*e+f_2c0a0e0(a,b,c,d,e,12)+f_10fe0fc(a,b,c,d,e,124,378,915))%10
+def f_1bd6b19(a,b,c,d,e,f,g,h):
+    return (a-b-c+d+e+f*g-h+f_990a2a(a,b,c,d,e))%10
