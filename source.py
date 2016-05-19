@@ -986,3 +986,5 @@ def f_df20b2(a,b,c):
     return (a+b*c+f_99b8eb(a,b,c,970))%10
 def f_4c5f2ee(a):
     return (a+f_5c62d79(a,466,383,316,86,292)+f_1b8228c(a,404,666))%10
+def f_4096ebf(a):
+    return (a+f_2966db4(a)+f_1b2da08(a,124,747,419,492,664,999,347))%10
