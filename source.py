@@ -404,3 +404,5 @@ def f_50bf704(a,b,c,d,e,f,g,h,i):
     return (a+b*c+d*e*f+g*h-i+f_2980ac2(a,b,c,d,e)+f_1399b76(a,b))%10
 def f_2eab6ae(a,b,c,d,e,f,g,h,i):
     return (a-b*c+d+e*f-g*h-i+f_38f59d6(a,b)+f_33e0fde(a,b)+f_404f934(a,b,c))%10
+def f_53187cf(a,b,c,d,e,f,g,h,i):
+    return (a*b-c+d-e+f*g*h*i+f_5b18084(a,b,c,d,e,f,g,h,i,150)+f_270f3be(a)+f_6ad18c(a,b,c))%10
