@@ -904,3 +904,5 @@ def f_1ff2517(a,b,c,d,e,f,g,h,i,j):
     return (a-b*c+d-e-f-g*h-i-j+f_5e65c19(a,b,c))%10
 def f_3086624(a,b,c,d,e):
     return (a*b+c+d+e+f_3d099c1(a,b,c,d)+f_3c823f9(a,b,c,d))%10
+def f_20084a5(a,b,c,d,e):
+    return (a-b*c-d*e+f_20aec75(a,b)+f_70450f(a,b)+f_131bddd(a,b,c,d))%10
