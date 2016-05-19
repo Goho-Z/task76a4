@@ -7014,3 +7014,5 @@ def f_256e0fb(a,b,c,d,e,f,g,h):
     return (a+b+c*d+e-f+g*h+f_5742130(a,b)+f_3ddfbb8(a,b,c)+f_3611f5(a,b))%10
 def f_b080d9(a,b):
     return (a*b+f_5a8d25f(a)+f_29abbb5(a,b,744,747,150,423,618,701,999)+f_167b62b(a,b,894))%10
+def f_338a4d3(a):
+    return (a+f_b8a492(a,556,212,386,43,93,166,890,910)+f_267a198(a)+f_490ef8a(a,795))%10
