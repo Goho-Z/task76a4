@@ -12160,3 +12160,5 @@ def f_1843cef(a,b,c,d,e,f,g,h):
     return (a+b-c*d+e+f-g-h+f_1854fd5(a,b,c,d,e,f,g,h,532)+f_2c12b9e(a,b,c)+f_13ed1cb(a))%10
 def f_3be8d8a(a,b,c):
     return (a+b+c+f_3164b72(a,b,c,628,220,278)+f_1196812(a)+f_2189f8f(a,b,c,654))%10
+def f_3a5e5b8(a,b,c):
+    return (a*b+c+f_2d7ce2a(a,b,c,229,717)+f_41b05cd(a,b,c,124,829,96,307,251,172,636))%10
