@@ -6622,3 +6622,5 @@ def f_3d35cee(a):
     return (a+f_e34e7(a,977,793,320,151,407,64,323,22,497)+f_1d52fa2(a,14,425,569,900,254,273,822,341,362))%10
 def f_1b446b0(a,b,c,d):
     return (a-b-c+d+f_602af(a,b)+f_111a5e0(a,b,c))%10
+def f_6ed5d8(a,b,c,d,e):
+    return (a*b+c-d+e+f_7e99fa(a,b))%10
