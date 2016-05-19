@@ -250,3 +250,5 @@ def f_4dd8575(a,b,c,d,e):
     return (a*b-c+d-e+f_276f04f(a,b,c,d)+f_516909d(a,b,c,d))%10
 def f_416ec8a(a,b,c,d,e,f):
     return (a*b*c*d+e+f+f_3e8aba5(a,b,c,d))%10
+def f_e1680c(a,b):
+    return (a+b+f_5eec931(a,b,102))%10
