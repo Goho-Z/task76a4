@@ -3878,3 +3878,5 @@ def f_bad262(a,b,c,d,e,f,g,h):
     return (a-b-c+d*e+f+g-h+f_3e5d36c(a,b,c,d)+f_5d4f7f8(a,b))%10
 def f_2996e1d(a,b,c,d,e):
     return (a*b-c+d+e+f_58addec(a,b,c,d)+f_1d3e8eb(a,b,c,d,e,219,193,789,288,31)+f_4a8049c(a,b,c,d))%10
+def f_3dc5f19(a,b,c,d,e,f):
+    return (a+b*c+d+e+f+f_43370a0(a,b,c,d,e))%10
