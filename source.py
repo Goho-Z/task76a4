@@ -15004,3 +15004,5 @@ def f_1416148(a,b,c):
     return (a+b+c+f_774c15(a,b,c,665,347,749,723,943,698)+f_5cc471a(a,b,c,265,614,811,827))%10
 def f_143d9d1(a,b,c):
     return (a-b+c+f_3330b06(a)+f_1cd687a(a))%10
+def f_420ebcd(a,b,c,d,e,f,g,h,i,j):
+    return (a-b-c-d+e*f*g+h-i-j+f_4cddaba(a,b,c,d,e,f,g)+f_5cb89f6(a,b,c)+f_5ad1489(a,b,c,d,e,f,g))%10
