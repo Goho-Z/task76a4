@@ -9542,3 +9542,5 @@ def f_34cb805(a,b,c,d,e):
     return (a*b-c+d*e+f_46510be(a,b,c,d,e,530)+f_59e2905(a,b,c,d)+f_29e380(a,b,c,d,e,204,714,601))%10
 def f_5ea2f0b(a,b,c,d,e):
     return (a*b*c*d-e+f_257f2ae(a,b,c,d,e,233,174,74,671)+f_51efc0b(a,b,c,d,e,888,431,900,294))%10
+def f_5a43b60(a,b,c,d,e,f,g,h):
+    return (a-b*c+d-e+f+g+h+f_4fca43c(a,b,c,d,e,f)+f_b229ba(a,b,c,d,e,f))%10
