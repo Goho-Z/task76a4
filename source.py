@@ -12310,3 +12310,5 @@ def f_24750e5(a,b,c,d,e,f,g):
     return (a*b*c+d*e+f-g+f_40f855a(a,b,c,d,e,f)+f_33504c(a,b,c,d,e,f,g,681,849,190)+f_4c7b7de(a,b,c,d))%10
 def f_30eee(a,b,c):
     return (a*b*c+f_3ace8f4(a)+f_52ce943(a,b,c,256))%10
+def f_30b542b(a,b,c):
+    return (a-b-c+f_1bd380e(a,b,c,500,988,645,399,981)+f_2eb3e87(a,b,c))%10
