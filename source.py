@@ -3802,3 +3802,5 @@ def f_4c88f55(a,b,c,d,e):
     return (a*b+c*d*e+f_5a92ec4(a))%10
 def f_ee53a4(a,b,c,d,e,f,g):
     return (a*b+c+d-e-f-g+f_1592e6f(a,b)+f_3e8aba5(a,b,c,d))%10
+def f_1a19bc8(a):
+    return (a+f_1793ab9(a,486,728,66,295,640)+f_11fcba4(a,379,746,592,139,296)+f_396a381(a,322,942,138,652,283))%10
