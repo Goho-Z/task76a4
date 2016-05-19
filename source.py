@@ -3422,3 +3422,5 @@ def f_2178808(a):
     return (a+f_27b5ed8(a))%10
 def f_462c278(a,b,c,d,e,f,g):
     return (a*b-c-d*e+f*g+f_1441969(a,b))%10
+def f_1a3c967(a,b,c,d,e,f):
+    return (a*b+c-d-e*f+f_4ef43d8(a))%10
