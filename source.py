@@ -19862,3 +19862,5 @@ def f_916325(a,b,c):
     return (a-b+c+f_2cdd3e6(a,b,c,693)+f_20ed962(a,b,c,760,88)+f_403ff07(a,b,c,703,506,105,31,886,590,376))%10
 def f_272bbf6(a,b,c,d,e,f,g,h):
     return (a+b-c*d+e*f*g+h+f_10a588f(a,b,c,d,e,f,g,h))%10
+def f_4aa1eaf(a,b,c):
+    return (a+b-c+f_2b6844c(a)+f_4bd0f41(a,b,c,915,926,695))%10
