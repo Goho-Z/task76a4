@@ -12118,3 +12118,5 @@ def f_1196812(a):
     return (a+f_2ea6f1c(a,790,307,975))%10
 def f_3cf4a40(a,b,c):
     return (a+b+c+f_2e20642(a,b,c,61)+f_3614c58(a,b,c,318,425,981,375,813,652)+f_5a1317d(a,b,c,174))%10
+def f_4c927e1(a,b,c):
+    return (a-b+c+f_1dc9c36(a,b,c,70,762,60))%10
