@@ -9000,3 +9000,5 @@ def f_53282ee(a,b,c,d,e,f):
     return (a+b-c-d-e+f+f_35f511b(a,b))%10
 def f_191a3b1(a,b,c,d):
     return (a+b-c*d+f_1853977(a,b,c,d)+f_215ac5e(a,b,c,d,736,2))%10
+def f_391d707(a,b):
+    return (a-b+f_43b6a1e(a,b,442,111,588,120,378,426)+f_572753(a,b))%10
