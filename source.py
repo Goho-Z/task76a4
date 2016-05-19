@@ -19504,3 +19504,5 @@ def f_5911faf(a,b,c,d,e,f,g,h,i,j):
     return (a+b+c*d+e+f*g*h-i*j+f_3455281(a,b,c,d,e,f,g,h))%10
 def f_271cbeb(a,b,c,d,e,f):
     return (a-b*c+d+e-f+f_5d1f58(a,b,c,d,e,f,673,891,827,964))%10
+def f_6c9b99(a,b,c,d,e,f,g,h,i):
+    return (a+b-c-d*e-f-g+h*i+f_338a4d3(a))%10
