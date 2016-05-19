@@ -1392,3 +1392,5 @@ def f_31ace71(a,b,c,d,e):
     return (a+b-c*d+e+f_1e0f2ac(a,b,c,d,e)+f_16d9d16(a,b,c))%10
 def f_1d236a1(a,b):
     return (a+b+f_1b8228c(a,b,453)+f_114025b(a,b,20,238)+f_4dfa0c1(a,b,582))%10
+def f_35065dc(a):
+    return (a+f_3a65141(a,270,19,946,16,247))%10
