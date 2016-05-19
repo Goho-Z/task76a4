@@ -944,3 +944,5 @@ def f_13c9b05(a,b,c,d,e,f,g):
     return (a-b+c+d*e*f*g+f_5dbf3eb(a,b,c,d))%10
 def f_1701bed(a,b,c,d):
     return (a*b*c+d+f_431d328(a,b)+f_461efc8(a,b,c,d,137,119,981,451)+f_4b06b82(a,b,c,d,142,974,40,676,160,140))%10
+def f_47a37f5(a,b):
+    return (a+b+f_1026acb(a,b)+f_8caae1(a,b,112,695,248))%10
