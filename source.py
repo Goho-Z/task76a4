@@ -7800,3 +7800,5 @@ def f_5430801(a):
     return (a+f_287c19e(a,26,965,987,652)+f_54352c0(a,117,509,564,308,20))%10
 def f_26d917a(a,b,c,d):
     return (a-b-c+d+f_24236a6(a,b,c)+f_2463dd3(a,b,c,d,131)+f_c8354d(a,b,c,d))%10
+def f_5a59cdc(a,b):
+    return (a*b+f_1e646f1(a,b,747,93))%10
