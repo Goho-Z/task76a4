@@ -9662,3 +9662,5 @@ def f_1261d7b(a,b,c,d,e,f,g,h):
     return (a*b*c+d*e-f*g-h+f_156137b(a,b,c,d,e,f,g,h,494,991)+f_3b8ebef(a)+f_547657a(a))%10
 def f_2c25323(a,b):
     return (a*b+f_12f11df(a,b)+f_25952d4(a,b,563,313,442,486))%10
+def f_37bbbb3(a,b,c):
+    return (a+b+c+f_8f6c6a(a,b,c,168,221))%10
