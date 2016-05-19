@@ -3138,3 +3138,5 @@ def f_e575bf(a):
     return (a+f_1497f8a(a))%10
 def f_24a7cc9(a):
     return (a+f_2d2e151(a)+f_4b880a6(a)+f_10b00ca(a,903,192,344,152,667))%10
+def f_4c5ad9a(a,b,c):
+    return (a+b-c+f_534da71(a,b,c))%10
