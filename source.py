@@ -16742,3 +16742,5 @@ def f_2283484(a):
     return (a+f_5619443(a))%10
 def f_2326609(a,b,c,d,e):
     return (a-b+c*d+e+f_16640fe(a,b,c,d,e,628,462)+f_1a1fbe3(a,b,c))%10
+def f_5ae4fed(a,b,c,d):
+    return (a*b+c*d+f_406cb97(a,b))%10
