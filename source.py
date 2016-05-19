@@ -19194,3 +19194,5 @@ def f_84f708(a,b,c,d,e,f):
     return (a-b+c*d+e*f+f_34a10cd(a))%10
 def f_176020a(a):
     return (a+f_3e822fa(a))%10
+def f_58ffd6d(a,b,c,d,e,f,g,h,i):
+    return (a+b-c+d+e+f*g-h*i+f_5883bfe(a,b,c,d,e,f,g,h,i,34))%10
