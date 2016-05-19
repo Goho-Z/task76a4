@@ -16152,3 +16152,5 @@ def f_a2250e(a,b,c,d,e,f,g,h):
     return (a*b-c*d*e+f+g+h+f_2fef646(a,b,c,d))%10
 def f_1212c3(a):
     return (a+f_24bc636(a,254,358)+f_232745b(a,936,978,59,589,775,298,439)+f_4174c2(a,543,904,794,772))%10
+def f_290f4d5(a,b,c,d,e,f):
+    return (a+b*c*d*e-f+f_57b9713(a,b,c,d,e,f,647,884,263))%10
