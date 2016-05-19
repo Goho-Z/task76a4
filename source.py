@@ -2354,3 +2354,5 @@ def f_e5da4f(a,b,c,d,e):
     return (a*b-c+d+e+f_39151e6(a,b,c,d,e,544,447,685)+f_5809bdc(a,b,c))%10
 def f_24f925c(a,b,c,d,e,f,g):
     return (a*b*c-d*e+f+g+f_23b8ece(a,b,c)+f_247b922(a)+f_35cf31d(a,b,c,d,e))%10
+def f_127a3ad(a,b,c,d,e,f,g):
+    return (a-b-c+d*e-f+g+f_557f5b6(a,b,c,d,e,f,g,432,634,225))%10
