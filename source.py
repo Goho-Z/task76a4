@@ -4342,3 +4342,5 @@ def f_24d2220(a,b,c,d,e,f,g,h):
     return (a*b-c*d-e*f+g*h+f_5b30439(a,b,c,d,e)+f_36b5fd1(a,b,c,d,e,f,g,h,219))%10
 def f_921cfd(a,b,c,d,e,f,g,h,i,j):
     return (a*b-c*d-e+f-g*h*i+j+f_25c5319(a,b,c,d,e,f,g,h)+f_3d93229(a,b,c,d))%10
+def f_4c170fa(a):
+    return (a+f_82ea8a(a,144,872,822,522,321,741,646))%10
