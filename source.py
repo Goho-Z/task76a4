@@ -2702,3 +2702,5 @@ def f_201cc2a(a,b,c,d,e,f,g,h,i,j):
     return (a-b*c-d-e-f-g+h+i-j+f_3debe0b(a,b,c))%10
 def f_505354c(a,b,c,d,e,f,g,h,i):
     return (a-b+c+d+e*f+g+h+i+f_91596(a))%10
+def f_4cc2562(a,b,c,d,e,f):
+    return (a-b*c*d+e*f+f_4abebb7(a,b,c,d,e,f,755,51,818,330))%10
