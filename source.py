@@ -7396,3 +7396,5 @@ def f_26baade(a,b):
     return (a*b+f_4a66282(a)+f_364e6b2(a,b,625))%10
 def f_4324f7e(a):
     return (a+f_3d50bf2(a,211,585,480,161,918,761,76))%10
+def f_2db1e09(a,b,c,d,e,f):
+    return (a-b-c-d+e-f+f_270f3be(a))%10
