@@ -3652,3 +3652,5 @@ def f_4d1e862(a,b,c,d,e,f,g,h,i):
     return (a-b-c-d*e*f*g-h-i+f_1d64885(a,b,c,d,e,f))%10
 def f_1f4056d(a,b,c,d,e,f,g,h,i,j):
     return (a-b-c*d*e*f+g*h+i-j+f_5f3de83(a,b,c,d,e)+f_21957a(a,b,c,d,e,f,g)+f_247b922(a))%10
+def f_1fe2ca2(a,b):
+    return (a*b+f_4faeec0(a,b,827,329,783))%10
