@@ -11310,3 +11310,5 @@ def f_220ee10(a):
     return (a+f_890188(a,794,886,625,882,942))%10
 def f_522651c(a,b):
     return (a+b+f_55c26fb(a,b,747,648,311,710,819,186)+f_26027fa(a,b,878)+f_4b65cf5(a,b,277))%10
+def f_2643ae0(a,b,c,d,e,f,g,h):
+    return (a+b-c-d+e+f+g*h+f_456b8d6(a,b,c)+f_46cf2f4(a,b))%10
