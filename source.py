@@ -8422,3 +8422,5 @@ def f_114cf6(a,b,c,d,e,f):
     return (a-b+c-d+e+f+f_4416af5(a,b))%10
 def f_4054328(a,b,c,d):
     return (a+b-c-d+f_239d6eb(a,b,c,d,74))%10
+def f_32f6d04(a,b,c,d,e):
+    return (a*b-c+d+e+f_566f7b4(a,b,c,d,e,244,900,261,424)+f_40d907e(a,b,c,d,e)+f_bb6a4c(a,b,c,d,e,626,968))%10
