@@ -8168,3 +8168,5 @@ def f_268a41c(a,b,c):
     return (a*b+c+f_4d26830(a,b,c))%10
 def f_24b9699(a):
     return (a+f_39aebe3(a,296,915,48,298,572,213,725,406,395))%10
+def f_960d04(a,b,c,d,e,f,g):
+    return (a-b+c*d-e-f*g+f_747cac(a,b,c,d,e,f,g,301)+f_3f61a74(a,b,c)+f_29a6102(a,b,c,d,e,f))%10
