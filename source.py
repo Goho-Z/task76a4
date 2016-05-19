@@ -18182,3 +18182,5 @@ def f_5d79cc6(a,b,c,d,e,f,g,h,i,j):
     return (a+b*c+d+e+f*g+h+i+j+f_5a2cded(a,b,c,d)+f_3f73dee(a,b,c,d,e,f,g,h,i,j))%10
 def f_227d7fb(a):
     return (a+f_49d3d8d(a,907,257,675,595,113,985,796,443)+f_138b402(a,443,146))%10
+def f_25f55e8(a,b):
+    return (a-b+f_237aee3(a)+f_4a0fa8e(a,b,750,651,710,650,230,904)+f_1370b72(a,b,896,681,147))%10
