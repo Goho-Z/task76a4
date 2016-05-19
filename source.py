@@ -9690,3 +9690,5 @@ def f_3ee69a(a):
     return (a+f_90c20e(a,717,972,119,729,512,367,679,706,606)+f_41f2d8d(a,97,922,291,490,627)+f_2fa37cf(a))%10
 def f_bead31(a,b,c):
     return (a+b-c+f_4d33aec(a))%10
+def f_47e4cc3(a,b,c,d,e,f,g):
+    return (a+b+c*d*e-f-g+f_2cd5d0f(a,b,c,d,e,f,g,648,130)+f_8f6c6a(a,b,c,d,e)+f_48f2f5f(a,b,c,d,e,f,g,733,651,247))%10
