@@ -1964,3 +1964,5 @@ def f_11fcba4(a,b,c,d,e,f):
     return (a-b*c*d-e*f+f_411542(a,b)+f_3d44267(a,b))%10
 def f_2690cb4(a,b,c,d,e,f,g,h):
     return (a+b*c+d*e+f*g+h+f_3e9e77d(a,b,c,d,e,f)+f_293206a(a,b,c,d,e)+f_20ca02a(a,b,c,d,e))%10
+def f_5f472f7(a,b,c):
+    return (a+b*c+f_5897d25(a,b,c,785,66,106))%10
