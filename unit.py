@@ -6,6 +6,6 @@ import source
 
 class mytest(unittest.TestCase):
     def test(self):
-        self.assertEqual(source.f_38ada0b(1,2,3,4),8,'fail')
+        self.assertEqual(source.f_25d94a2(1,2),4,'fail')
 if __name__ == '__main__':
     unittest.main()
