@@ -13002,3 +13002,5 @@ def f_b4cfae(a,b,c,d,e,f,g):
     return (a*b+c*d*e*f*g+f_602af(a,b))%10
 def f_2b6844c(a):
     return (a+f_50ff78b(a)+f_5af4de1(a,138,554,413,445,143))%10
+def f_125d331(a,b,c,d):
+    return (a+b-c+d+f_568e980(a,b,c,d)+f_2b0e5f2(a,b,c,d,704,394,610,553))%10
