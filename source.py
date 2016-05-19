@@ -19394,3 +19394,5 @@ def f_cca1a7(a):
     return (a+f_95119d(a,638,185,187,683)+f_27207d6(a))%10
 def f_1feed9d(a,b,c,d):
     return (a*b-c*d+f_13f0b93(a,b,c,d,778,653,397,526,842,318)+f_5a6595f(a,b,c))%10
+def f_1cd7e34(a,b,c,d,e,f,g,h):
+    return (a-b*c+d*e-f+g+h+f_410739a(a,b,c,d,e,f,g,h,366)+f_36f2afc(a,b,c,d,e,f,g,h,968,946)+f_aa909d(a,b,c,d,e,f,g))%10
