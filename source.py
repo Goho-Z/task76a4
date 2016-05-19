@@ -9502,3 +9502,5 @@ def f_6fdfc9(a,b,c,d,e,f,g,h):
     return (a+b*c*d+e+f-g-h+f_12a7c28(a,b)+f_406cc62(a,b,c,d,e,f,g,h,595,251))%10
 def f_549dbd6(a):
     return (a+f_13b6d15(a,202,158,974,905,284))%10
+def f_2022d8a(a,b,c,d,e):
+    return (a-b+c*d+e+f_1d109ab(a,b,c,d))%10
