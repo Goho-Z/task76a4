@@ -4402,3 +4402,5 @@ def f_435b9d(a):
     return (a+f_54cad30(a,686,265))%10
 def f_1ce054f(a,b,c,d,e):
     return (a+b*c+d+e+f_450de3e(a,b,c,d,e,925)+f_2cc558b(a,b,c,d,e,761)+f_33b466a(a,b,c,d,e,323,565,227,923))%10
+def f_289a2fc(a,b,c,d,e,f,g,h,i,j):
+    return (a-b-c-d+e*f-g-h+i-j+f_34b6ee1(a,b,c,d))%10
