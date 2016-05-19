@@ -9872,3 +9872,5 @@ def f_30883a7(a,b,c):
     return (a+b*c+f_4c337e0(a,b,c,314,818,305))%10
 def f_a319c6(a,b,c,d,e):
     return (a-b-c*d*e+f_d94493(a,b,c))%10
+def f_292dd0c(a,b,c,d):
+    return (a*b*c+d+f_23da67b(a,b,c,d,24,662,238)+f_246b234(a,b,c,d,388,898))%10
