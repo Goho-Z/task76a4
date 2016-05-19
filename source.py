@@ -80,3 +80,5 @@ def f_4aecd47(a,b,c,d,e,f,g,h):
     return (a-b*c-d*e-f+g+h+f_276f04f(a,b,c,d))%10
 def f_3d93229(a,b,c,d):
     return (a-b*c+d+f_1ce677a(a,b,c)+f_404f934(a,b,c))%10
+def f_1d21f7d(a,b,c,d,e,f,g,h,i):
+    return (a+b*c-d*e+f+g*h-i+f_323e173(a,b,c,d,e,f,g,h)+f_3e77575(a,b,c,d,e,f,g,h,i,294)+f_3d93229(a,b,c,d))%10
