@@ -9710,3 +9710,5 @@ def f_4d0294c(a,b,c,d,e,f,g,h):
     return (a-b-c*d*e*f+g-h+f_111e9e4(a,b,c,d,e,f,g,h,528,403)+f_2262999(a,b,c)+f_e34e7(a,b,c,d,e,f,g,h,521,0))%10
 def f_2cb5c9f(a,b,c,d,e,f,g,h,i):
     return (a*b*c+d+e+f+g*h*i+f_5eb044e(a,b,c,d))%10
+def f_59bffc1(a,b,c,d,e,f):
+    return (a*b-c+d+e-f+f_4abebb7(a,b,c,d,e,f,479,698,805,573)+f_191063f(a)+f_2b7dafd(a,b,c,d,e,f,342,2))%10
