@@ -4002,3 +4002,5 @@ def f_1fcc327(a,b,c,d,e,f):
     return (a-b-c-d+e+f+f_46982a6(a))%10
 def f_62e6d(a):
     return (a+f_42c0191(a,130)+f_5ecef3e(a))%10
+def f_d94493(a,b,c):
+    return (a*b-c+f_1dd1341(a,b,c,21))%10
