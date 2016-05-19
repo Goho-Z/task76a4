@@ -7562,3 +7562,5 @@ def f_2449c17(a,b,c):
     return (a-b-c+f_4407be1(a,b,c,85,950))%10
 def f_5713506(a,b,c,d):
     return (a*b+c+d+f_2d0cb01(a,b,c,d))%10
+def f_2a04329(a,b,c,d,e,f,g,h,i):
+    return (a*b*c-d*e-f+g+h+i+f_134851b(a,b,c,d)+f_35d7dd9(a)+f_101cb0(a,b,c,d,e,f,g,h,i,261))%10
