@@ -19914,3 +19914,5 @@ def f_145ab95(a,b,c,d,e,f):
     return (a*b*c+d-e+f+f_43c3656(a,b)+f_36948e7(a,b,c))%10
 def f_4bd4abb(a,b,c,d,e,f,g,h):
     return (a-b*c+d-e*f*g-h+f_5db3fab(a,b,c,d,e)+f_285991d(a,b,c,d,e))%10
+def f_731370(a,b):
+    return (a*b+f_2ab7122(a,b,982,778,594)+f_2215996(a,b,234,683,647,192,471,250))%10
