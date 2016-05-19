@@ -6634,3 +6634,5 @@ def f_d6f2bf(a,b):
     return (a*b+f_2af2998(a))%10
 def f_490ef8a(a,b):
     return (a*b+f_1f63414(a,b,69,404,122,760,640,70,979,681)+f_51be87c(a,b)+f_49ccbb5(a))%10
+def f_336da0b(a):
+    return (a+f_10216ae(a,602)+f_3c22e61(a,223))%10
