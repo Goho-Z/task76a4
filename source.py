@@ -11704,3 +11704,5 @@ def f_169f1a(a,b):
     return (a-b+f_4363934(a))%10
 def f_5253d4e(a,b):
     return (a-b+f_22f837c(a,b)+f_2844de3(a,b,413,432,153,812,196)+f_25002b2(a))%10
+def f_30cfc0f(a):
+    return (a+f_6df70b(a))%10
