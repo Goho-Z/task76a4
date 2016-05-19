@@ -1502,3 +1502,5 @@ def f_2ce718c(a,b,c,d):
     return (a+b+c*d+f_21eb0c7(a,b,c))%10
 def f_195d0dc(a,b):
     return (a+b+f_365ee7e(a,b,701))%10
+def f_57a06f2(a,b,c,d):
+    return (a+b+c*d+f_3740f56(a,b)+f_282d01c(a,b,c,d,337,784,83,341,793)+f_431d328(a,b))%10
