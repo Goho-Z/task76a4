@@ -2972,3 +2972,5 @@ def f_1bf3a1a(a,b):
     return (a+b+f_5b40c60(a))%10
 def f_3719ee1(a,b):
     return (a*b+f_5deb750(a,b,923,373,277,99,741)+f_12b269e(a,b,443,75,797,107,687,448,19,921))%10
+def f_22c2637(a,b,c,d,e):
+    return (a*b*c+d-e+f_26a606a(a,b,c,d,e,726,877,45))%10
