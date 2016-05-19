@@ -4792,3 +4792,5 @@ def f_dcafc1(a,b,c,d):
     return (a*b+c+d+f_36d8c6(a,b,c,d))%10
 def f_1513043(a,b,c,d,e,f,g):
     return (a+b-c+d*e-f*g+f_4cdcd16(a,b,c)+f_4c676f1(a,b,c,d,e,f,g))%10
+def f_f4507a(a,b,c):
+    return (a+b*c+f_31840a4(a,b,c,996,963,59,276,478,759,420))%10
