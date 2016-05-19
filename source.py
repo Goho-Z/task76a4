@@ -6674,3 +6674,5 @@ def f_51b3808(a,b,c):
     return (a-b+c+f_13ae6e5(a,b,c,887,245,513,913,50,654,220)+f_7606c2(a,b)+f_1ab2176(a,b,c))%10
 def f_5a1d101(a,b,c,d,e,f):
     return (a-b-c-d-e-f+f_31d303e(a,b,c,d,e,f))%10
+def f_5698a20(a,b,c,d):
+    return (a*b*c+d+f_564b88b(a,b,c))%10
