@@ -1960,3 +1960,5 @@ def f_4503f96(a):
     return (a+f_48e7b28(a,924,644)+f_19a363f(a,421,866,50,704,163))%10
 def f_445ab63(a,b,c,d,e):
     return (a-b-c+d-e+f_14d855c(a)+f_4755e4c(a,b))%10
+def f_11fcba4(a,b,c,d,e,f):
+    return (a-b*c*d-e*f+f_411542(a,b)+f_3d44267(a,b))%10
