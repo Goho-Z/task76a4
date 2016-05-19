@@ -19336,3 +19336,5 @@ def f_3377215(a,b):
     return (a+b+f_bc8d21(a,b,845,201,586))%10
 def f_5ac01e6(a,b,c,d,e,f,g):
     return (a-b-c*d+e*f-g+f_eb6022(a,b,c)+f_1d04ba1(a,b,c,d,e,f)+f_7917a6(a))%10
+def f_185e3bb(a):
+    return (a+f_1c349a9(a,562,573)+f_4c432ff(a))%10
