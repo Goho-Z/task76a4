@@ -578,3 +578,5 @@ def f_29cc20b(a,b):
     return (a+b+f_1bb28ac(a,b)+f_2fb588f(a,b))%10
 def f_5cce1d3(a,b,c,d,e,f,g):
     return (a+b*c-d+e*f+g+f_2d2e151(a))%10
+def f_2f6bf78(a,b,c,d,e,f,g,h,i):
+    return (a*b-c*d+e*f*g+h*i+f_4d12f2a(a,b))%10
