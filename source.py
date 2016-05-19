@@ -7442,3 +7442,5 @@ def f_3c96a8(a,b):
     return (a-b+f_4bb0f13(a,b,665,15,143,195,26,468))%10
 def f_3bab4f(a,b,c,d,e,f,g,h,i,j):
     return (a-b+c-d+e*f*g-h-i+j+f_1daf4f5(a,b,c,d))%10
+def f_91c329(a,b,c,d,e,f):
+    return (a+b+c+d-e*f+f_2844de3(a,b,c,d,e,f,510))%10
