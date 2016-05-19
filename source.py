@@ -334,3 +334,5 @@ def f_28cda19(a,b,c,d,e,f,g):
     return (a+b*c+d-e-f-g+f_60d002(a,b,c))%10
 def f_3d099c1(a,b,c,d):
     return (a-b+c-d+f_42b43a6(a,b,c,d,737,627,501,679))%10
+def f_1ede232(a,b,c,d,e,f,g):
+    return (a*b*c+d*e+f+g+f_4219d3d(a,b,c,d,e,f,g,427,806))%10
