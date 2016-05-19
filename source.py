@@ -5024,3 +5024,5 @@ def f_331645b(a,b):
     return (a+b+f_1a0edad(a,b,36,273,140,211,694,670,184)+f_42ee5ee(a,b,961,567,174,495,26,606,519)+f_4f0cc9a(a,b,174))%10
 def f_e112a7(a,b,c,d,e,f,g):
     return (a-b+c+d+e+f*g+f_c7be0d(a)+f_35bf8ec(a,b,c,d,e,f,g,70,179,542)+f_5311b06(a))%10
+def f_1dfd008(a,b,c,d,e,f,g,h):
+    return (a*b+c+d+e-f*g*h+f_1beb0f7(a,b,c,d,e)+f_2139b32(a,b,c,d,e,f,g,h))%10
