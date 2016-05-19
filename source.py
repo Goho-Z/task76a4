@@ -8000,3 +8000,5 @@ def f_13ac242(a,b,c,d,e,f,g,h):
     return (a*b+c+d-e-f-g+h+f_22294d8(a))%10
 def f_5b0a125(a,b,c,d,e,f,g,h,i):
     return (a-b+c*d-e-f-g*h*i+f_14f50f1(a,b,c,d,e,f,g,h)+f_2353a69(a,b,c,d,e,f,g,h,i)+f_20148(a,b,c,d,e,f,g,h,i,298))%10
+def f_4ae24a3(a,b,c,d):
+    return (a*b+c*d+f_2c59712(a,b,c)+f_25c5671(a,b,c,d,286,318))%10
