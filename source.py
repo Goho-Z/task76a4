@@ -5022,3 +5022,5 @@ def f_4b497a7(a,b,c,d,e):
     return (a*b+c-d*e+f_f44491(a,b,c)+f_1db5efa(a,b,c,d,e,310,290,833))%10
 def f_331645b(a,b):
     return (a+b+f_1a0edad(a,b,36,273,140,211,694,670,184)+f_42ee5ee(a,b,961,567,174,495,26,606,519)+f_4f0cc9a(a,b,174))%10
+def f_e112a7(a,b,c,d,e,f,g):
+    return (a-b+c+d+e+f*g+f_c7be0d(a)+f_35bf8ec(a,b,c,d,e,f,g,70,179,542)+f_5311b06(a))%10
