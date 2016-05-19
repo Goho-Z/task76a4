@@ -4274,3 +4274,5 @@ def f_42bf723(a):
     return (a+f_58ceeb(a,931,878,219)+f_163aae2(a)+f_1e646f1(a,627,872,902))%10
 def f_2c53c7e(a,b,c,d,e,f,g,h):
     return (a-b-c-d-e+f+g*h+f_4ed02f3(a,b,c,d,e,f,g,h)+f_4c2a7a(a,b,c,d))%10
+def f_214b3c4(a,b):
+    return (a-b+f_415e18(a,b,102,715,587,995,224,992))%10
