@@ -1756,3 +1756,5 @@ def f_59fe21(a,b,c):
     return (a-b-c+f_10e37be(a,b,c,855))%10
 def f_51b6cb4(a,b,c,d,e,f,g,h):
     return (a+b+c-d*e+f*g*h+f_d0bcaf(a,b,c,d))%10
+def f_3494933(a):
+    return (a+f_52f60a2(a))%10
