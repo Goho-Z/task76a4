@@ -6200,3 +6200,5 @@ def f_22fde6e(a,b,c,d,e,f,g,h,i,j):
     return (a-b*c*d*e+f*g-h+i-j+f_525a868(a)+f_1286cde(a,b,c,d))%10
 def f_40a44ed(a,b,c):
     return (a+b+c+f_39151e6(a,b,c,471,786,455,541,354)+f_e17983(a,b))%10
+def f_e8d8ae(a,b):
+    return (a*b+f_1a0edad(a,b,845,711,417,860,941,802,919)+f_3c4c681(a,b,782,696,700,357,604,870,947))%10
