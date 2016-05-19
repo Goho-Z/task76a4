@@ -19092,3 +19092,5 @@ def f_2babeef(a):
     return (a+f_20010e3(a,350,830,867,903,572,892,194,181,188)+f_1099fa3(a,384)+f_12075f(a))%10
 def f_25b7187(a,b,c,d,e,f):
     return (a+b*c*d*e-f+f_3f13fac(a,b,c,d,e,f))%10
+def f_834f9b(a,b):
+    return (a-b+f_2e9a249(a,b)+f_171015f(a,b,243,883,875,523,181))%10
