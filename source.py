@@ -10024,3 +10024,5 @@ def f_1cafae3(a,b,c,d):
     return (a+b*c*d+f_2215996(a,b,c,d,894,278,745,603)+f_480c03(a,b))%10
 def f_292024c(a,b,c,d,e,f,g):
     return (a*b*c-d-e+f-g+f_3611f5(a,b)+f_51aff2e(a,b,c,d,e))%10
+def f_1465112(a,b,c,d,e,f):
+    return (a-b*c*d*e+f+f_1e77fa5(a,b,c,d,e,f,342,757))%10
