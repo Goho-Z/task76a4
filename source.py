@@ -1944,3 +1944,5 @@ def f_263e33b(a):
     return (a+f_acee6b(a,426,720,203,572,134,96)+f_461efc8(a,245,692,150,491,82,811,932)+f_37ff134(a,837,716,699,405,276,333,205))%10
 def f_5f19f8e(a,b,c,d,e,f,g):
     return (a+b+c+d*e-f+g+f_90c07b(a,b,c,d,e)+f_2f4cb1c(a,b,c,d,e)+f_3656ab8(a,b,c,d))%10
+def f_2c65d9c(a,b,c,d,e,f,g,h,i,j):
+    return (a-b+c-d*e+f-g*h*i+j+f_477b1bc(a,b,c,d,e,f,g,h,i))%10
