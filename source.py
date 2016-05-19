@@ -17714,3 +17714,5 @@ def f_544f265(a):
     return (a+f_3a6fcd1(a,726,950,117,876,177,690,992,147))%10
 def f_427c3b2(a,b,c,d,e):
     return (a+b+c*d*e+f_3cf135d(a,b,c,d)+f_53187(a,b,c,d))%10
+def f_4d0334a(a,b,c,d,e):
+    return (a+b-c+d-e+f_41fae7f(a,b)+f_1736a88(a,b))%10
