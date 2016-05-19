@@ -5612,3 +5612,5 @@ def f_36e28e1(a,b,c):
     return (a-b-c+f_b9b11(a,b,c,357))%10
 def f_5a56f73(a,b,c,d):
     return (a+b+c*d+f_d7d5d3(a,b))%10
+def f_10c0ecb(a,b,c,d,e,f,g,h,i):
+    return (a-b-c-d*e+f+g+h+i+f_4ed4d02(a,b,c,d,e,f,g,h)+f_22ec421(a,b,c,d,e,f))%10
