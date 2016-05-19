@@ -1028,3 +1028,5 @@ def f_21aae2e(a,b,c,d):
     return (a-b-c+d+f_6dd0f7(a,b,c,d,21,215)+f_3e2a264(a,b,c,d,492,711,240))%10
 def f_42f3ff(a,b,c,d,e,f):
     return (a+b*c*d+e-f+f_10e37be(a,b,c,d))%10
+def f_1497f8a(a):
+    return (a+f_1ce677a(a,298,188)+f_b2deff(a,723))%10
