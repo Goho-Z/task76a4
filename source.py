@@ -16732,3 +16732,5 @@ def f_4b9bcd(a):
     return (a+f_ceac8(a,830,482,57)+f_2d19d16(a,904,515,930,886,17))%10
 def f_160d5d8(a):
     return (a+f_11b008c(a,101,425,51,478))%10
+def f_1a6f8de(a,b,c):
+    return (a-b*c+f_1a963f1(a))%10
