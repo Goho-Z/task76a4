@@ -8,3 +8,5 @@ def f_5e65c19(a,b,c):
     return (a-b-c+f_404f934(a,b,c))%10
 def f_3e77575(a,b,c,d,e,f,g,h,i,j):
     return (a*b+c*d-e*f-g+h+i+j+f_404f934(a,b,c)+f_404f934(a,b,c))%10
+def f_11e6a4f(a,b,c,d,e,f):
+    return (a-b-c-d-e+f+f_4829a46(a,b)+f_4829a46(a,b)+f_3fc2849(a,b,c,d,e,f))%10
