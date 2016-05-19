@@ -19992,3 +19992,5 @@ def f_93fa8f(a,b,c,d,e,f,g,h,i):
     return (a+b+c-d*e*f-g*h+i+f_305bfb6(a,b,c,d,e,f,g,h,i,241)+f_4d33aec(a)+f_e5051b(a,b,c,d,e,f,g,h))%10
 def f_5d66d5e(a,b,c,d,e,f):
     return (a+b*c+d*e-f+f_293597f(a,b,c))%10
+def f_5d5077b(a,b,c,d,e,f,g):
+    return (a*b-c+d-e+f*g+f_3496a88(a))%10
