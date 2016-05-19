@@ -18106,3 +18106,5 @@ def f_cd12f4(a):
     return (a+f_25c5671(a,95,121,391,147,467)+f_37dae7e(a,379,574,157,447,796,18,88,48,866)+f_2a569e8(a,354,227,629))%10
 def f_2c118f9(a,b,c,d,e,f,g):
     return (a*b*c*d*e*f-g+f_16f9259(a,b,c,d,e,f))%10
+def f_357c757(a,b,c):
+    return (a*b+c+f_1ec11e0(a))%10
