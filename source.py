@@ -16172,3 +16172,5 @@ def f_fe7e52(a,b):
     return (a*b+f_3d0c7f7(a,b))%10
 def f_ae0dd0(a,b):
     return (a-b+f_d781d3(a,b,962,279,968,124,877,513))%10
+def f_20601(a,b,c,d,e,f,g):
+    return (a*b+c+d+e*f*g+f_21c3c24(a,b,c))%10
