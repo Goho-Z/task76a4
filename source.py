@@ -7854,3 +7854,5 @@ def f_386acce(a,b,c,d):
     return (a+b*c-d+f_402d7bb(a,b,c,d,770,310,861,404,710)+f_20148(a,b,c,d,57,481,187,863,558,502)+f_2ea7a07(a))%10
 def f_3eb42ae(a,b,c,d,e,f,g,h):
     return (a-b+c-d*e+f*g*h+f_1926a31(a,b,c,d,e))%10
+def f_4b050a9(a,b):
+    return (a-b+f_1c0a1a(a,b,168)+f_30c6acc(a,b,778,625,142,329)+f_241cdd5(a,b,464))%10
