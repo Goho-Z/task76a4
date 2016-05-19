@@ -9562,3 +9562,5 @@ def f_20adfab(a,b,c,d,e,f,g,h):
     return (a*b+c*d-e-f+g+h+f_2c65d9c(a,b,c,d,e,f,g,h,726,340))%10
 def f_25da24a(a,b,c):
     return (a-b*c+f_1b35e5d(a,b,c,189,474,616,130))%10
+def f_5019c35(a):
+    return (a+f_1554b36(a,496,660,153,257,875,574,727)+f_3baeede(a,365,236,413,10,902,191,629,724))%10
