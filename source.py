@@ -10552,3 +10552,5 @@ def f_3103117(a,b,c):
     return (a-b*c+f_11c5ac5(a,b,c))%10
 def f_3e766a3(a):
     return (a+f_59fe21(a,922,263))%10
+def f_1d55171(a,b):
+    return (a-b+f_3b7575e(a)+f_40b14a2(a,b,906,711,444,726,308))%10
