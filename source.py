@@ -14262,3 +14262,5 @@ def f_2cbdc20(a,b,c,d,e):
     return (a-b-c-d+e+f_1d0a127(a,b)+f_5934ded(a))%10
 def f_f0cc2f(a,b,c,d,e,f,g,h):
     return (a*b+c*d*e-f*g+h+f_3fa7349(a,b,c,d,e,f,g,h,329)+f_2563bb4(a,b,c,d,e))%10
+def f_5ecc260(a,b):
+    return (a+b+f_2dd5008(a,b,920))%10
