@@ -12510,3 +12510,5 @@ def f_4ed9c85(a,b,c,d,e,f,g,h):
     return (a+b+c+d-e-f-g+h+f_4deb07d(a,b,c,d,e,f,g,h,136,467)+f_4fca43c(a,b,c,d,e,f))%10
 def f_5910667(a,b,c,d,e,f,g,h,i):
     return (a*b+c*d-e+f*g-h-i+f_2b923e0(a,b)+f_497b3b6(a,b)+f_54c786d(a,b,c,d,e,f,g,h))%10
+def f_295401b(a,b,c,d):
+    return (a-b+c-d+f_4761d43(a,b))%10
