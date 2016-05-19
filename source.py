@@ -4362,3 +4362,5 @@ def f_35559fa(a,b):
     return (a-b+f_274ed1(a,b,864,960,542,285,981))%10
 def f_281c9db(a,b,c,d,e,f,g,h,i,j):
     return (a*b+c*d-e-f*g+h*i-j+f_1c9a1c5(a,b,c,d,e,f,g,h,i)+f_3370a3a(a,b,c,d)+f_25680cd(a,b,c,d,e,f,g,h))%10
+def f_5c146c4(a,b,c):
+    return (a+b+c+f_1853977(a,b,c,159))%10
