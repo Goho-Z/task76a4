@@ -1974,3 +1974,5 @@ def f_553f93c(a,b):
     return (a*b+f_15a801b(a,b,131))%10
 def f_5e16a8(a,b,c,d,e):
     return (a-b-c*d*e+f_44057e9(a,b)+f_1883b09(a,b,c,d,e))%10
+def f_38bea3(a,b,c,d,e,f,g,h,i,j):
+    return (a-b-c-d*e*f+g-h*i*j+f_3d40505(a)+f_4aecd47(a,b,c,d,e,f,g,h))%10
