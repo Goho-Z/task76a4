@@ -2006,3 +2006,5 @@ def f_5c4c4c9(a,b):
     return (a+b+f_41370d7(a,b,845)+f_4b44dda(a,b,90,962,786,861,725))%10
 def f_66f0be(a,b):
     return (a-b+f_48e7b28(a,b,234)+f_3db47ef(a,b,876,660))%10
+def f_a5ef64(a,b,c,d,e):
+    return (a*b+c+d+e+f_4043c26(a)+f_52cf15e(a,b,c,d,e,485,30,948,85,192))%10
