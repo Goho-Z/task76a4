@@ -11892,3 +11892,5 @@ def f_59a551f(a):
     return (a+f_5cca3af(a,551)+f_446e0a4(a,817,157,60,263,730,109,409,324,497))%10
 def f_3fbf946(a):
     return (a+f_12d673(a)+f_3babb6f(a,780,582,666,129,210,908,434))%10
+def f_3908f75(a,b,c,d,e,f,g):
+    return (a-b-c+d+e+f-g+f_420899c(a,b,c,d)+f_4759f2b(a,b,c,d,e)+f_589f720(a,b,c,d,e,f,g,274))%10
