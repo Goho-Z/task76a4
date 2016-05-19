@@ -1586,3 +1586,5 @@ def f_2ba56(a):
     return (a+f_1a0edad(a,999,125,329,881,266,196,256,704))%10
 def f_4976556(a,b,c,d,e,f,g,h):
     return (a*b+c+d-e*f*g*h+f_33b809e(a,b,c,d))%10
+def f_4aef340(a,b,c):
+    return (a-b*c+f_225d8ca(a,b,c))%10
