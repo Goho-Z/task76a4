@@ -5692,3 +5692,5 @@ def f_35095da(a,b,c,d,e,f,g,h,i,j):
     return (a*b-c-d-e-f*g*h-i+j+f_5a8d25f(a)+f_27e5639(a,b,c,d,e,f,g))%10
 def f_2839a91(a):
     return (a+f_1884086(a,159,293))%10
+def f_3a42e29(a,b,c,d,e,f,g,h,i,j):
+    return (a*b-c*d-e*f+g*h-i*j+f_58e443e(a,b,c,d,e,f,g,h,i)+f_49401cc(a,b,c,d,e,f,g))%10
