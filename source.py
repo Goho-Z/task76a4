@@ -7968,3 +7968,5 @@ def f_213cdae(a):
     return (a+f_41296e2(a,225,646,249,852,758)+f_1399b76(a,260))%10
 def f_4e1fdfb(a,b,c,d):
     return (a+b+c+d+f_3aabc1d(a,b,c))%10
+def f_514551d(a,b):
+    return (a+b+f_152c97(a,b,566,239,94,639,471))%10
