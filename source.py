@@ -2238,3 +2238,5 @@ def f_16129bf(a,b,c,d,e,f,g,h):
     return (a-b*c*d+e-f+g-h+f_5b60850(a,b,c,d,e,f,g,h,453,347)+f_1a0edad(a,b,c,d,e,f,g,h,59))%10
 def f_ba2e05(a):
     return (a+f_1a5d76b(a))%10
+def f_4c55fc5(a,b,c,d,e,f):
+    return (a-b-c-d-e*f+f_274b42a(a,b,c,d,e,f,430,728)+f_1d778ea(a,b)+f_16c1907(a,b,c,d,e,f,640))%10
