@@ -19876,3 +19876,5 @@ def f_1c6de1b(a,b,c,d):
     return (a*b*c*d+f_18ada11(a))%10
 def f_1fffb65(a,b,c,d,e,f,g,h,i,j):
     return (a*b+c+d+e*f-g+h*i+j+f_1f4a9c3(a,b,c,d,e,f,g,h)+f_2728e2e(a,b))%10
+def f_2de6db2(a,b,c,d,e,f,g,h,i,j):
+    return (a*b*c-d-e-f+g-h*i-j+f_1d97cca(a,b,c,d,e,f,g)+f_30c15e6(a,b,c,d,e,f,g,h))%10
