@@ -9552,3 +9552,5 @@ def f_383a76(a):
     return (a+f_2e90990(a,965,32,680,555,17,944,385,305)+f_43f93f7(a,820,189))%10
 def f_3882b28(a,b,c,d):
     return (a-b*c*d+f_3ac1c22(a))%10
+def f_5dcf89e(a,b,c,d,e,f,g,h,i,j):
+    return (a-b+c-d*e+f+g*h-i*j+f_114fbd0(a,b,c)+f_94ec8(a,b,c,d,e,f,g)+f_33504c(a,b,c,d,e,f,g,h,i,j))%10
