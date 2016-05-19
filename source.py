@@ -280,3 +280,5 @@ def f_5b1da69(a,b,c,d,e):
     return (a*b+c*d+e+f_5a33a53(a,b))%10
 def f_38c990e(a,b,c):
     return (a-b*c+f_4b80977(a,b,c,784,787,816))%10
+def f_3af46d9(a,b,c,d,e,f,g,h):
+    return (a-b*c-d+e+f+g-h+f_342de1c(a,b,c))%10
