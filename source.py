@@ -6722,3 +6722,5 @@ def f_17551db(a,b,c):
     return (a-b+c+f_f87234(a,b,c,21,919,770,701,224))%10
 def f_4f3e912(a,b,c,d,e):
     return (a-b*c+d-e+f_10e9592(a,b,c,d,e,685,439,688,676)+f_4ed02f3(a,b,c,d,e,546,640,180))%10
+def f_3e9454b(a,b):
+    return (a-b+f_581337d(a,b))%10
