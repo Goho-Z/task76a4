@@ -2040,3 +2040,5 @@ def f_23da67b(a,b,c,d,e,f,g):
     return (a+b+c+d+e+f+g+f_4eb2186(a,b)+f_36188c3(a)+f_14f6c14(a,b,c,d))%10
 def f_23ed44c(a,b,c,d,e,f,g,h,i,j):
     return (a+b-c*d-e+f+g-h*i+j+f_71ec6b(a,b,c,d,e,f,g,h,i,j))%10
+def f_246319f(a):
+    return (a+f_59f0423(a,344)+f_3ac60d6(a,930)+f_5accc7d(a,30))%10
