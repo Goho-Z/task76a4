@@ -18312,3 +18312,5 @@ def f_4b3dd21(a,b,c,d,e,f,g,h,i):
     return (a+b-c*d-e*f*g+h+i+f_54e0386(a,b,c))%10
 def f_19a1d8f(a,b,c,d,e,f,g):
     return (a*b*c*d+e+f-g+f_2a03f4a(a)+f_36d6554(a,b,c,d,e))%10
+def f_a4028c(a,b,c,d,e):
+    return (a+b-c*d+e+f_38188b3(a,b,c,d,e))%10
