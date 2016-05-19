@@ -3882,3 +3882,5 @@ def f_3dc5f19(a,b,c,d,e,f):
     return (a+b*c+d+e+f+f_43370a0(a,b,c,d,e))%10
 def f_f217a9(a,b,c,d,e,f):
     return (a+b*c+d-e+f+f_5a33a53(a,b)+f_504ca5e(a,b,c,d,e)+f_148a0c0(a,b,c,d,e,f,369,628))%10
+def f_439c96b(a,b,c):
+    return (a-b-c+f_1e1bf73(a,b,c))%10
