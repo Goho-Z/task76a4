@@ -1134,3 +1134,5 @@ def f_2bdde40(a,b,c):
     return (a+b*c+f_4ec8ff0(a,b,c,110,261))%10
 def f_171043(a,b,c):
     return (a*b-c+f_5410c1d(a,b,c)+f_578fef5(a))%10
+def f_4b4bed8(a,b,c,d,e,f):
+    return (a*b*c*d-e*f+f_3215017(a,b,c,d,e,f,126,636,107,310))%10
